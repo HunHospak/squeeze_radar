@@ -1,0 +1,95 @@
+{
+  "service": "squeeze_radar",
+  "schema_version": "1.0",
+  "generated_at": "2026-07-07T10:37:23+00:00",
+  "status": "active",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": "2026-07-06",
+    "universe_size": 4,
+    "squeeze_score": [
+      {
+        "ticker": "GME",
+        "score": 87.5,
+        "short_ratio_pct": 70.0
+      },
+      {
+        "ticker": "NVDA",
+        "score": 58.3,
+        "short_ratio_pct": 20.0
+      },
+      {
+        "ticker": "AMC",
+        "score": 54.2,
+        "short_ratio_pct": 33.3
+      },
+      {
+        "ticker": "AAPL",
+        "score": 0.0,
+        "short_ratio_pct": 5.0
+      }
+    ],
+    "short_volume_ratio": [
+      {
+        "ticker": "GME",
+        "ratio_pct": 70.0
+      },
+      {
+        "ticker": "AMC",
+        "ratio_pct": 33.3
+      },
+      {
+        "ticker": "NVDA",
+        "ratio_pct": 20.0
+      },
+      {
+        "ticker": "AAPL",
+        "ratio_pct": 5.0
+      }
+    ],
+    "largest_short_volume": [
+      {
+        "ticker": "NVDA",
+        "short_volume": 8000000,
+        "short_volume_m": 8.0
+      },
+      {
+        "ticker": "GME",
+        "short_volume": 4200000,
+        "short_volume_m": 4.2
+      },
+      {
+        "ticker": "AMC",
+        "short_volume": 3000000,
+        "short_volume_m": 3.0
+      },
+      {
+        "ticker": "AAPL",
+        "short_volume": 1000000,
+        "short_volume_m": 1.0
+      }
+    ],
+    "most_shorted": [],
+    "off_exchange": [],
+    "by_ticker": {
+      "GME": {
+        "squeeze_score": 87.5,
+        "short_ratio_pct": 70.0
+      },
+      "AMC": {
+        "squeeze_score": 54.2,
+        "short_ratio_pct": 33.3
+      },
+      "AAPL": {
+        "squeeze_score": 0.0,
+        "short_ratio_pct": 5.0
+      },
+      "NVDA": {
+        "squeeze_score": 58.3,
+        "short_ratio_pct": 20.0
+      }
+    },
+    "disclaimer": "x"
+  },
+  "notes": "Derived from FINRA daily consolidated short-sale volume. Bi-monthly short interest % and off-exchange share are planned additions."
+}

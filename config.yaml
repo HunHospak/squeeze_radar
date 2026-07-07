@@ -1,0 +1,22 @@
+service: squeeze_radar
+schema_version: "1.0"
+ttl_hours: 30
+
+# FINRA consolidated daily short-sale volume (free, no key). We walk back a few days
+# to find the most recent published file (skips weekends/holidays).
+finra_daily_url: "https://cdn.finra.org/equity/regsho/daily/CNMSshvol{date}.txt"
+max_lookback_days: 6
+
+# Liquidity floor: ignore symbols with tiny consolidated volume (noise / illiquid).
+min_total_volume: 500000
+top_n: 25
+
+# Optional universe restriction. Empty = every symbol in the file above the volume floor.
+universe: []
+
+# Composite squeeze-pressure weights (percentile blend, 0-100).
+weights:
+  short_ratio: 1.0            # short volume / total volume (today's selling pressure)
+  short_volume_magnitude: 0.6 # absolute short volume (crowdedness)
+
+feed_url: "https://HunHospak.github.io/squeeze_radar/squeeze_radar.json"

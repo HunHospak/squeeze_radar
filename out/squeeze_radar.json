@@ -1,0 +1,19 @@
+{
+  "service": "squeeze_radar",
+  "schema_version": "1.0",
+  "generated_at": "2026-07-07T10:37:39+00:00",
+  "status": "unavailable",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": null,
+    "universe_size": 0,
+    "squeeze_score": [],
+    "short_volume_ratio": [],
+    "largest_short_volume": [],
+    "most_shorted": [],
+    "off_exchange": [],
+    "by_ticker": {},
+    "disclaimer": "Short-selling activity from regulatory data. Informational only, not investment advice."
+  },
+  "notes": "No FINRA short-volume rows above the liquidity floor."
+}
