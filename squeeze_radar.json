@@ -1,0 +1,8521 @@
+{
+  "service": "squeeze_radar",
+  "schema_version": "1.0",
+  "generated_at": "2026-07-07T11:30:40+00:00",
+  "status": "active",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": "2026-07-06",
+    "universe_size": 2037,
+    "squeeze_score": [
+      {
+        "ticker": "EFV",
+        "score": 99.0,
+        "short_ratio_pct": 94.9
+      },
+      {
+        "ticker": "SPYM",
+        "score": 98.7,
+        "short_ratio_pct": 84.3
+      },
+      {
+        "ticker": "BNS",
+        "score": 98.5,
+        "short_ratio_pct": 96.6
+      },
+      {
+        "ticker": "DFGP",
+        "score": 98.2,
+        "short_ratio_pct": 98.7
+      },
+      {
+        "ticker": "SES",
+        "score": 97.9,
+        "short_ratio_pct": 83.6
+      },
+      {
+        "ticker": "GOVT",
+        "score": 97.5,
+        "short_ratio_pct": 82.7
+      },
+      {
+        "ticker": "SCHX",
+        "score": 97.3,
+        "short_ratio_pct": 80.0
+      },
+      {
+        "ticker": "USHY",
+        "score": 97.1,
+        "short_ratio_pct": 87.6
+      },
+      {
+        "ticker": "SCHF",
+        "score": 96.7,
+        "short_ratio_pct": 81.8
+      },
+      {
+        "ticker": "IDEV",
+        "score": 95.9,
+        "short_ratio_pct": 92.9
+      },
+      {
+        "ticker": "MRNA",
+        "score": 95.7,
+        "short_ratio_pct": 76.5
+      },
+      {
+        "ticker": "JAAA",
+        "score": 95.4,
+        "short_ratio_pct": 77.4
+      },
+      {
+        "ticker": "RWT",
+        "score": 95.4,
+        "short_ratio_pct": 83.0
+      },
+      {
+        "ticker": "AVTR",
+        "score": 94.7,
+        "short_ratio_pct": 83.3
+      },
+      {
+        "ticker": "EWG",
+        "score": 94.7,
+        "short_ratio_pct": 93.9
+      },
+      {
+        "ticker": "BND",
+        "score": 94.4,
+        "short_ratio_pct": 72.4
+      },
+      {
+        "ticker": "XLB",
+        "score": 94.2,
+        "short_ratio_pct": 73.0
+      },
+      {
+        "ticker": "PYLD",
+        "score": 93.8,
+        "short_ratio_pct": 78.6
+      },
+      {
+        "ticker": "AVEM",
+        "score": 93.7,
+        "short_ratio_pct": 84.7
+      },
+      {
+        "ticker": "EEM",
+        "score": 93.1,
+        "short_ratio_pct": 69.8
+      },
+      {
+        "ticker": "SCHE",
+        "score": 92.9,
+        "short_ratio_pct": 81.6
+      },
+      {
+        "ticker": "RIG",
+        "score": 92.8,
+        "short_ratio_pct": 69.0
+      },
+      {
+        "ticker": "BSP",
+        "score": 92.7,
+        "short_ratio_pct": 77.3
+      },
+      {
+        "ticker": "CABA",
+        "score": 92.7,
+        "short_ratio_pct": 72.9
+      },
+      {
+        "ticker": "VXUS",
+        "score": 92.5,
+        "short_ratio_pct": 71.8
+      }
+    ],
+    "short_volume_ratio": [
+      {
+        "ticker": "JHCR",
+        "ratio_pct": 99.3
+      },
+      {
+        "ticker": "DFGP",
+        "ratio_pct": 98.7
+      },
+      {
+        "ticker": "JUCY",
+        "ratio_pct": 98.4
+      },
+      {
+        "ticker": "GFLW",
+        "ratio_pct": 97.8
+      },
+      {
+        "ticker": "HFSI",
+        "ratio_pct": 97.5
+      },
+      {
+        "ticker": "DEED",
+        "ratio_pct": 96.8
+      },
+      {
+        "ticker": "BNS",
+        "ratio_pct": 96.6
+      },
+      {
+        "ticker": "EFV",
+        "ratio_pct": 94.9
+      },
+      {
+        "ticker": "EWG",
+        "ratio_pct": 93.9
+      },
+      {
+        "ticker": "IDEV",
+        "ratio_pct": 92.9
+      },
+      {
+        "ticker": "TSPA",
+        "ratio_pct": 91.2
+      },
+      {
+        "ticker": "PMT",
+        "ratio_pct": 88.0
+      },
+      {
+        "ticker": "BKDV",
+        "ratio_pct": 87.8
+      },
+      {
+        "ticker": "USHY",
+        "ratio_pct": 87.6
+      },
+      {
+        "ticker": "FLKR",
+        "ratio_pct": 87.6
+      },
+      {
+        "ticker": "IYF",
+        "ratio_pct": 87.6
+      },
+      {
+        "ticker": "PAR",
+        "ratio_pct": 87.4
+      },
+      {
+        "ticker": "CARY",
+        "ratio_pct": 87.3
+      },
+      {
+        "ticker": "SPTS",
+        "ratio_pct": 87.1
+      },
+      {
+        "ticker": "SCHC",
+        "ratio_pct": 86.1
+      },
+      {
+        "ticker": "PVAL",
+        "ratio_pct": 85.5
+      },
+      {
+        "ticker": "DYN",
+        "ratio_pct": 85.4
+      },
+      {
+        "ticker": "FELC",
+        "ratio_pct": 85.2
+      },
+      {
+        "ticker": "SPSM",
+        "ratio_pct": 85.1
+      },
+      {
+        "ticker": "BAB",
+        "ratio_pct": 84.9
+      }
+    ],
+    "largest_short_volume": [
+      {
+        "ticker": "BITO",
+        "short_volume": 166374726,
+        "short_volume_m": 166.37
+      },
+      {
+        "ticker": "SBEV",
+        "short_volume": 112927544,
+        "short_volume_m": 112.93
+      },
+      {
+        "ticker": "SOXS",
+        "short_volume": 106129715,
+        "short_volume_m": 106.13
+      },
+      {
+        "ticker": "TZA",
+        "short_volume": 62328295,
+        "short_volume_m": 62.33
+      },
+      {
+        "ticker": "LUCY",
+        "short_volume": 55144853,
+        "short_volume_m": 55.14
+      },
+      {
+        "ticker": "AAL",
+        "short_volume": 41992070,
+        "short_volume_m": 41.99
+      },
+      {
+        "ticker": "KIDZ",
+        "short_volume": 40710636,
+        "short_volume_m": 40.71
+      },
+      {
+        "ticker": "BMNU",
+        "short_volume": 33887572,
+        "short_volume_m": 33.89
+      },
+      {
+        "ticker": "SOFI",
+        "short_volume": 30413383,
+        "short_volume_m": 30.41
+      },
+      {
+        "ticker": "MSTU",
+        "short_volume": 28149730,
+        "short_volume_m": 28.15
+      },
+      {
+        "ticker": "OPEN",
+        "short_volume": 27821920,
+        "short_volume_m": 27.82
+      },
+      {
+        "ticker": "AMC",
+        "short_volume": 25417234,
+        "short_volume_m": 25.42
+      },
+      {
+        "ticker": "SPCX",
+        "short_volume": 23670381,
+        "short_volume_m": 23.67
+      },
+      {
+        "ticker": "YHC",
+        "short_volume": 21274377,
+        "short_volume_m": 21.27
+      },
+      {
+        "ticker": "ONDS",
+        "short_volume": 20327794,
+        "short_volume_m": 20.33
+      },
+      {
+        "ticker": "GPUS",
+        "short_volume": 19942246,
+        "short_volume_m": 19.94
+      },
+      {
+        "ticker": "PATH",
+        "short_volume": 19824904,
+        "short_volume_m": 19.82
+      },
+      {
+        "ticker": "JOBY",
+        "short_volume": 18009441,
+        "short_volume_m": 18.01
+      },
+      {
+        "ticker": "LHSW",
+        "short_volume": 16075808,
+        "short_volume_m": 16.08
+      },
+      {
+        "ticker": "JBLU",
+        "short_volume": 15727833,
+        "short_volume_m": 15.73
+      },
+      {
+        "ticker": "T",
+        "short_volume": 14668463,
+        "short_volume_m": 14.67
+      },
+      {
+        "ticker": "HL",
+        "short_volume": 14378818,
+        "short_volume_m": 14.38
+      },
+      {
+        "ticker": "BYND",
+        "short_volume": 14131282,
+        "short_volume_m": 14.13
+      },
+      {
+        "ticker": "F",
+        "short_volume": 14110218,
+        "short_volume_m": 14.11
+      },
+      {
+        "ticker": "DAMD",
+        "short_volume": 13501352,
+        "short_volume_m": 13.5
+      }
+    ],
+    "most_shorted": [],
+    "off_exchange": [],
+    "by_ticker": {
+      "A": {
+        "squeeze_score": 54.8,
+        "short_ratio_pct": 57.3
+      },
+      "AA": {
+        "squeeze_score": 67.7,
+        "short_ratio_pct": 53.6
+      },
+      "AAL": {
+        "squeeze_score": 49.5,
+        "short_ratio_pct": 36.2
+      },
+      "AAOI": {
+        "squeeze_score": 45.3,
+        "short_ratio_pct": 40.3
+      },
+      "AAOX": {
+        "squeeze_score": 43.1,
+        "short_ratio_pct": 41.9
+      },
+      "AAP": {
+        "squeeze_score": 86.1,
+        "short_ratio_pct": 81.0
+      },
+      "AAPD": {
+        "squeeze_score": 46.7,
+        "short_ratio_pct": 40.7
+      },
+      "AAPL": {
+        "squeeze_score": 60.7,
+        "short_ratio_pct": 45.7
+      },
+      "ABAT": {
+        "squeeze_score": 41.9,
+        "short_ratio_pct": 41.8
+      },
+      "ABBV": {
+        "squeeze_score": 58.8,
+        "short_ratio_pct": 50.3
+      },
+      "ABCL": {
+        "squeeze_score": 77.5,
+        "short_ratio_pct": 59.6
+      },
+      "ABEV": {
+        "squeeze_score": 66.1,
+        "short_ratio_pct": 48.9
+      },
+      "ABNB": {
+        "squeeze_score": 42.8,
+        "short_ratio_pct": 50.1
+      },
+      "ABR": {
+        "squeeze_score": 90.9,
+        "short_ratio_pct": 72.8
+      },
+      "ABSI": {
+        "squeeze_score": 52.3,
+        "short_ratio_pct": 47.4
+      },
+      "ABT": {
+        "squeeze_score": 60.2,
+        "short_ratio_pct": 47.2
+      },
+      "ABTC": {
+        "squeeze_score": 48.2,
+        "short_ratio_pct": 50.1
+      },
+      "ABUS": {
+        "squeeze_score": 57.4,
+        "short_ratio_pct": 53.9
+      },
+      "ABVX": {
+        "squeeze_score": 15.5,
+        "short_ratio_pct": 37.6
+      },
+      "ACB": {
+        "squeeze_score": 53.5,
+        "short_ratio_pct": 52.8
+      },
+      "ACGL": {
+        "squeeze_score": 38.2,
+        "short_ratio_pct": 49.8
+      },
+      "ACHC": {
+        "squeeze_score": 52.5,
+        "short_ratio_pct": 53.6
+      },
+      "ACHR": {
+        "squeeze_score": 41.9,
+        "short_ratio_pct": 29.1
+      },
+      "ACHV": {
+        "squeeze_score": 62.4,
+        "short_ratio_pct": 65.9
+      },
+      "ACI": {
+        "squeeze_score": 63.1,
+        "short_ratio_pct": 53.6
+      },
+      "ACIW": {
+        "squeeze_score": 54.6,
+        "short_ratio_pct": 61.3
+      },
+      "ACM": {
+        "squeeze_score": 25.3,
+        "short_ratio_pct": 44.3
+      },
+      "ACMR": {
+        "squeeze_score": 51.8,
+        "short_ratio_pct": 58.2
+      },
+      "ACN": {
+        "squeeze_score": 36.6,
+        "short_ratio_pct": 36.3
+      },
+      "ACVA": {
+        "squeeze_score": 40.2,
+        "short_ratio_pct": 47.6
+      },
+      "ACWI": {
+        "squeeze_score": 14.0,
+        "short_ratio_pct": 23.3
+      },
+      "ACWX": {
+        "squeeze_score": 2.2,
+        "short_ratio_pct": 18.5
+      },
+      "ACYN": {
+        "squeeze_score": 76.4,
+        "short_ratio_pct": 65.2
+      },
+      "ADBE": {
+        "squeeze_score": 59.4,
+        "short_ratio_pct": 51.6
+      },
+      "ADBG": {
+        "squeeze_score": 63.4,
+        "short_ratio_pct": 51.6
+      },
+      "ADI": {
+        "squeeze_score": 31.7,
+        "short_ratio_pct": 38.5
+      },
+      "ADM": {
+        "squeeze_score": 80.1,
+        "short_ratio_pct": 71.1
+      },
+      "ADMA": {
+        "squeeze_score": 40.7,
+        "short_ratio_pct": 46.1
+      },
+      "ADP": {
+        "squeeze_score": 36.8,
+        "short_ratio_pct": 49.6
+      },
+      "ADPT": {
+        "squeeze_score": 62.1,
+        "short_ratio_pct": 58.1
+      },
+      "ADSK": {
+        "squeeze_score": 64.5,
+        "short_ratio_pct": 67.8
+      },
+      "ADT": {
+        "squeeze_score": 72.2,
+        "short_ratio_pct": 56.3
+      },
+      "AEG": {
+        "squeeze_score": 35.8,
+        "short_ratio_pct": 34.8
+      },
+      "AEHR": {
+        "squeeze_score": 52.1,
+        "short_ratio_pct": 52.5
+      },
+      "AEM": {
+        "squeeze_score": 30.5,
+        "short_ratio_pct": 41.0
+      },
+      "AEO": {
+        "squeeze_score": 58.5,
+        "short_ratio_pct": 52.0
+      },
+      "AEP": {
+        "squeeze_score": 29.4,
+        "short_ratio_pct": 28.6
+      },
+      "AES": {
+        "squeeze_score": 57.0,
+        "short_ratio_pct": 47.6
+      },
+      "AESI": {
+        "squeeze_score": 72.6,
+        "short_ratio_pct": 62.5
+      },
+      "AESP": {
+        "squeeze_score": 5.3,
+        "short_ratio_pct": 24.7
+      },
+      "AEVA": {
+        "squeeze_score": 8.1,
+        "short_ratio_pct": 30.2
+      },
+      "AFRM": {
+        "squeeze_score": 18.5,
+        "short_ratio_pct": 27.4
+      },
+      "AG": {
+        "squeeze_score": 57.7,
+        "short_ratio_pct": 46.2
+      },
+      "AGG": {
+        "squeeze_score": 66.3,
+        "short_ratio_pct": 51.8
+      },
+      "AGI": {
+        "squeeze_score": 12.9,
+        "short_ratio_pct": 30.0
+      },
+      "AGNC": {
+        "squeeze_score": 55.4,
+        "short_ratio_pct": 43.0
+      },
+      "AGNT": {
+        "squeeze_score": 53.7,
+        "short_ratio_pct": 59.4
+      },
+      "AGQ": {
+        "squeeze_score": 26.4,
+        "short_ratio_pct": 42.2
+      },
+      "AHR": {
+        "squeeze_score": 8.3,
+        "short_ratio_pct": 25.7
+      },
+      "AI": {
+        "squeeze_score": 47.0,
+        "short_ratio_pct": 45.1
+      },
+      "AIFC": {
+        "squeeze_score": 39.5,
+        "short_ratio_pct": 51.2
+      },
+      "AIG": {
+        "squeeze_score": 48.0,
+        "short_ratio_pct": 48.1
+      },
+      "AIIO": {
+        "squeeze_score": 57.1,
+        "short_ratio_pct": 58.5
+      },
+      "AIQ": {
+        "squeeze_score": 17.9,
+        "short_ratio_pct": 35.8
+      },
+      "AIS": {
+        "squeeze_score": 74.4,
+        "short_ratio_pct": 71.5
+      },
+      "AJG": {
+        "squeeze_score": 66.0,
+        "short_ratio_pct": 66.3
+      },
+      "AKAM": {
+        "squeeze_score": 60.7,
+        "short_ratio_pct": 52.8
+      },
+      "AKBA": {
+        "squeeze_score": 46.5,
+        "short_ratio_pct": 40.1
+      },
+      "ALAB": {
+        "squeeze_score": 56.4,
+        "short_ratio_pct": 51.1
+      },
+      "ALAR": {
+        "squeeze_score": 48.9,
+        "short_ratio_pct": 48.2
+      },
+      "ALB": {
+        "squeeze_score": 52.7,
+        "short_ratio_pct": 58.9
+      },
+      "ALC": {
+        "squeeze_score": 82.0,
+        "short_ratio_pct": 75.8
+      },
+      "ALGM": {
+        "squeeze_score": 69.8,
+        "short_ratio_pct": 58.2
+      },
+      "ALHC": {
+        "squeeze_score": 36.8,
+        "short_ratio_pct": 40.8
+      },
+      "ALIT": {
+        "squeeze_score": 51.2,
+        "short_ratio_pct": 58.8
+      },
+      "ALK": {
+        "squeeze_score": 68.9,
+        "short_ratio_pct": 63.5
+      },
+      "ALKS": {
+        "squeeze_score": 35.4,
+        "short_ratio_pct": 47.4
+      },
+      "ALLE": {
+        "squeeze_score": 77.5,
+        "short_ratio_pct": 82.5
+      },
+      "ALLO": {
+        "squeeze_score": 69.4,
+        "short_ratio_pct": 52.5
+      },
+      "ALLY": {
+        "squeeze_score": 28.4,
+        "short_ratio_pct": 46.3
+      },
+      "ALM": {
+        "squeeze_score": 69.1,
+        "short_ratio_pct": 54.7
+      },
+      "ALMS": {
+        "squeeze_score": 24.7,
+        "short_ratio_pct": 43.8
+      },
+      "ALOY": {
+        "squeeze_score": 78.5,
+        "short_ratio_pct": 65.6
+      },
+      "ALP": {
+        "squeeze_score": 25.2,
+        "short_ratio_pct": 42.9
+      },
+      "ALT": {
+        "squeeze_score": 74.3,
+        "short_ratio_pct": 59.8
+      },
+      "ALTO": {
+        "squeeze_score": 65.5,
+        "short_ratio_pct": 62.8
+      },
+      "ALXO": {
+        "squeeze_score": 12.0,
+        "short_ratio_pct": 34.8
+      },
+      "AM": {
+        "squeeze_score": 53.5,
+        "short_ratio_pct": 56.6
+      },
+      "AMAT": {
+        "squeeze_score": 30.4,
+        "short_ratio_pct": 28.6
+      },
+      "AMBA": {
+        "squeeze_score": 39.8,
+        "short_ratio_pct": 47.9
+      },
+      "AMBP": {
+        "squeeze_score": 27.2,
+        "short_ratio_pct": 43.8
+      },
+      "AMC": {
+        "squeeze_score": 68.7,
+        "short_ratio_pct": 50.0
+      },
+      "AMCR": {
+        "squeeze_score": 78.7,
+        "short_ratio_pct": 74.4
+      },
+      "AMD": {
+        "squeeze_score": 67.2,
+        "short_ratio_pct": 49.8
+      },
+      "AMDD": {
+        "squeeze_score": 61.6,
+        "short_ratio_pct": 46.5
+      },
+      "AMDL": {
+        "squeeze_score": 48.4,
+        "short_ratio_pct": 46.3
+      },
+      "AMGN": {
+        "squeeze_score": 76.7,
+        "short_ratio_pct": 71.9
+      },
+      "AMKR": {
+        "squeeze_score": 63.2,
+        "short_ratio_pct": 52.3
+      },
+      "AMLP": {
+        "squeeze_score": 57.4,
+        "short_ratio_pct": 61.4
+      },
+      "AMLX": {
+        "squeeze_score": 16.9,
+        "short_ratio_pct": 38.3
+      },
+      "AMPG": {
+        "squeeze_score": 12.9,
+        "short_ratio_pct": 27.1
+      },
+      "AMPL": {
+        "squeeze_score": 23.2,
+        "short_ratio_pct": 39.3
+      },
+      "AMPX": {
+        "squeeze_score": 51.3,
+        "short_ratio_pct": 45.0
+      },
+      "AMRX": {
+        "squeeze_score": 35.1,
+        "short_ratio_pct": 48.5
+      },
+      "AMRZ": {
+        "squeeze_score": 14.4,
+        "short_ratio_pct": 35.6
+      },
+      "AMT": {
+        "squeeze_score": 24.8,
+        "short_ratio_pct": 33.6
+      },
+      "AMTM": {
+        "squeeze_score": 39.2,
+        "short_ratio_pct": 48.4
+      },
+      "AMX": {
+        "squeeze_score": 75.8,
+        "short_ratio_pct": 76.8
+      },
+      "AMZD": {
+        "squeeze_score": 71.5,
+        "short_ratio_pct": 52.9
+      },
+      "AMZE": {
+        "squeeze_score": 43.9,
+        "short_ratio_pct": 40.9
+      },
+      "AMZN": {
+        "squeeze_score": 40.9,
+        "short_ratio_pct": 29.4
+      },
+      "AMZU": {
+        "squeeze_score": 74.9,
+        "short_ratio_pct": 67.8
+      },
+      "ANET": {
+        "squeeze_score": 65.5,
+        "short_ratio_pct": 51.4
+      },
+      "ANGX": {
+        "squeeze_score": 62.0,
+        "short_ratio_pct": 62.1
+      },
+      "ANNX": {
+        "squeeze_score": 24.6,
+        "short_ratio_pct": 27.5
+      },
+      "AOS": {
+        "squeeze_score": 69.8,
+        "short_ratio_pct": 68.9
+      },
+      "APA": {
+        "squeeze_score": 80.8,
+        "short_ratio_pct": 67.0
+      },
+      "APD": {
+        "squeeze_score": 47.9,
+        "short_ratio_pct": 56.4
+      },
+      "APG": {
+        "squeeze_score": 76.8,
+        "short_ratio_pct": 67.7
+      },
+      "APGE": {
+        "squeeze_score": 1.8,
+        "short_ratio_pct": 18.0
+      },
+      "APH": {
+        "squeeze_score": 45.0,
+        "short_ratio_pct": 41.2
+      },
+      "APLD": {
+        "squeeze_score": 73.1,
+        "short_ratio_pct": 54.4
+      },
+      "APLE": {
+        "squeeze_score": 34.0,
+        "short_ratio_pct": 46.5
+      },
+      "APO": {
+        "squeeze_score": 38.9,
+        "short_ratio_pct": 41.3
+      },
+      "APP": {
+        "squeeze_score": 50.8,
+        "short_ratio_pct": 42.4
+      },
+      "APPS": {
+        "squeeze_score": 31.2,
+        "short_ratio_pct": 31.6
+      },
+      "APTV": {
+        "squeeze_score": 82.2,
+        "short_ratio_pct": 73.6
+      },
+      "AQN": {
+        "squeeze_score": 83.9,
+        "short_ratio_pct": 66.7
+      },
+      "AQST": {
+        "squeeze_score": 40.0,
+        "short_ratio_pct": 50.6
+      },
+      "AR": {
+        "squeeze_score": 11.8,
+        "short_ratio_pct": 25.3
+      },
+      "ARBE": {
+        "squeeze_score": 28.5,
+        "short_ratio_pct": 42.4
+      },
+      "ARCC": {
+        "squeeze_score": 66.3,
+        "short_ratio_pct": 54.6
+      },
+      "ARCO": {
+        "squeeze_score": 9.5,
+        "short_ratio_pct": 28.8
+      },
+      "ARDX": {
+        "squeeze_score": 66.1,
+        "short_ratio_pct": 56.9
+      },
+      "AREC": {
+        "squeeze_score": 57.5,
+        "short_ratio_pct": 52.7
+      },
+      "ARES": {
+        "squeeze_score": 76.8,
+        "short_ratio_pct": 70.0
+      },
+      "ARI": {
+        "squeeze_score": 51.5,
+        "short_ratio_pct": 49.9
+      },
+      "ARKB": {
+        "squeeze_score": 17.9,
+        "short_ratio_pct": 39.4
+      },
+      "ARKG": {
+        "squeeze_score": 74.2,
+        "short_ratio_pct": 64.5
+      },
+      "ARKK": {
+        "squeeze_score": 65.5,
+        "short_ratio_pct": 57.6
+      },
+      "ARM": {
+        "squeeze_score": 77.2,
+        "short_ratio_pct": 60.9
+      },
+      "ARMK": {
+        "squeeze_score": 26.5,
+        "short_ratio_pct": 44.8
+      },
+      "AROC": {
+        "squeeze_score": 40.7,
+        "short_ratio_pct": 50.6
+      },
+      "ARQT": {
+        "squeeze_score": 2.1,
+        "short_ratio_pct": 20.6
+      },
+      "ARR": {
+        "squeeze_score": 73.8,
+        "short_ratio_pct": 62.1
+      },
+      "ARRY": {
+        "squeeze_score": 75.0,
+        "short_ratio_pct": 59.5
+      },
+      "ARWR": {
+        "squeeze_score": 30.9,
+        "short_ratio_pct": 42.3
+      },
+      "AS": {
+        "squeeze_score": 29.6,
+        "short_ratio_pct": 38.5
+      },
+      "ASAN": {
+        "squeeze_score": 72.7,
+        "short_ratio_pct": 59.0
+      },
+      "ASB": {
+        "squeeze_score": 67.8,
+        "short_ratio_pct": 66.1
+      },
+      "ASHR": {
+        "squeeze_score": 66.9,
+        "short_ratio_pct": 59.7
+      },
+      "ASM": {
+        "squeeze_score": 46.1,
+        "short_ratio_pct": 48.9
+      },
+      "ASML": {
+        "squeeze_score": 10.9,
+        "short_ratio_pct": 33.3
+      },
+      "ASO": {
+        "squeeze_score": 67.0,
+        "short_ratio_pct": 67.8
+      },
+      "ASPI": {
+        "squeeze_score": 66.4,
+        "short_ratio_pct": 57.4
+      },
+      "ASST": {
+        "squeeze_score": 47.0,
+        "short_ratio_pct": 45.3
+      },
+      "ASTN": {
+        "squeeze_score": 32.5,
+        "short_ratio_pct": 41.6
+      },
+      "ASTS": {
+        "squeeze_score": 73.7,
+        "short_ratio_pct": 55.4
+      },
+      "ASTX": {
+        "squeeze_score": 63.2,
+        "short_ratio_pct": 52.3
+      },
+      "ASX": {
+        "squeeze_score": 50.9,
+        "short_ratio_pct": 44.9
+      },
+      "ATAI": {
+        "squeeze_score": 65.3,
+        "short_ratio_pct": 50.0
+      },
+      "ATCH": {
+        "squeeze_score": 42.5,
+        "short_ratio_pct": 50.4
+      },
+      "ATEC": {
+        "squeeze_score": 60.0,
+        "short_ratio_pct": 55.7
+      },
+      "ATYR": {
+        "squeeze_score": 1.9,
+        "short_ratio_pct": 17.5
+      },
+      "AU": {
+        "squeeze_score": 62.2,
+        "short_ratio_pct": 57.6
+      },
+      "AUPH": {
+        "squeeze_score": 30.2,
+        "short_ratio_pct": 46.2
+      },
+      "AUR": {
+        "squeeze_score": 77.1,
+        "short_ratio_pct": 56.3
+      },
+      "AUTL": {
+        "squeeze_score": 3.6,
+        "short_ratio_pct": 24.4
+      },
+      "AVAH": {
+        "squeeze_score": 18.6,
+        "short_ratio_pct": 34.2
+      },
+      "AVAV": {
+        "squeeze_score": 60.0,
+        "short_ratio_pct": 54.9
+      },
+      "AVDE": {
+        "squeeze_score": 71.6,
+        "short_ratio_pct": 66.1
+      },
+      "AVDV": {
+        "squeeze_score": 3.4,
+        "short_ratio_pct": 7.0
+      },
+      "AVEM": {
+        "squeeze_score": 93.7,
+        "short_ratio_pct": 84.7
+      },
+      "AVEX": {
+        "squeeze_score": 37.9,
+        "short_ratio_pct": 49.3
+      },
+      "AVGO": {
+        "squeeze_score": 44.6,
+        "short_ratio_pct": 34.9
+      },
+      "AVLV": {
+        "squeeze_score": 86.0,
+        "short_ratio_pct": 82.2
+      },
+      "AVNT": {
+        "squeeze_score": 69.4,
+        "short_ratio_pct": 70.1
+      },
+      "AVO": {
+        "squeeze_score": 22.4,
+        "short_ratio_pct": 36.7
+      },
+      "AVPT": {
+        "squeeze_score": 43.9,
+        "short_ratio_pct": 54.1
+      },
+      "AVR": {
+        "squeeze_score": 58.4,
+        "short_ratio_pct": 54.4
+      },
+      "AVS": {
+        "squeeze_score": 49.9,
+        "short_ratio_pct": 41.7
+      },
+      "AVTR": {
+        "squeeze_score": 94.7,
+        "short_ratio_pct": 83.3
+      },
+      "AVTX": {
+        "squeeze_score": 69.3,
+        "short_ratio_pct": 66.0
+      },
+      "AVUV": {
+        "squeeze_score": 76.9,
+        "short_ratio_pct": 75.6
+      },
+      "AVXX": {
+        "squeeze_score": 34.5,
+        "short_ratio_pct": 49.5
+      },
+      "AWK": {
+        "squeeze_score": 12.5,
+        "short_ratio_pct": 22.7
+      },
+      "AXGN": {
+        "squeeze_score": 76.0,
+        "short_ratio_pct": 80.2
+      },
+      "AXP": {
+        "squeeze_score": 40.9,
+        "short_ratio_pct": 45.3
+      },
+      "AXTI": {
+        "squeeze_score": 35.2,
+        "short_ratio_pct": 29.2
+      },
+      "AXTX": {
+        "squeeze_score": 45.4,
+        "short_ratio_pct": 45.1
+      },
+      "AZN": {
+        "squeeze_score": 61.4,
+        "short_ratio_pct": 61.9
+      },
+      "AZTR": {
+        "squeeze_score": 10.0,
+        "short_ratio_pct": 31.9
+      },
+      "B": {
+        "squeeze_score": 55.8,
+        "short_ratio_pct": 47.1
+      },
+      "BA": {
+        "squeeze_score": 36.5,
+        "short_ratio_pct": 35.7
+      },
+      "BAB": {
+        "squeeze_score": 76.9,
+        "short_ratio_pct": 84.9
+      },
+      "BABA": {
+        "squeeze_score": 53.8,
+        "short_ratio_pct": 44.4
+      },
+      "BAC": {
+        "squeeze_score": 56.3,
+        "short_ratio_pct": 43.6
+      },
+      "BAH": {
+        "squeeze_score": 1.1,
+        "short_ratio_pct": 14.6
+      },
+      "BAI": {
+        "squeeze_score": 70.1,
+        "short_ratio_pct": 60.4
+      },
+      "BAK": {
+        "squeeze_score": 40.2,
+        "short_ratio_pct": 47.9
+      },
+      "BALL": {
+        "squeeze_score": 30.8,
+        "short_ratio_pct": 41.2
+      },
+      "BAM": {
+        "squeeze_score": 28.3,
+        "short_ratio_pct": 44.7
+      },
+      "BATL": {
+        "squeeze_score": 69.2,
+        "short_ratio_pct": 52.9
+      },
+      "BAX": {
+        "squeeze_score": 90.1,
+        "short_ratio_pct": 82.7
+      },
+      "BB": {
+        "squeeze_score": 35.7,
+        "short_ratio_pct": 23.5
+      },
+      "BBAI": {
+        "squeeze_score": 49.4,
+        "short_ratio_pct": 37.4
+      },
+      "BBBY": {
+        "squeeze_score": 82.2,
+        "short_ratio_pct": 71.6
+      },
+      "BBD": {
+        "squeeze_score": 44.8,
+        "short_ratio_pct": 33.1
+      },
+      "BBIO": {
+        "squeeze_score": 79.6,
+        "short_ratio_pct": 65.4
+      },
+      "BBVA": {
+        "squeeze_score": 14.0,
+        "short_ratio_pct": 36.3
+      },
+      "BBWI": {
+        "squeeze_score": 76.5,
+        "short_ratio_pct": 62.7
+      },
+      "BBY": {
+        "squeeze_score": 22.6,
+        "short_ratio_pct": 33.8
+      },
+      "BCE": {
+        "squeeze_score": 48.9,
+        "short_ratio_pct": 46.8
+      },
+      "BCI": {
+        "squeeze_score": 32.9,
+        "short_ratio_pct": 48.8
+      },
+      "BCRX": {
+        "squeeze_score": 45.9,
+        "short_ratio_pct": 44.3
+      },
+      "BCS": {
+        "squeeze_score": 29.7,
+        "short_ratio_pct": 38.1
+      },
+      "BDN": {
+        "squeeze_score": 50.9,
+        "short_ratio_pct": 54.9
+      },
+      "BDX": {
+        "squeeze_score": 66.5,
+        "short_ratio_pct": 69.7
+      },
+      "BE": {
+        "squeeze_score": 41.9,
+        "short_ratio_pct": 35.2
+      },
+      "BEAM": {
+        "squeeze_score": 72.0,
+        "short_ratio_pct": 62.6
+      },
+      "BEKE": {
+        "squeeze_score": 84.9,
+        "short_ratio_pct": 76.0
+      },
+      "BEN": {
+        "squeeze_score": 56.6,
+        "short_ratio_pct": 53.6
+      },
+      "BEPC": {
+        "squeeze_score": 69.4,
+        "short_ratio_pct": 72.6
+      },
+      "BETA": {
+        "squeeze_score": 32.0,
+        "short_ratio_pct": 48.4
+      },
+      "BEZ": {
+        "squeeze_score": 14.6,
+        "short_ratio_pct": 36.7
+      },
+      "BF/B": {
+        "squeeze_score": 64.8,
+        "short_ratio_pct": 57.8
+      },
+      "BFLY": {
+        "squeeze_score": 58.7,
+        "short_ratio_pct": 46.0
+      },
+      "BFRI": {
+        "squeeze_score": 0.7,
+        "short_ratio_pct": 12.0
+      },
+      "BGC": {
+        "squeeze_score": 63.6,
+        "short_ratio_pct": 58.5
+      },
+      "BGM": {
+        "squeeze_score": 69.2,
+        "short_ratio_pct": 52.9
+      },
+      "BGS": {
+        "squeeze_score": 78.3,
+        "short_ratio_pct": 70.3
+      },
+      "BHC": {
+        "squeeze_score": 52.9,
+        "short_ratio_pct": 53.2
+      },
+      "BHP": {
+        "squeeze_score": 84.0,
+        "short_ratio_pct": 83.7
+      },
+      "BHVN": {
+        "squeeze_score": 26.5,
+        "short_ratio_pct": 42.8
+      },
+      "BIDU": {
+        "squeeze_score": 61.9,
+        "short_ratio_pct": 65.4
+      },
+      "BIL": {
+        "squeeze_score": 43.7,
+        "short_ratio_pct": 32.9
+      },
+      "BILI": {
+        "squeeze_score": 61.7,
+        "short_ratio_pct": 63.3
+      },
+      "BILL": {
+        "squeeze_score": 66.4,
+        "short_ratio_pct": 67.2
+      },
+      "BINC": {
+        "squeeze_score": 14.4,
+        "short_ratio_pct": 34.3
+      },
+      "BIP": {
+        "squeeze_score": 19.1,
+        "short_ratio_pct": 38.9
+      },
+      "BIRK": {
+        "squeeze_score": 45.4,
+        "short_ratio_pct": 54.6
+      },
+      "BITI": {
+        "squeeze_score": 42.8,
+        "short_ratio_pct": 53.3
+      },
+      "BITO": {
+        "squeeze_score": 91.5,
+        "short_ratio_pct": 66.1
+      },
+      "BITU": {
+        "squeeze_score": 65.8,
+        "short_ratio_pct": 53.0
+      },
+      "BITX": {
+        "squeeze_score": 86.1,
+        "short_ratio_pct": 65.2
+      },
+      "BIV": {
+        "squeeze_score": 77.3,
+        "short_ratio_pct": 69.2
+      },
+      "BIYA": {
+        "squeeze_score": 42.3,
+        "short_ratio_pct": 40.3
+      },
+      "BIZD": {
+        "squeeze_score": 41.1,
+        "short_ratio_pct": 38.1
+      },
+      "BJ": {
+        "squeeze_score": 3.9,
+        "short_ratio_pct": 25.0
+      },
+      "BJDX": {
+        "squeeze_score": 73.5,
+        "short_ratio_pct": 53.4
+      },
+      "BKD": {
+        "squeeze_score": 40.3,
+        "short_ratio_pct": 44.7
+      },
+      "BKDV": {
+        "squeeze_score": 77.1,
+        "short_ratio_pct": 87.8
+      },
+      "BKLN": {
+        "squeeze_score": 49.1,
+        "short_ratio_pct": 39.3
+      },
+      "BKNG": {
+        "squeeze_score": 64.9,
+        "short_ratio_pct": 55.9
+      },
+      "BKR": {
+        "squeeze_score": 34.7,
+        "short_ratio_pct": 27.6
+      },
+      "BKSY": {
+        "squeeze_score": 33.6,
+        "short_ratio_pct": 49.2
+      },
+      "BLDP": {
+        "squeeze_score": 49.3,
+        "short_ratio_pct": 44.6
+      },
+      "BLDR": {
+        "squeeze_score": 41.7,
+        "short_ratio_pct": 49.7
+      },
+      "BLMN": {
+        "squeeze_score": 68.8,
+        "short_ratio_pct": 65.8
+      },
+      "BLND": {
+        "squeeze_score": 17.9,
+        "short_ratio_pct": 38.8
+      },
+      "BLSH": {
+        "squeeze_score": 58.6,
+        "short_ratio_pct": 63.4
+      },
+      "BLZE": {
+        "squeeze_score": 20.5,
+        "short_ratio_pct": 37.4
+      },
+      "BMBL": {
+        "squeeze_score": 56.5,
+        "short_ratio_pct": 57.8
+      },
+      "BMNG": {
+        "squeeze_score": 17.4,
+        "short_ratio_pct": 39.7
+      },
+      "BMNR": {
+        "squeeze_score": 61.3,
+        "short_ratio_pct": 46.2
+      },
+      "BMNU": {
+        "squeeze_score": 65.2,
+        "short_ratio_pct": 47.8
+      },
+      "BMRN": {
+        "squeeze_score": 76.1,
+        "short_ratio_pct": 70.5
+      },
+      "BMY": {
+        "squeeze_score": 73.1,
+        "short_ratio_pct": 57.9
+      },
+      "BN": {
+        "squeeze_score": 29.1,
+        "short_ratio_pct": 35.7
+      },
+      "BND": {
+        "squeeze_score": 94.4,
+        "short_ratio_pct": 72.4
+      },
+      "BNDX": {
+        "squeeze_score": 87.3,
+        "short_ratio_pct": 65.0
+      },
+      "BNL": {
+        "squeeze_score": 83.1,
+        "short_ratio_pct": 77.4
+      },
+      "BNS": {
+        "squeeze_score": 98.5,
+        "short_ratio_pct": 96.6
+      },
+      "BNY": {
+        "squeeze_score": 17.9,
+        "short_ratio_pct": 30.4
+      },
+      "BOIL": {
+        "squeeze_score": 60.2,
+        "short_ratio_pct": 56.7
+      },
+      "BORR": {
+        "squeeze_score": 76.8,
+        "short_ratio_pct": 61.5
+      },
+      "BOT": {
+        "squeeze_score": 31.9,
+        "short_ratio_pct": 47.7
+      },
+      "BOX": {
+        "squeeze_score": 43.8,
+        "short_ratio_pct": 51.7
+      },
+      "BOXX": {
+        "squeeze_score": 52.4,
+        "short_ratio_pct": 45.0
+      },
+      "BP": {
+        "squeeze_score": 22.2,
+        "short_ratio_pct": 15.8
+      },
+      "BPRE": {
+        "squeeze_score": 1.7,
+        "short_ratio_pct": 19.4
+      },
+      "BRBR": {
+        "squeeze_score": 29.9,
+        "short_ratio_pct": 33.8
+      },
+      "BRK/B": {
+        "squeeze_score": 42.1,
+        "short_ratio_pct": 45.0
+      },
+      "BRKR": {
+        "squeeze_score": 75.3,
+        "short_ratio_pct": 64.2
+      },
+      "BRO": {
+        "squeeze_score": 55.1,
+        "short_ratio_pct": 54.3
+      },
+      "BROS": {
+        "squeeze_score": 38.5,
+        "short_ratio_pct": 42.6
+      },
+      "BRSP": {
+        "squeeze_score": 73.6,
+        "short_ratio_pct": 72.2
+      },
+      "BRUN": {
+        "squeeze_score": 60.9,
+        "short_ratio_pct": 58.3
+      },
+      "BRX": {
+        "squeeze_score": 18.6,
+        "short_ratio_pct": 40.3
+      },
+      "BSBR": {
+        "squeeze_score": 2.9,
+        "short_ratio_pct": 21.6
+      },
+      "BSCQ": {
+        "squeeze_score": 57.8,
+        "short_ratio_pct": 57.4
+      },
+      "BSIN": {
+        "squeeze_score": 65.3,
+        "short_ratio_pct": 57.2
+      },
+      "BSOL": {
+        "squeeze_score": 36.2,
+        "short_ratio_pct": 37.6
+      },
+      "BSP": {
+        "squeeze_score": 92.7,
+        "short_ratio_pct": 77.3
+      },
+      "BSV": {
+        "squeeze_score": 86.0,
+        "short_ratio_pct": 70.3
+      },
+      "BSX": {
+        "squeeze_score": 37.3,
+        "short_ratio_pct": 28.3
+      },
+      "BSY": {
+        "squeeze_score": 49.3,
+        "short_ratio_pct": 50.0
+      },
+      "BTAI": {
+        "squeeze_score": 89.8,
+        "short_ratio_pct": 69.7
+      },
+      "BTBT": {
+        "squeeze_score": 42.9,
+        "short_ratio_pct": 32.2
+      },
+      "BTC": {
+        "squeeze_score": 68.8,
+        "short_ratio_pct": 64.1
+      },
+      "BTCT": {
+        "squeeze_score": 33.6,
+        "short_ratio_pct": 46.1
+      },
+      "BTCZ": {
+        "squeeze_score": 59.2,
+        "short_ratio_pct": 45.2
+      },
+      "BTDR": {
+        "squeeze_score": 39.6,
+        "short_ratio_pct": 35.7
+      },
+      "BTE": {
+        "squeeze_score": 85.7,
+        "short_ratio_pct": 62.5
+      },
+      "BTG": {
+        "squeeze_score": 80.3,
+        "short_ratio_pct": 58.9
+      },
+      "BTI": {
+        "squeeze_score": 72.0,
+        "short_ratio_pct": 64.7
+      },
+      "BTQ": {
+        "squeeze_score": 71.1,
+        "short_ratio_pct": 60.0
+      },
+      "BTSG": {
+        "squeeze_score": 83.4,
+        "short_ratio_pct": 68.8
+      },
+      "BTU": {
+        "squeeze_score": 74.2,
+        "short_ratio_pct": 65.6
+      },
+      "BUD": {
+        "squeeze_score": 68.9,
+        "short_ratio_pct": 64.0
+      },
+      "BUFR": {
+        "squeeze_score": 73.9,
+        "short_ratio_pct": 70.7
+      },
+      "BULL": {
+        "squeeze_score": 43.1,
+        "short_ratio_pct": 38.1
+      },
+      "BUR": {
+        "squeeze_score": 53.1,
+        "short_ratio_pct": 52.8
+      },
+      "BURU": {
+        "squeeze_score": 66.7,
+        "short_ratio_pct": 49.2
+      },
+      "BVS": {
+        "squeeze_score": 50.1,
+        "short_ratio_pct": 55.6
+      },
+      "BW": {
+        "squeeze_score": 17.0,
+        "short_ratio_pct": 24.9
+      },
+      "BWA": {
+        "squeeze_score": 30.7,
+        "short_ratio_pct": 42.9
+      },
+      "BX": {
+        "squeeze_score": 78.4,
+        "short_ratio_pct": 65.9
+      },
+      "BXDC": {
+        "squeeze_score": 5.2,
+        "short_ratio_pct": 26.5
+      },
+      "BXP": {
+        "squeeze_score": 70.5,
+        "short_ratio_pct": 71.6
+      },
+      "BXSL": {
+        "squeeze_score": 66.8,
+        "short_ratio_pct": 57.0
+      },
+      "BYAH": {
+        "squeeze_score": 66.1,
+        "short_ratio_pct": 55.7
+      },
+      "BYND": {
+        "squeeze_score": 84.3,
+        "short_ratio_pct": 60.6
+      },
+      "BZ": {
+        "squeeze_score": 36.2,
+        "short_ratio_pct": 44.4
+      },
+      "BZAI": {
+        "squeeze_score": 46.0,
+        "short_ratio_pct": 47.9
+      },
+      "C": {
+        "squeeze_score": 33.2,
+        "short_ratio_pct": 30.1
+      },
+      "CABA": {
+        "squeeze_score": 92.7,
+        "short_ratio_pct": 72.9
+      },
+      "CADL": {
+        "squeeze_score": 62.4,
+        "short_ratio_pct": 65.8
+      },
+      "CAG": {
+        "squeeze_score": 80.2,
+        "short_ratio_pct": 59.3
+      },
+      "CAH": {
+        "squeeze_score": 7.0,
+        "short_ratio_pct": 24.3
+      },
+      "CAI": {
+        "squeeze_score": 18.9,
+        "short_ratio_pct": 35.2
+      },
+      "CAKE": {
+        "squeeze_score": 57.7,
+        "short_ratio_pct": 62.6
+      },
+      "CALY": {
+        "squeeze_score": 56.3,
+        "short_ratio_pct": 59.0
+      },
+      "CAN": {
+        "squeeze_score": 50.5,
+        "short_ratio_pct": 44.1
+      },
+      "CAPR": {
+        "squeeze_score": 36.7,
+        "short_ratio_pct": 47.1
+      },
+      "CARR": {
+        "squeeze_score": 12.8,
+        "short_ratio_pct": 18.0
+      },
+      "CART": {
+        "squeeze_score": 40.3,
+        "short_ratio_pct": 44.2
+      },
+      "CARY": {
+        "squeeze_score": 82.9,
+        "short_ratio_pct": 87.3
+      },
+      "CAT": {
+        "squeeze_score": 41.1,
+        "short_ratio_pct": 47.8
+      },
+      "CATX": {
+        "squeeze_score": 30.4,
+        "short_ratio_pct": 45.8
+      },
+      "CAVA": {
+        "squeeze_score": 50.9,
+        "short_ratio_pct": 48.5
+      },
+      "CB": {
+        "squeeze_score": 57.6,
+        "short_ratio_pct": 60.0
+      },
+      "CBOE": {
+        "squeeze_score": 16.0,
+        "short_ratio_pct": 37.7
+      },
+      "CBRE": {
+        "squeeze_score": 9.1,
+        "short_ratio_pct": 32.1
+      },
+      "CBRG": {
+        "squeeze_score": 42.6,
+        "short_ratio_pct": 40.1
+      },
+      "CBRS": {
+        "squeeze_score": 64.3,
+        "short_ratio_pct": 52.5
+      },
+      "CC": {
+        "squeeze_score": 40.5,
+        "short_ratio_pct": 46.5
+      },
+      "CCC": {
+        "squeeze_score": 58.8,
+        "short_ratio_pct": 48.6
+      },
+      "CCCC": {
+        "squeeze_score": 51.4,
+        "short_ratio_pct": 52.1
+      },
+      "CCEP": {
+        "squeeze_score": 64.2,
+        "short_ratio_pct": 66.6
+      },
+      "CCI": {
+        "squeeze_score": 67.4,
+        "short_ratio_pct": 58.2
+      },
+      "CCJ": {
+        "squeeze_score": 48.9,
+        "short_ratio_pct": 49.9
+      },
+      "CCL": {
+        "squeeze_score": 36.5,
+        "short_ratio_pct": 29.2
+      },
+      "CCO": {
+        "squeeze_score": 85.0,
+        "short_ratio_pct": 62.8
+      },
+      "CCTG": {
+        "squeeze_score": 46.3,
+        "short_ratio_pct": 43.6
+      },
+      "CCUP": {
+        "squeeze_score": 35.6,
+        "short_ratio_pct": 33.5
+      },
+      "CCXI": {
+        "squeeze_score": 49.3,
+        "short_ratio_pct": 42.2
+      },
+      "CDE": {
+        "squeeze_score": 59.1,
+        "short_ratio_pct": 44.8
+      },
+      "CDNS": {
+        "squeeze_score": 46.3,
+        "short_ratio_pct": 53.4
+      },
+      "CE": {
+        "squeeze_score": 56.0,
+        "short_ratio_pct": 61.3
+      },
+      "CEG": {
+        "squeeze_score": 41.7,
+        "short_ratio_pct": 44.4
+      },
+      "CELC": {
+        "squeeze_score": 68.3,
+        "short_ratio_pct": 71.8
+      },
+      "CELH": {
+        "squeeze_score": 89.9,
+        "short_ratio_pct": 68.4
+      },
+      "CELU": {
+        "squeeze_score": 29.9,
+        "short_ratio_pct": 45.2
+      },
+      "CENX": {
+        "squeeze_score": 67.0,
+        "short_ratio_pct": 63.6
+      },
+      "CERS": {
+        "squeeze_score": 40.6,
+        "short_ratio_pct": 42.0
+      },
+      "CERT": {
+        "squeeze_score": 68.8,
+        "short_ratio_pct": 57.8
+      },
+      "CF": {
+        "squeeze_score": 75.9,
+        "short_ratio_pct": 65.2
+      },
+      "CFG": {
+        "squeeze_score": 69.5,
+        "short_ratio_pct": 59.0
+      },
+      "CG": {
+        "squeeze_score": 41.5,
+        "short_ratio_pct": 47.0
+      },
+      "CGBL": {
+        "squeeze_score": 46.6,
+        "short_ratio_pct": 51.4
+      },
+      "CGC": {
+        "squeeze_score": 69.1,
+        "short_ratio_pct": 53.9
+      },
+      "CGCB": {
+        "squeeze_score": 5.2,
+        "short_ratio_pct": 25.9
+      },
+      "CGCP": {
+        "squeeze_score": 5.1,
+        "short_ratio_pct": 25.3
+      },
+      "CGCV": {
+        "squeeze_score": 0.5,
+        "short_ratio_pct": 6.4
+      },
+      "CGDV": {
+        "squeeze_score": 57.3,
+        "short_ratio_pct": 47.3
+      },
+      "CGGO": {
+        "squeeze_score": 37.6,
+        "short_ratio_pct": 48.2
+      },
+      "CGGR": {
+        "squeeze_score": 46.8,
+        "short_ratio_pct": 44.9
+      },
+      "CGHM": {
+        "squeeze_score": 77.6,
+        "short_ratio_pct": 80.2
+      },
+      "CGMS": {
+        "squeeze_score": 3.3,
+        "short_ratio_pct": 21.9
+      },
+      "CGMU": {
+        "squeeze_score": 31.1,
+        "short_ratio_pct": 45.4
+      },
+      "CGNG": {
+        "squeeze_score": 70.8,
+        "short_ratio_pct": 72.8
+      },
+      "CGNX": {
+        "squeeze_score": 71.6,
+        "short_ratio_pct": 64.6
+      },
+      "CGTX": {
+        "squeeze_score": 74.2,
+        "short_ratio_pct": 59.8
+      },
+      "CGUS": {
+        "squeeze_score": 28.9,
+        "short_ratio_pct": 45.9
+      },
+      "CGXU": {
+        "squeeze_score": 31.4,
+        "short_ratio_pct": 46.5
+      },
+      "CHD": {
+        "squeeze_score": 71.4,
+        "short_ratio_pct": 72.3
+      },
+      "CHGG": {
+        "squeeze_score": 1.8,
+        "short_ratio_pct": 17.6
+      },
+      "CHOW": {
+        "squeeze_score": 15.3,
+        "short_ratio_pct": 37.5
+      },
+      "CHRS": {
+        "squeeze_score": 6.5,
+        "short_ratio_pct": 25.8
+      },
+      "CHTR": {
+        "squeeze_score": 68.0,
+        "short_ratio_pct": 61.2
+      },
+      "CHWY": {
+        "squeeze_score": 70.3,
+        "short_ratio_pct": 55.4
+      },
+      "CHYM": {
+        "squeeze_score": 46.4,
+        "short_ratio_pct": 43.9
+      },
+      "CI": {
+        "squeeze_score": 9.4,
+        "short_ratio_pct": 30.7
+      },
+      "CIBR": {
+        "squeeze_score": 63.8,
+        "short_ratio_pct": 61.2
+      },
+      "CIEN": {
+        "squeeze_score": 47.1,
+        "short_ratio_pct": 55.4
+      },
+      "CIFR": {
+        "squeeze_score": 62.8,
+        "short_ratio_pct": 47.3
+      },
+      "CIG": {
+        "squeeze_score": 34.8,
+        "short_ratio_pct": 31.2
+      },
+      "CIK": {
+        "squeeze_score": 7.6,
+        "short_ratio_pct": 30.2
+      },
+      "CIRC": {
+        "squeeze_score": 53.3,
+        "short_ratio_pct": 49.2
+      },
+      "CL": {
+        "squeeze_score": 34.3,
+        "short_ratio_pct": 39.0
+      },
+      "CLBT": {
+        "squeeze_score": 57.3,
+        "short_ratio_pct": 58.1
+      },
+      "CLDI": {
+        "squeeze_score": 58.2,
+        "short_ratio_pct": 56.0
+      },
+      "CLF": {
+        "squeeze_score": 89.9,
+        "short_ratio_pct": 66.3
+      },
+      "CLM": {
+        "squeeze_score": 36.0,
+        "short_ratio_pct": 45.5
+      },
+      "CLNE": {
+        "squeeze_score": 37.5,
+        "short_ratio_pct": 48.2
+      },
+      "CLOA": {
+        "squeeze_score": 44.4,
+        "short_ratio_pct": 51.1
+      },
+      "CLOV": {
+        "squeeze_score": 45.2,
+        "short_ratio_pct": 40.1
+      },
+      "CLRO": {
+        "squeeze_score": 73.1,
+        "short_ratio_pct": 56.7
+      },
+      "CLS": {
+        "squeeze_score": 21.6,
+        "short_ratio_pct": 42.1
+      },
+      "CLSK": {
+        "squeeze_score": 49.1,
+        "short_ratio_pct": 39.6
+      },
+      "CLVT": {
+        "squeeze_score": 73.5,
+        "short_ratio_pct": 55.2
+      },
+      "CLX": {
+        "squeeze_score": 67.5,
+        "short_ratio_pct": 65.3
+      },
+      "CLYM": {
+        "squeeze_score": 81.7,
+        "short_ratio_pct": 73.2
+      },
+      "CMCSA": {
+        "squeeze_score": 60.1,
+        "short_ratio_pct": 45.6
+      },
+      "CME": {
+        "squeeze_score": 9.0,
+        "short_ratio_pct": 25.3
+      },
+      "CMG": {
+        "squeeze_score": 40.7,
+        "short_ratio_pct": 33.4
+      },
+      "CMII": {
+        "squeeze_score": 0.6,
+        "short_ratio_pct": 7.8
+      },
+      "CMPS": {
+        "squeeze_score": 61.7,
+        "short_ratio_pct": 55.1
+      },
+      "CMPX": {
+        "squeeze_score": 38.3,
+        "short_ratio_pct": 45.8
+      },
+      "CMS": {
+        "squeeze_score": 64.1,
+        "short_ratio_pct": 65.8
+      },
+      "CNC": {
+        "squeeze_score": 29.7,
+        "short_ratio_pct": 37.0
+      },
+      "CNH": {
+        "squeeze_score": 73.5,
+        "short_ratio_pct": 57.9
+      },
+      "CNK": {
+        "squeeze_score": 77.5,
+        "short_ratio_pct": 62.2
+      },
+      "CNM": {
+        "squeeze_score": 6.4,
+        "short_ratio_pct": 24.2
+      },
+      "CNP": {
+        "squeeze_score": 41.3,
+        "short_ratio_pct": 39.1
+      },
+      "CNQ": {
+        "squeeze_score": 21.8,
+        "short_ratio_pct": 35.2
+      },
+      "CNTX": {
+        "squeeze_score": 5.0,
+        "short_ratio_pct": 24.0
+      },
+      "CNXC": {
+        "squeeze_score": 48.7,
+        "short_ratio_pct": 52.4
+      },
+      "COF": {
+        "squeeze_score": 10.0,
+        "short_ratio_pct": 26.1
+      },
+      "COGT": {
+        "squeeze_score": 38.2,
+        "short_ratio_pct": 47.7
+      },
+      "COHR": {
+        "squeeze_score": 55.4,
+        "short_ratio_pct": 50.5
+      },
+      "COIN": {
+        "squeeze_score": 49.3,
+        "short_ratio_pct": 43.6
+      },
+      "COLB": {
+        "squeeze_score": 25.8,
+        "short_ratio_pct": 43.2
+      },
+      "COLD": {
+        "squeeze_score": 52.2,
+        "short_ratio_pct": 46.1
+      },
+      "COMP": {
+        "squeeze_score": 50.4,
+        "short_ratio_pct": 40.6
+      },
+      "CONL": {
+        "squeeze_score": 38.5,
+        "short_ratio_pct": 27.9
+      },
+      "COO": {
+        "squeeze_score": 70.1,
+        "short_ratio_pct": 62.6
+      },
+      "COP": {
+        "squeeze_score": 45.0,
+        "short_ratio_pct": 44.5
+      },
+      "COPX": {
+        "squeeze_score": 64.1,
+        "short_ratio_pct": 58.6
+      },
+      "COR": {
+        "squeeze_score": 79.7,
+        "short_ratio_pct": 76.2
+      },
+      "CORD": {
+        "squeeze_score": 36.2,
+        "short_ratio_pct": 47.6
+      },
+      "CORZ": {
+        "squeeze_score": 37.9,
+        "short_ratio_pct": 33.8
+      },
+      "COSM": {
+        "squeeze_score": 77.4,
+        "short_ratio_pct": 56.3
+      },
+      "COST": {
+        "squeeze_score": 34.9,
+        "short_ratio_pct": 47.0
+      },
+      "COTY": {
+        "squeeze_score": 83.9,
+        "short_ratio_pct": 62.3
+      },
+      "COUR": {
+        "squeeze_score": 38.5,
+        "short_ratio_pct": 37.7
+      },
+      "COWZ": {
+        "squeeze_score": 1.5,
+        "short_ratio_pct": 17.9
+      },
+      "CP": {
+        "squeeze_score": 39.6,
+        "short_ratio_pct": 52.2
+      },
+      "CPB": {
+        "squeeze_score": 79.8,
+        "short_ratio_pct": 62.8
+      },
+      "CPNG": {
+        "squeeze_score": 50.1,
+        "short_ratio_pct": 39.5
+      },
+      "CPOP": {
+        "squeeze_score": 49.6,
+        "short_ratio_pct": 42.2
+      },
+      "CPRI": {
+        "squeeze_score": 56.4,
+        "short_ratio_pct": 56.2
+      },
+      "CPRT": {
+        "squeeze_score": 36.6,
+        "short_ratio_pct": 31.9
+      },
+      "CRBG": {
+        "squeeze_score": 28.8,
+        "short_ratio_pct": 39.9
+      },
+      "CRCA": {
+        "squeeze_score": 2.4,
+        "short_ratio_pct": 22.2
+      },
+      "CRCD": {
+        "squeeze_score": 39.5,
+        "short_ratio_pct": 52.2
+      },
+      "CRCG": {
+        "squeeze_score": 59.2,
+        "short_ratio_pct": 52.0
+      },
+      "CRCL": {
+        "squeeze_score": 55.6,
+        "short_ratio_pct": 44.5
+      },
+      "CRDO": {
+        "squeeze_score": 24.7,
+        "short_ratio_pct": 23.1
+      },
+      "CRE": {
+        "squeeze_score": 51.2,
+        "short_ratio_pct": 56.1
+      },
+      "CRF": {
+        "squeeze_score": 33.4,
+        "short_ratio_pct": 49.1
+      },
+      "CRGY": {
+        "squeeze_score": 79.5,
+        "short_ratio_pct": 64.4
+      },
+      "CRH": {
+        "squeeze_score": 5.2,
+        "short_ratio_pct": 16.5
+      },
+      "CRK": {
+        "squeeze_score": 73.3,
+        "short_ratio_pct": 68.7
+      },
+      "CRM": {
+        "squeeze_score": 48.2,
+        "short_ratio_pct": 41.6
+      },
+      "CRMG": {
+        "squeeze_score": 30.9,
+        "short_ratio_pct": 35.4
+      },
+      "CRML": {
+        "squeeze_score": 79.9,
+        "short_ratio_pct": 65.4
+      },
+      "CRNX": {
+        "squeeze_score": 52.6,
+        "short_ratio_pct": 56.8
+      },
+      "CRSP": {
+        "squeeze_score": 56.1,
+        "short_ratio_pct": 55.6
+      },
+      "CRSR": {
+        "squeeze_score": 32.2,
+        "short_ratio_pct": 46.1
+      },
+      "CRTO": {
+        "squeeze_score": 61.0,
+        "short_ratio_pct": 57.4
+      },
+      "CRWD": {
+        "squeeze_score": 59.7,
+        "short_ratio_pct": 47.5
+      },
+      "CRWU": {
+        "squeeze_score": 9.7,
+        "short_ratio_pct": 29.1
+      },
+      "CRWV": {
+        "squeeze_score": 64.3,
+        "short_ratio_pct": 48.6
+      },
+      "CSCO": {
+        "squeeze_score": 33.4,
+        "short_ratio_pct": 27.0
+      },
+      "CSGP": {
+        "squeeze_score": 28.8,
+        "short_ratio_pct": 29.0
+      },
+      "CSIQ": {
+        "squeeze_score": 36.9,
+        "short_ratio_pct": 47.5
+      },
+      "CSTM": {
+        "squeeze_score": 2.3,
+        "short_ratio_pct": 21.3
+      },
+      "CSX": {
+        "squeeze_score": 66.8,
+        "short_ratio_pct": 52.5
+      },
+      "CTAS": {
+        "squeeze_score": 27.6,
+        "short_ratio_pct": 43.8
+      },
+      "CTMX": {
+        "squeeze_score": 56.5,
+        "short_ratio_pct": 55.7
+      },
+      "CTRE": {
+        "squeeze_score": 22.7,
+        "short_ratio_pct": 39.4
+      },
+      "CTSH": {
+        "squeeze_score": 48.4,
+        "short_ratio_pct": 42.2
+      },
+      "CTVA": {
+        "squeeze_score": 25.0,
+        "short_ratio_pct": 35.6
+      },
+      "CUZ": {
+        "squeeze_score": 4.5,
+        "short_ratio_pct": 25.9
+      },
+      "CVE": {
+        "squeeze_score": 86.8,
+        "short_ratio_pct": 68.6
+      },
+      "CVM": {
+        "squeeze_score": 26.0,
+        "short_ratio_pct": 43.8
+      },
+      "CVNA": {
+        "squeeze_score": 88.2,
+        "short_ratio_pct": 70.5
+      },
+      "CVS": {
+        "squeeze_score": 35.7,
+        "short_ratio_pct": 37.9
+      },
+      "CVX": {
+        "squeeze_score": 17.5,
+        "short_ratio_pct": 14.4
+      },
+      "CWD": {
+        "squeeze_score": 78.4,
+        "short_ratio_pct": 58.4
+      },
+      "CWH": {
+        "squeeze_score": 46.8,
+        "short_ratio_pct": 54.0
+      },
+      "CWK": {
+        "squeeze_score": 75.7,
+        "short_ratio_pct": 80.2
+      },
+      "CX": {
+        "squeeze_score": 13.1,
+        "short_ratio_pct": 13.0
+      },
+      "CXAI": {
+        "squeeze_score": 65.8,
+        "short_ratio_pct": 50.7
+      },
+      "CXM": {
+        "squeeze_score": 35.8,
+        "short_ratio_pct": 46.2
+      },
+      "CXW": {
+        "squeeze_score": 28.7,
+        "short_ratio_pct": 39.3
+      },
+      "CYH": {
+        "squeeze_score": 58.3,
+        "short_ratio_pct": 61.1
+      },
+      "CYPH": {
+        "squeeze_score": 13.5,
+        "short_ratio_pct": 28.5
+      },
+      "CYTK": {
+        "squeeze_score": 59.3,
+        "short_ratio_pct": 60.6
+      },
+      "CZR": {
+        "squeeze_score": 48.3,
+        "short_ratio_pct": 50.0
+      },
+      "D": {
+        "squeeze_score": 73.4,
+        "short_ratio_pct": 62.3
+      },
+      "DAL": {
+        "squeeze_score": 67.7,
+        "short_ratio_pct": 54.1
+      },
+      "DAMD": {
+        "squeeze_score": 53.1,
+        "short_ratio_pct": 39.9
+      },
+      "DAN": {
+        "squeeze_score": 10.1,
+        "short_ratio_pct": 28.9
+      },
+      "DAR": {
+        "squeeze_score": 29.2,
+        "short_ratio_pct": 44.4
+      },
+      "DASH": {
+        "squeeze_score": 89.1,
+        "short_ratio_pct": 71.2
+      },
+      "DB": {
+        "squeeze_score": 20.8,
+        "short_ratio_pct": 40.5
+      },
+      "DBA": {
+        "squeeze_score": 55.0,
+        "short_ratio_pct": 59.8
+      },
+      "DBMF": {
+        "squeeze_score": 51.6,
+        "short_ratio_pct": 51.4
+      },
+      "DBRG": {
+        "squeeze_score": 61.5,
+        "short_ratio_pct": 54.9
+      },
+      "DBX": {
+        "squeeze_score": 64.6,
+        "short_ratio_pct": 62.7
+      },
+      "DC": {
+        "squeeze_score": 34.2,
+        "short_ratio_pct": 49.4
+      },
+      "DCH": {
+        "squeeze_score": 68.1,
+        "short_ratio_pct": 60.1
+      },
+      "DDD": {
+        "squeeze_score": 9.1,
+        "short_ratio_pct": 27.9
+      },
+      "DDOG": {
+        "squeeze_score": 34.2,
+        "short_ratio_pct": 37.1
+      },
+      "DECK": {
+        "squeeze_score": 45.7,
+        "short_ratio_pct": 50.2
+      },
+      "DEED": {
+        "squeeze_score": 84.4,
+        "short_ratio_pct": 96.8
+      },
+      "DEFT": {
+        "squeeze_score": 21.3,
+        "short_ratio_pct": 36.3
+      },
+      "DEI": {
+        "squeeze_score": 48.5,
+        "short_ratio_pct": 56.6
+      },
+      "DELL": {
+        "squeeze_score": 57.1,
+        "short_ratio_pct": 46.8
+      },
+      "DFAC": {
+        "squeeze_score": 67.0,
+        "short_ratio_pct": 56.4
+      },
+      "DFAI": {
+        "squeeze_score": 74.8,
+        "short_ratio_pct": 65.7
+      },
+      "DFCF": {
+        "squeeze_score": 34.8,
+        "short_ratio_pct": 47.0
+      },
+      "DFGP": {
+        "squeeze_score": 98.2,
+        "short_ratio_pct": 98.7
+      },
+      "DFIC": {
+        "squeeze_score": 19.2,
+        "short_ratio_pct": 33.3
+      },
+      "DFIS": {
+        "squeeze_score": 1.9,
+        "short_ratio_pct": 15.5
+      },
+      "DFIV": {
+        "squeeze_score": 19.7,
+        "short_ratio_pct": 40.3
+      },
+      "DFNS": {
+        "squeeze_score": 56.9,
+        "short_ratio_pct": 48.9
+      },
+      "DFSV": {
+        "squeeze_score": 73.1,
+        "short_ratio_pct": 77.0
+      },
+      "DFTX": {
+        "squeeze_score": 38.2,
+        "short_ratio_pct": 45.7
+      },
+      "DG": {
+        "squeeze_score": 19.2,
+        "short_ratio_pct": 35.8
+      },
+      "DGNX": {
+        "squeeze_score": 26.8,
+        "short_ratio_pct": 44.9
+      },
+      "DGRO": {
+        "squeeze_score": 31.6,
+        "short_ratio_pct": 41.5
+      },
+      "DGXX": {
+        "squeeze_score": 30.4,
+        "short_ratio_pct": 34.4
+      },
+      "DHI": {
+        "squeeze_score": 6.5,
+        "short_ratio_pct": 28.0
+      },
+      "DHR": {
+        "squeeze_score": 43.4,
+        "short_ratio_pct": 43.4
+      },
+      "DHT": {
+        "squeeze_score": 27.8,
+        "short_ratio_pct": 37.0
+      },
+      "DIA": {
+        "squeeze_score": 21.6,
+        "short_ratio_pct": 35.0
+      },
+      "DINO": {
+        "squeeze_score": 26.9,
+        "short_ratio_pct": 44.0
+      },
+      "DIS": {
+        "squeeze_score": 54.9,
+        "short_ratio_pct": 45.0
+      },
+      "DIVO": {
+        "squeeze_score": 29.5,
+        "short_ratio_pct": 46.3
+      },
+      "DJT": {
+        "squeeze_score": 39.8,
+        "short_ratio_pct": 42.0
+      },
+      "DJTU": {
+        "squeeze_score": 66.7,
+        "short_ratio_pct": 61.2
+      },
+      "DKNG": {
+        "squeeze_score": 85.8,
+        "short_ratio_pct": 65.2
+      },
+      "DLLL": {
+        "squeeze_score": 46.7,
+        "short_ratio_pct": 50.4
+      },
+      "DLO": {
+        "squeeze_score": 13.7,
+        "short_ratio_pct": 30.6
+      },
+      "DLR": {
+        "squeeze_score": 40.6,
+        "short_ratio_pct": 44.3
+      },
+      "DLTR": {
+        "squeeze_score": 44.0,
+        "short_ratio_pct": 46.8
+      },
+      "DNA": {
+        "squeeze_score": 71.3,
+        "short_ratio_pct": 71.3
+      },
+      "DNN": {
+        "squeeze_score": 63.8,
+        "short_ratio_pct": 47.7
+      },
+      "DNOW": {
+        "squeeze_score": 59.0,
+        "short_ratio_pct": 53.3
+      },
+      "DNP": {
+        "squeeze_score": 68.7,
+        "short_ratio_pct": 70.3
+      },
+      "DNUT": {
+        "squeeze_score": 57.5,
+        "short_ratio_pct": 49.8
+      },
+      "DOC": {
+        "squeeze_score": 23.5,
+        "short_ratio_pct": 31.2
+      },
+      "DOCN": {
+        "squeeze_score": 33.3,
+        "short_ratio_pct": 43.7
+      },
+      "DOCS": {
+        "squeeze_score": 23.5,
+        "short_ratio_pct": 39.6
+      },
+      "DOCU": {
+        "squeeze_score": 78.1,
+        "short_ratio_pct": 66.0
+      },
+      "DOV": {
+        "squeeze_score": 2.2,
+        "short_ratio_pct": 19.7
+      },
+      "DOW": {
+        "squeeze_score": 67.5,
+        "short_ratio_pct": 53.5
+      },
+      "DPC": {
+        "squeeze_score": 24.7,
+        "short_ratio_pct": 42.4
+      },
+      "DRAM": {
+        "squeeze_score": 38.3,
+        "short_ratio_pct": 25.0
+      },
+      "DRH": {
+        "squeeze_score": 39.9,
+        "short_ratio_pct": 48.1
+      },
+      "DRI": {
+        "squeeze_score": 71.8,
+        "short_ratio_pct": 74.1
+      },
+      "DRIP": {
+        "squeeze_score": 57.4,
+        "short_ratio_pct": 44.2
+      },
+      "DRN": {
+        "squeeze_score": 65.3,
+        "short_ratio_pct": 63.6
+      },
+      "DRTS": {
+        "squeeze_score": 70.5,
+        "short_ratio_pct": 66.8
+      },
+      "DSAC": {
+        "squeeze_score": 33.4,
+        "short_ratio_pct": 48.2
+      },
+      "DT": {
+        "squeeze_score": 24.2,
+        "short_ratio_pct": 32.8
+      },
+      "DTCR": {
+        "squeeze_score": 0.6,
+        "short_ratio_pct": 8.2
+      },
+      "DUHP": {
+        "squeeze_score": 63.8,
+        "short_ratio_pct": 66.3
+      },
+      "DUK": {
+        "squeeze_score": 27.2,
+        "short_ratio_pct": 29.3
+      },
+      "DUOL": {
+        "squeeze_score": 62.6,
+        "short_ratio_pct": 62.1
+      },
+      "DV": {
+        "squeeze_score": 76.3,
+        "short_ratio_pct": 67.1
+      },
+      "DVLT": {
+        "squeeze_score": 85.0,
+        "short_ratio_pct": 61.8
+      },
+      "DVN": {
+        "squeeze_score": 31.4,
+        "short_ratio_pct": 14.7
+      },
+      "DWSH": {
+        "squeeze_score": 32.3,
+        "short_ratio_pct": 39.9
+      },
+      "DX": {
+        "squeeze_score": 44.8,
+        "short_ratio_pct": 44.7
+      },
+      "DXC": {
+        "squeeze_score": 82.3,
+        "short_ratio_pct": 69.6
+      },
+      "DXCM": {
+        "squeeze_score": 81.0,
+        "short_ratio_pct": 67.1
+      },
+      "DXYZ": {
+        "squeeze_score": 21.7,
+        "short_ratio_pct": 42.6
+      },
+      "DYN": {
+        "squeeze_score": 84.8,
+        "short_ratio_pct": 85.4
+      },
+      "DYNF": {
+        "squeeze_score": 86.4,
+        "short_ratio_pct": 78.7
+      },
+      "EBAY": {
+        "squeeze_score": 33.7,
+        "short_ratio_pct": 46.6
+      },
+      "EBC": {
+        "squeeze_score": 70.3,
+        "short_ratio_pct": 72.9
+      },
+      "EC": {
+        "squeeze_score": 58.0,
+        "short_ratio_pct": 59.4
+      },
+      "ECC": {
+        "squeeze_score": 48.1,
+        "short_ratio_pct": 55.3
+      },
+      "ECHO": {
+        "squeeze_score": 25.6,
+        "short_ratio_pct": 29.7
+      },
+      "ED": {
+        "squeeze_score": 73.2,
+        "short_ratio_pct": 79.0
+      },
+      "EDBL": {
+        "squeeze_score": 17.6,
+        "short_ratio_pct": 25.8
+      },
+      "EDIT": {
+        "squeeze_score": 28.6,
+        "short_ratio_pct": 39.3
+      },
+      "EEM": {
+        "squeeze_score": 93.1,
+        "short_ratio_pct": 69.8
+      },
+      "EFA": {
+        "squeeze_score": 85.3,
+        "short_ratio_pct": 64.9
+      },
+      "EFG": {
+        "squeeze_score": 4.4,
+        "short_ratio_pct": 23.2
+      },
+      "EFV": {
+        "squeeze_score": 99.0,
+        "short_ratio_pct": 94.9
+      },
+      "EFX": {
+        "squeeze_score": 23.5,
+        "short_ratio_pct": 40.5
+      },
+      "EGHT": {
+        "squeeze_score": 9.4,
+        "short_ratio_pct": 31.7
+      },
+      "EH": {
+        "squeeze_score": 77.5,
+        "short_ratio_pct": 66.0
+      },
+      "EIDO": {
+        "squeeze_score": 70.8,
+        "short_ratio_pct": 69.5
+      },
+      "EIX": {
+        "squeeze_score": 72.1,
+        "short_ratio_pct": 67.6
+      },
+      "EL": {
+        "squeeze_score": 27.2,
+        "short_ratio_pct": 36.3
+      },
+      "ELAB": {
+        "squeeze_score": 72.6,
+        "short_ratio_pct": 55.8
+      },
+      "ELAN": {
+        "squeeze_score": 73.5,
+        "short_ratio_pct": 60.2
+      },
+      "ELDN": {
+        "squeeze_score": 5.0,
+        "short_ratio_pct": 26.3
+      },
+      "ELF": {
+        "squeeze_score": 83.9,
+        "short_ratio_pct": 73.4
+      },
+      "ELTX": {
+        "squeeze_score": 21.9,
+        "short_ratio_pct": 40.8
+      },
+      "ELV": {
+        "squeeze_score": 53.2,
+        "short_ratio_pct": 59.9
+      },
+      "EMB": {
+        "squeeze_score": 91.7,
+        "short_ratio_pct": 81.0
+      },
+      "EMLC": {
+        "squeeze_score": 61.6,
+        "short_ratio_pct": 57.8
+      },
+      "EMPD": {
+        "squeeze_score": 71.6,
+        "short_ratio_pct": 71.8
+      },
+      "EMR": {
+        "squeeze_score": 51.1,
+        "short_ratio_pct": 55.8
+      },
+      "EMXC": {
+        "squeeze_score": 4.5,
+        "short_ratio_pct": 25.2
+      },
+      "ENB": {
+        "squeeze_score": 83.9,
+        "short_ratio_pct": 72.0
+      },
+      "ENGN": {
+        "squeeze_score": 59.4,
+        "short_ratio_pct": 55.2
+      },
+      "ENHA": {
+        "squeeze_score": 32.3,
+        "short_ratio_pct": 47.6
+      },
+      "ENOV": {
+        "squeeze_score": 66.5,
+        "short_ratio_pct": 62.3
+      },
+      "ENPH": {
+        "squeeze_score": 84.2,
+        "short_ratio_pct": 66.4
+      },
+      "ENTG": {
+        "squeeze_score": 42.4,
+        "short_ratio_pct": 47.9
+      },
+      "ENVX": {
+        "squeeze_score": 80.5,
+        "short_ratio_pct": 62.3
+      },
+      "EOG": {
+        "squeeze_score": 40.7,
+        "short_ratio_pct": 49.2
+      },
+      "EOSE": {
+        "squeeze_score": 91.3,
+        "short_ratio_pct": 67.4
+      },
+      "EOSER": {
+        "squeeze_score": 52.9,
+        "short_ratio_pct": 47.0
+      },
+      "EPAM": {
+        "squeeze_score": 59.7,
+        "short_ratio_pct": 62.6
+      },
+      "EPD": {
+        "squeeze_score": 42.0,
+        "short_ratio_pct": 46.9
+      },
+      "EPRT": {
+        "squeeze_score": 61.1,
+        "short_ratio_pct": 64.9
+      },
+      "EQH": {
+        "squeeze_score": 3.7,
+        "short_ratio_pct": 21.9
+      },
+      "EQNR": {
+        "squeeze_score": 44.0,
+        "short_ratio_pct": 47.6
+      },
+      "EQPT": {
+        "squeeze_score": 79.6,
+        "short_ratio_pct": 78.0
+      },
+      "EQR": {
+        "squeeze_score": 64.5,
+        "short_ratio_pct": 65.9
+      },
+      "EQT": {
+        "squeeze_score": 61.3,
+        "short_ratio_pct": 52.2
+      },
+      "EQX": {
+        "squeeze_score": 46.7,
+        "short_ratio_pct": 39.9
+      },
+      "ERAS": {
+        "squeeze_score": 39.0,
+        "short_ratio_pct": 41.0
+      },
+      "ERIC": {
+        "squeeze_score": 37.8,
+        "short_ratio_pct": 34.6
+      },
+      "EROC": {
+        "squeeze_score": 20.8,
+        "short_ratio_pct": 35.8
+      },
+      "ES": {
+        "squeeze_score": 61.3,
+        "short_ratio_pct": 61.7
+      },
+      "ESI": {
+        "squeeze_score": 35.6,
+        "short_ratio_pct": 25.7
+      },
+      "ESPR": {
+        "squeeze_score": 43.1,
+        "short_ratio_pct": 35.9
+      },
+      "ET": {
+        "squeeze_score": 53.5,
+        "short_ratio_pct": 44.4
+      },
+      "ETH": {
+        "squeeze_score": 62.3,
+        "short_ratio_pct": 60.6
+      },
+      "ETHA": {
+        "squeeze_score": 90.8,
+        "short_ratio_pct": 67.6
+      },
+      "ETHE": {
+        "squeeze_score": 20.8,
+        "short_ratio_pct": 41.9
+      },
+      "ETHT": {
+        "squeeze_score": 46.2,
+        "short_ratio_pct": 52.0
+      },
+      "ETHU": {
+        "squeeze_score": 80.8,
+        "short_ratio_pct": 63.4
+      },
+      "ETN": {
+        "squeeze_score": 58.6,
+        "short_ratio_pct": 58.5
+      },
+      "ETR": {
+        "squeeze_score": 49.3,
+        "short_ratio_pct": 57.1
+      },
+      "ETSY": {
+        "squeeze_score": 10.6,
+        "short_ratio_pct": 31.7
+      },
+      "EU": {
+        "squeeze_score": 59.1,
+        "short_ratio_pct": 59.4
+      },
+      "EUFN": {
+        "squeeze_score": 80.5,
+        "short_ratio_pct": 77.6
+      },
+      "EVC": {
+        "squeeze_score": 29.6,
+        "short_ratio_pct": 44.2
+      },
+      "EVGO": {
+        "squeeze_score": 56.9,
+        "short_ratio_pct": 52.1
+      },
+      "EVH": {
+        "squeeze_score": 54.5,
+        "short_ratio_pct": 54.5
+      },
+      "EVLV": {
+        "squeeze_score": 15.7,
+        "short_ratio_pct": 34.0
+      },
+      "EVRG": {
+        "squeeze_score": 29.1,
+        "short_ratio_pct": 45.7
+      },
+      "EVTL": {
+        "squeeze_score": 58.8,
+        "short_ratio_pct": 54.8
+      },
+      "EW": {
+        "squeeze_score": 38.3,
+        "short_ratio_pct": 40.1
+      },
+      "EWC": {
+        "squeeze_score": 9.1,
+        "short_ratio_pct": 31.5
+      },
+      "EWG": {
+        "squeeze_score": 94.7,
+        "short_ratio_pct": 93.9
+      },
+      "EWH": {
+        "squeeze_score": 53.0,
+        "short_ratio_pct": 52.9
+      },
+      "EWJ": {
+        "squeeze_score": 47.7,
+        "short_ratio_pct": 48.7
+      },
+      "EWT": {
+        "squeeze_score": 89.4,
+        "short_ratio_pct": 72.0
+      },
+      "EWU": {
+        "squeeze_score": 67.4,
+        "short_ratio_pct": 68.6
+      },
+      "EWY": {
+        "squeeze_score": 31.7,
+        "short_ratio_pct": 27.7
+      },
+      "EWZ": {
+        "squeeze_score": 38.6,
+        "short_ratio_pct": 35.7
+      },
+      "EXC": {
+        "squeeze_score": 41.5,
+        "short_ratio_pct": 41.6
+      },
+      "EXE": {
+        "squeeze_score": 63.1,
+        "short_ratio_pct": 58.8
+      },
+      "EXEL": {
+        "squeeze_score": 88.4,
+        "short_ratio_pct": 80.0
+      },
+      "EXFY": {
+        "squeeze_score": 7.3,
+        "short_ratio_pct": 26.2
+      },
+      "EXK": {
+        "squeeze_score": 62.1,
+        "short_ratio_pct": 56.7
+      },
+      "EXLS": {
+        "squeeze_score": 4.8,
+        "short_ratio_pct": 22.3
+      },
+      "EXPE": {
+        "squeeze_score": 56.3,
+        "short_ratio_pct": 61.4
+      },
+      "EYPT": {
+        "squeeze_score": 37.9,
+        "short_ratio_pct": 49.3
+      },
+      "F": {
+        "squeeze_score": 54.3,
+        "short_ratio_pct": 40.9
+      },
+      "FA": {
+        "squeeze_score": 33.2,
+        "short_ratio_pct": 44.5
+      },
+      "FABC": {
+        "squeeze_score": 6.1,
+        "short_ratio_pct": 22.5
+      },
+      "FALN": {
+        "squeeze_score": 63.1,
+        "short_ratio_pct": 66.5
+      },
+      "FANG": {
+        "squeeze_score": 20.9,
+        "short_ratio_pct": 39.8
+      },
+      "FAST": {
+        "squeeze_score": 66.8,
+        "short_ratio_pct": 53.2
+      },
+      "FATE": {
+        "squeeze_score": 29.8,
+        "short_ratio_pct": 40.3
+      },
+      "FBGL": {
+        "squeeze_score": 71.9,
+        "short_ratio_pct": 56.8
+      },
+      "FBIN": {
+        "squeeze_score": 57.6,
+        "short_ratio_pct": 57.3
+      },
+      "FBND": {
+        "squeeze_score": 69.5,
+        "short_ratio_pct": 57.5
+      },
+      "FBTC": {
+        "squeeze_score": 31.9,
+        "short_ratio_pct": 39.0
+      },
+      "FCEL": {
+        "squeeze_score": 80.9,
+        "short_ratio_pct": 60.3
+      },
+      "FCHL": {
+        "squeeze_score": 43.4,
+        "short_ratio_pct": 50.3
+      },
+      "FCX": {
+        "squeeze_score": 37.2,
+        "short_ratio_pct": 34.0
+      },
+      "FDUS": {
+        "squeeze_score": 74.5,
+        "short_ratio_pct": 76.3
+      },
+      "FDX": {
+        "squeeze_score": 49.1,
+        "short_ratio_pct": 56.8
+      },
+      "FE": {
+        "squeeze_score": 68.1,
+        "short_ratio_pct": 62.7
+      },
+      "FELC": {
+        "squeeze_score": 79.4,
+        "short_ratio_pct": 85.2
+      },
+      "FENI": {
+        "squeeze_score": 65.9,
+        "short_ratio_pct": 58.8
+      },
+      "FERG": {
+        "squeeze_score": 47.4,
+        "short_ratio_pct": 54.8
+      },
+      "FESM": {
+        "squeeze_score": 73.3,
+        "short_ratio_pct": 69.2
+      },
+      "FETH": {
+        "squeeze_score": 53.7,
+        "short_ratio_pct": 57.1
+      },
+      "FFAI": {
+        "squeeze_score": 40.8,
+        "short_ratio_pct": 32.3
+      },
+      "FHB": {
+        "squeeze_score": 65.6,
+        "short_ratio_pct": 63.4
+      },
+      "FHN": {
+        "squeeze_score": 38.3,
+        "short_ratio_pct": 44.3
+      },
+      "FIG": {
+        "squeeze_score": 37.9,
+        "short_ratio_pct": 29.5
+      },
+      "FIGR": {
+        "squeeze_score": 66.3,
+        "short_ratio_pct": 53.7
+      },
+      "FIGS": {
+        "squeeze_score": 82.2,
+        "short_ratio_pct": 73.2
+      },
+      "FIS": {
+        "squeeze_score": 62.2,
+        "short_ratio_pct": 54.3
+      },
+      "FISV": {
+        "squeeze_score": 47.4,
+        "short_ratio_pct": 44.4
+      },
+      "FITB": {
+        "squeeze_score": 53.9,
+        "short_ratio_pct": 50.3
+      },
+      "FIVN": {
+        "squeeze_score": 52.5,
+        "short_ratio_pct": 58.4
+      },
+      "FLEX": {
+        "squeeze_score": 13.9,
+        "short_ratio_pct": 21.5
+      },
+      "FLG": {
+        "squeeze_score": 57.9,
+        "short_ratio_pct": 51.3
+      },
+      "FLKR": {
+        "squeeze_score": 79.2,
+        "short_ratio_pct": 87.6
+      },
+      "FLNC": {
+        "squeeze_score": 78.2,
+        "short_ratio_pct": 60.9
+      },
+      "FLO": {
+        "squeeze_score": 87.3,
+        "short_ratio_pct": 70.7
+      },
+      "FLOT": {
+        "squeeze_score": 68.8,
+        "short_ratio_pct": 59.8
+      },
+      "FLR": {
+        "squeeze_score": 60.3,
+        "short_ratio_pct": 60.4
+      },
+      "FLRN": {
+        "squeeze_score": 71.3,
+        "short_ratio_pct": 67.1
+      },
+      "FLTR": {
+        "squeeze_score": 90.2,
+        "short_ratio_pct": 82.3
+      },
+      "FLUT": {
+        "squeeze_score": 59.2,
+        "short_ratio_pct": 61.5
+      },
+      "FLY": {
+        "squeeze_score": 72.7,
+        "short_ratio_pct": 61.5
+      },
+      "FLYW": {
+        "squeeze_score": 38.0,
+        "short_ratio_pct": 47.2
+      },
+      "FMC": {
+        "squeeze_score": 37.9,
+        "short_ratio_pct": 40.9
+      },
+      "FMDE": {
+        "squeeze_score": 15.2,
+        "short_ratio_pct": 37.0
+      },
+      "FNB": {
+        "squeeze_score": 69.9,
+        "short_ratio_pct": 61.0
+      },
+      "FND": {
+        "squeeze_score": 48.0,
+        "short_ratio_pct": 47.5
+      },
+      "FNDF": {
+        "squeeze_score": 25.0,
+        "short_ratio_pct": 38.3
+      },
+      "FNDX": {
+        "squeeze_score": 73.8,
+        "short_ratio_pct": 61.1
+      },
+      "FNGU": {
+        "squeeze_score": 64.9,
+        "short_ratio_pct": 57.3
+      },
+      "FORM": {
+        "squeeze_score": 12.0,
+        "short_ratio_pct": 26.7
+      },
+      "FOXA": {
+        "squeeze_score": 54.7,
+        "short_ratio_pct": 46.7
+      },
+      "FPE": {
+        "squeeze_score": 24.6,
+        "short_ratio_pct": 42.6
+      },
+      "FPS": {
+        "squeeze_score": 29.3,
+        "short_ratio_pct": 20.8
+      },
+      "FRMI": {
+        "squeeze_score": 37.8,
+        "short_ratio_pct": 31.6
+      },
+      "FRMM": {
+        "squeeze_score": 13.2,
+        "short_ratio_pct": 35.8
+      },
+      "FRO": {
+        "squeeze_score": 53.3,
+        "short_ratio_pct": 57.5
+      },
+      "FROG": {
+        "squeeze_score": 72.1,
+        "short_ratio_pct": 65.1
+      },
+      "FRPT": {
+        "squeeze_score": 21.2,
+        "short_ratio_pct": 41.0
+      },
+      "FRSH": {
+        "squeeze_score": 75.5,
+        "short_ratio_pct": 55.3
+      },
+      "FRVO": {
+        "squeeze_score": 16.1,
+        "short_ratio_pct": 23.5
+      },
+      "FSCO": {
+        "squeeze_score": 13.0,
+        "short_ratio_pct": 35.1
+      },
+      "FSK": {
+        "squeeze_score": 81.7,
+        "short_ratio_pct": 66.9
+      },
+      "FSLR": {
+        "squeeze_score": 70.0,
+        "short_ratio_pct": 68.7
+      },
+      "FSLY": {
+        "squeeze_score": 62.0,
+        "short_ratio_pct": 57.8
+      },
+      "FSM": {
+        "squeeze_score": 17.9,
+        "short_ratio_pct": 30.5
+      },
+      "FTI": {
+        "squeeze_score": 82.5,
+        "short_ratio_pct": 66.1
+      },
+      "FTNT": {
+        "squeeze_score": 29.7,
+        "short_ratio_pct": 35.0
+      },
+      "FTV": {
+        "squeeze_score": 71.5,
+        "short_ratio_pct": 61.1
+      },
+      "FUL": {
+        "squeeze_score": 10.0,
+        "short_ratio_pct": 33.1
+      },
+      "FUN": {
+        "squeeze_score": 79.2,
+        "short_ratio_pct": 63.5
+      },
+      "FWDI": {
+        "squeeze_score": 66.5,
+        "short_ratio_pct": 69.5
+      },
+      "FWONK": {
+        "squeeze_score": 8.2,
+        "short_ratio_pct": 24.7
+      },
+      "FXHO": {
+        "squeeze_score": 78.0,
+        "short_ratio_pct": 60.2
+      },
+      "FXI": {
+        "squeeze_score": 89.2,
+        "short_ratio_pct": 65.5
+      },
+      "G": {
+        "squeeze_score": 43.7,
+        "short_ratio_pct": 51.5
+      },
+      "GAME": {
+        "squeeze_score": 14.3,
+        "short_ratio_pct": 34.9
+      },
+      "GAP": {
+        "squeeze_score": 84.5,
+        "short_ratio_pct": 64.8
+      },
+      "GAU": {
+        "squeeze_score": 61.8,
+        "short_ratio_pct": 61.6
+      },
+      "GCTS": {
+        "squeeze_score": 48.9,
+        "short_ratio_pct": 52.6
+      },
+      "GDDY": {
+        "squeeze_score": 27.8,
+        "short_ratio_pct": 44.4
+      },
+      "GDE": {
+        "squeeze_score": 0.8,
+        "short_ratio_pct": 13.5
+      },
+      "GDRX": {
+        "squeeze_score": 2.8,
+        "short_ratio_pct": 22.4
+      },
+      "GDS": {
+        "squeeze_score": 79.9,
+        "short_ratio_pct": 69.7
+      },
+      "GDX": {
+        "squeeze_score": 40.2,
+        "short_ratio_pct": 33.7
+      },
+      "GDXJ": {
+        "squeeze_score": 49.3,
+        "short_ratio_pct": 49.8
+      },
+      "GDXU": {
+        "squeeze_score": 29.7,
+        "short_ratio_pct": 46.5
+      },
+      "GE": {
+        "squeeze_score": 22.7,
+        "short_ratio_pct": 31.6
+      },
+      "GEHC": {
+        "squeeze_score": 81.6,
+        "short_ratio_pct": 65.3
+      },
+      "GEMI": {
+        "squeeze_score": 53.0,
+        "short_ratio_pct": 59.0
+      },
+      "GEN": {
+        "squeeze_score": 83.1,
+        "short_ratio_pct": 71.6
+      },
+      "GENI": {
+        "squeeze_score": 52.0,
+        "short_ratio_pct": 53.6
+      },
+      "GEO": {
+        "squeeze_score": 11.4,
+        "short_ratio_pct": 24.2
+      },
+      "GERN": {
+        "squeeze_score": 62.9,
+        "short_ratio_pct": 48.1
+      },
+      "GETY": {
+        "squeeze_score": 80.9,
+        "short_ratio_pct": 61.1
+      },
+      "GEV": {
+        "squeeze_score": 70.4,
+        "short_ratio_pct": 59.4
+      },
+      "GEVO": {
+        "squeeze_score": 42.6,
+        "short_ratio_pct": 45.7
+      },
+      "GFI": {
+        "squeeze_score": 45.3,
+        "short_ratio_pct": 48.8
+      },
+      "GFL": {
+        "squeeze_score": 64.7,
+        "short_ratio_pct": 51.0
+      },
+      "GFLW": {
+        "squeeze_score": 87.4,
+        "short_ratio_pct": 97.8
+      },
+      "GFS": {
+        "squeeze_score": 7.2,
+        "short_ratio_pct": 21.7
+      },
+      "GGAL": {
+        "squeeze_score": 65.0,
+        "short_ratio_pct": 64.4
+      },
+      "GGB": {
+        "squeeze_score": 68.7,
+        "short_ratio_pct": 51.9
+      },
+      "GGG": {
+        "squeeze_score": 69.3,
+        "short_ratio_pct": 72.4
+      },
+      "GGLS": {
+        "squeeze_score": 46.8,
+        "short_ratio_pct": 38.1
+      },
+      "GGOV": {
+        "squeeze_score": 84.0,
+        "short_ratio_pct": 84.6
+      },
+      "GH": {
+        "squeeze_score": 9.4,
+        "short_ratio_pct": 28.6
+      },
+      "GILD": {
+        "squeeze_score": 38.7,
+        "short_ratio_pct": 36.1
+      },
+      "GIS": {
+        "squeeze_score": 84.3,
+        "short_ratio_pct": 63.0
+      },
+      "GLD": {
+        "squeeze_score": 63.2,
+        "short_ratio_pct": 54.8
+      },
+      "GLDM": {
+        "squeeze_score": 55.8,
+        "short_ratio_pct": 52.7
+      },
+      "GLOB": {
+        "squeeze_score": 41.1,
+        "short_ratio_pct": 47.7
+      },
+      "GLPI": {
+        "squeeze_score": 70.7,
+        "short_ratio_pct": 63.6
+      },
+      "GLW": {
+        "squeeze_score": 44.8,
+        "short_ratio_pct": 36.7
+      },
+      "GLWG": {
+        "squeeze_score": 19.0,
+        "short_ratio_pct": 38.3
+      },
+      "GLXY": {
+        "squeeze_score": 38.0,
+        "short_ratio_pct": 37.6
+      },
+      "GM": {
+        "squeeze_score": 42.0,
+        "short_ratio_pct": 42.8
+      },
+      "GMAB": {
+        "squeeze_score": 12.8,
+        "short_ratio_pct": 34.9
+      },
+      "GME": {
+        "squeeze_score": 71.3,
+        "short_ratio_pct": 59.6
+      },
+      "GMEX": {
+        "squeeze_score": 51.4,
+        "short_ratio_pct": 50.7
+      },
+      "GNL": {
+        "squeeze_score": 81.9,
+        "short_ratio_pct": 73.3
+      },
+      "GNPX": {
+        "squeeze_score": 49.0,
+        "short_ratio_pct": 57.6
+      },
+      "GNR": {
+        "squeeze_score": 0.3,
+        "short_ratio_pct": 5.8
+      },
+      "GNS": {
+        "squeeze_score": 55.9,
+        "short_ratio_pct": 50.0
+      },
+      "GNTX": {
+        "squeeze_score": 62.5,
+        "short_ratio_pct": 59.9
+      },
+      "GNW": {
+        "squeeze_score": 35.6,
+        "short_ratio_pct": 46.9
+      },
+      "GO": {
+        "squeeze_score": 39.2,
+        "short_ratio_pct": 50.8
+      },
+      "GOF": {
+        "squeeze_score": 43.1,
+        "short_ratio_pct": 48.8
+      },
+      "GOGO": {
+        "squeeze_score": 30.4,
+        "short_ratio_pct": 47.2
+      },
+      "GOOG": {
+        "squeeze_score": 61.2,
+        "short_ratio_pct": 47.0
+      },
+      "GOOGL": {
+        "squeeze_score": 64.2,
+        "short_ratio_pct": 48.6
+      },
+      "GOOGM": {
+        "squeeze_score": 0.3,
+        "short_ratio_pct": 1.5
+      },
+      "GOOGN": {
+        "squeeze_score": 0.7,
+        "short_ratio_pct": 1.8
+      },
+      "GORO": {
+        "squeeze_score": 54.4,
+        "short_ratio_pct": 50.9
+      },
+      "GOSS": {
+        "squeeze_score": 67.6,
+        "short_ratio_pct": 50.2
+      },
+      "GOVT": {
+        "squeeze_score": 97.5,
+        "short_ratio_pct": 82.7
+      },
+      "GPC": {
+        "squeeze_score": 82.9,
+        "short_ratio_pct": 69.1
+      },
+      "GPGI": {
+        "squeeze_score": 40.1,
+        "short_ratio_pct": 52.2
+      },
+      "GPIQ": {
+        "squeeze_score": 40.4,
+        "short_ratio_pct": 46.0
+      },
+      "GPIX": {
+        "squeeze_score": 26.5,
+        "short_ratio_pct": 42.9
+      },
+      "GPK": {
+        "squeeze_score": 44.3,
+        "short_ratio_pct": 45.1
+      },
+      "GPN": {
+        "squeeze_score": 46.6,
+        "short_ratio_pct": 50.2
+      },
+      "GPRO": {
+        "squeeze_score": 44.9,
+        "short_ratio_pct": 42.5
+      },
+      "GPUS": {
+        "squeeze_score": 83.4,
+        "short_ratio_pct": 59.7
+      },
+      "GRAB": {
+        "squeeze_score": 43.6,
+        "short_ratio_pct": 30.2
+      },
+      "GRML": {
+        "squeeze_score": 55.1,
+        "short_ratio_pct": 48.6
+      },
+      "GRND": {
+        "squeeze_score": 39.0,
+        "short_ratio_pct": 50.4
+      },
+      "GRNY": {
+        "squeeze_score": 65.5,
+        "short_ratio_pct": 65.0
+      },
+      "GROY": {
+        "squeeze_score": 47.5,
+        "short_ratio_pct": 51.6
+      },
+      "GRPN": {
+        "squeeze_score": 35.6,
+        "short_ratio_pct": 46.9
+      },
+      "GSK": {
+        "squeeze_score": 17.2,
+        "short_ratio_pct": 28.2
+      },
+      "GSM": {
+        "squeeze_score": 34.5,
+        "short_ratio_pct": 48.7
+      },
+      "GSOL": {
+        "squeeze_score": 50.1,
+        "short_ratio_pct": 44.3
+      },
+      "GT": {
+        "squeeze_score": 45.2,
+        "short_ratio_pct": 37.1
+      },
+      "GTBP": {
+        "squeeze_score": 68.2,
+        "short_ratio_pct": 65.2
+      },
+      "GTES": {
+        "squeeze_score": 63.9,
+        "short_ratio_pct": 66.1
+      },
+      "GTLB": {
+        "squeeze_score": 39.3,
+        "short_ratio_pct": 46.8
+      },
+      "GTM": {
+        "squeeze_score": 81.4,
+        "short_ratio_pct": 61.7
+      },
+      "GTX": {
+        "squeeze_score": 2.4,
+        "short_ratio_pct": 13.6
+      },
+      "GUTS": {
+        "squeeze_score": 36.1,
+        "short_ratio_pct": 44.5
+      },
+      "HAIN": {
+        "squeeze_score": 10.7,
+        "short_ratio_pct": 29.7
+      },
+      "HAL": {
+        "squeeze_score": 20.1,
+        "short_ratio_pct": 20.3
+      },
+      "HALO": {
+        "squeeze_score": 75.8,
+        "short_ratio_pct": 69.6
+      },
+      "HAS": {
+        "squeeze_score": 68.5,
+        "short_ratio_pct": 62.4
+      },
+      "HAYW": {
+        "squeeze_score": 55.9,
+        "short_ratio_pct": 52.4
+      },
+      "HBAN": {
+        "squeeze_score": 71.2,
+        "short_ratio_pct": 52.6
+      },
+      "HBM": {
+        "squeeze_score": 65.0,
+        "short_ratio_pct": 57.9
+      },
+      "HD": {
+        "squeeze_score": 63.4,
+        "short_ratio_pct": 53.7
+      },
+      "HDB": {
+        "squeeze_score": 52.9,
+        "short_ratio_pct": 43.2
+      },
+      "HDV": {
+        "squeeze_score": 63.4,
+        "short_ratio_pct": 57.7
+      },
+      "HFSI": {
+        "squeeze_score": 89.6,
+        "short_ratio_pct": 97.5
+      },
+      "HGER": {
+        "squeeze_score": 11.4,
+        "short_ratio_pct": 28.4
+      },
+      "HGV": {
+        "squeeze_score": 78.1,
+        "short_ratio_pct": 78.9
+      },
+      "HIMS": {
+        "squeeze_score": 88.7,
+        "short_ratio_pct": 65.7
+      },
+      "HIMX": {
+        "squeeze_score": 58.4,
+        "short_ratio_pct": 53.7
+      },
+      "HIVE": {
+        "squeeze_score": 45.3,
+        "short_ratio_pct": 35.4
+      },
+      "HL": {
+        "squeeze_score": 88.8,
+        "short_ratio_pct": 64.3
+      },
+      "HLIT": {
+        "squeeze_score": 7.7,
+        "short_ratio_pct": 28.7
+      },
+      "HLN": {
+        "squeeze_score": 76.8,
+        "short_ratio_pct": 60.4
+      },
+      "HMC": {
+        "squeeze_score": 30.2,
+        "short_ratio_pct": 42.7
+      },
+      "HMY": {
+        "squeeze_score": 67.0,
+        "short_ratio_pct": 65.2
+      },
+      "HNGE": {
+        "squeeze_score": 6.7,
+        "short_ratio_pct": 26.3
+      },
+      "HNST": {
+        "squeeze_score": 14.5,
+        "short_ratio_pct": 36.8
+      },
+      "HON": {
+        "squeeze_score": 42.7,
+        "short_ratio_pct": 38.8
+      },
+      "HONA": {
+        "squeeze_score": 72.3,
+        "short_ratio_pct": 56.2
+      },
+      "HOOD": {
+        "squeeze_score": 86.3,
+        "short_ratio_pct": 62.6
+      },
+      "HP": {
+        "squeeze_score": 63.6,
+        "short_ratio_pct": 65.7
+      },
+      "HPE": {
+        "squeeze_score": 44.0,
+        "short_ratio_pct": 36.2
+      },
+      "HPQ": {
+        "squeeze_score": 81.9,
+        "short_ratio_pct": 61.5
+      },
+      "HR": {
+        "squeeze_score": 62.7,
+        "short_ratio_pct": 60.7
+      },
+      "HRL": {
+        "squeeze_score": 57.9,
+        "short_ratio_pct": 50.5
+      },
+      "HROW": {
+        "squeeze_score": 24.3,
+        "short_ratio_pct": 43.9
+      },
+      "HRTX": {
+        "squeeze_score": 71.9,
+        "short_ratio_pct": 58.9
+      },
+      "HSAI": {
+        "squeeze_score": 68.3,
+        "short_ratio_pct": 69.2
+      },
+      "HST": {
+        "squeeze_score": 66.3,
+        "short_ratio_pct": 53.3
+      },
+      "HSY": {
+        "squeeze_score": 33.1,
+        "short_ratio_pct": 40.5
+      },
+      "HTFL": {
+        "squeeze_score": 35.0,
+        "short_ratio_pct": 47.9
+      },
+      "HTGC": {
+        "squeeze_score": 44.7,
+        "short_ratio_pct": 52.7
+      },
+      "HTHT": {
+        "squeeze_score": 8.7,
+        "short_ratio_pct": 29.6
+      },
+      "HTZ": {
+        "squeeze_score": 82.1,
+        "short_ratio_pct": 59.7
+      },
+      "HUM": {
+        "squeeze_score": 2.6,
+        "short_ratio_pct": 22.6
+      },
+      "HUMA": {
+        "squeeze_score": 36.2,
+        "short_ratio_pct": 26.3
+      },
+      "HUN": {
+        "squeeze_score": 25.5,
+        "short_ratio_pct": 40.1
+      },
+      "HUT": {
+        "squeeze_score": 76.8,
+        "short_ratio_pct": 61.7
+      },
+      "HWM": {
+        "squeeze_score": 10.3,
+        "short_ratio_pct": 30.0
+      },
+      "HXL": {
+        "squeeze_score": 62.6,
+        "short_ratio_pct": 61.0
+      },
+      "HYG": {
+        "squeeze_score": 44.9,
+        "short_ratio_pct": 33.8
+      },
+      "HYLB": {
+        "squeeze_score": 65.4,
+        "short_ratio_pct": 66.1
+      },
+      "HYLN": {
+        "squeeze_score": 33.4,
+        "short_ratio_pct": 45.1
+      },
+      "HYMB": {
+        "squeeze_score": 15.7,
+        "short_ratio_pct": 33.1
+      },
+      "IAG": {
+        "squeeze_score": 58.4,
+        "short_ratio_pct": 52.7
+      },
+      "IAGG": {
+        "squeeze_score": 67.3,
+        "short_ratio_pct": 69.1
+      },
+      "IALT": {
+        "squeeze_score": 60.8,
+        "short_ratio_pct": 60.0
+      },
+      "IAU": {
+        "squeeze_score": 29.5,
+        "short_ratio_pct": 23.3
+      },
+      "IAUM": {
+        "squeeze_score": 69.6,
+        "short_ratio_pct": 65.2
+      },
+      "IAUX": {
+        "squeeze_score": 83.6,
+        "short_ratio_pct": 63.6
+      },
+      "IBB": {
+        "squeeze_score": 54.9,
+        "short_ratio_pct": 59.1
+      },
+      "IBDR": {
+        "squeeze_score": 3.4,
+        "short_ratio_pct": 23.9
+      },
+      "IBDW": {
+        "squeeze_score": 29.6,
+        "short_ratio_pct": 43.1
+      },
+      "IBIT": {
+        "squeeze_score": 73.1,
+        "short_ratio_pct": 53.2
+      },
+      "IBKR": {
+        "squeeze_score": 37.0,
+        "short_ratio_pct": 40.4
+      },
+      "IBM": {
+        "squeeze_score": 90.1,
+        "short_ratio_pct": 70.6
+      },
+      "IBN": {
+        "squeeze_score": 27.3,
+        "short_ratio_pct": 10.4
+      },
+      "IBRX": {
+        "squeeze_score": 78.3,
+        "short_ratio_pct": 57.7
+      },
+      "IBTI": {
+        "squeeze_score": 61.8,
+        "short_ratio_pct": 65.1
+      },
+      "ICE": {
+        "squeeze_score": 77.5,
+        "short_ratio_pct": 59.7
+      },
+      "ICLN": {
+        "squeeze_score": 80.0,
+        "short_ratio_pct": 63.4
+      },
+      "ICSH": {
+        "squeeze_score": 67.2,
+        "short_ratio_pct": 58.6
+      },
+      "IDEV": {
+        "squeeze_score": 95.9,
+        "short_ratio_pct": 92.9
+      },
+      "IDV": {
+        "squeeze_score": 1.2,
+        "short_ratio_pct": 15.6
+      },
+      "IDYA": {
+        "squeeze_score": 46.5,
+        "short_ratio_pct": 50.2
+      },
+      "IE": {
+        "squeeze_score": 65.0,
+        "short_ratio_pct": 63.3
+      },
+      "IEF": {
+        "squeeze_score": 86.9,
+        "short_ratio_pct": 70.3
+      },
+      "IEFA": {
+        "squeeze_score": 76.2,
+        "short_ratio_pct": 57.5
+      },
+      "IEMG": {
+        "squeeze_score": 36.5,
+        "short_ratio_pct": 29.4
+      },
+      "IFF": {
+        "squeeze_score": 41.1,
+        "short_ratio_pct": 49.8
+      },
+      "IGIB": {
+        "squeeze_score": 64.2,
+        "short_ratio_pct": 59.4
+      },
+      "IGSB": {
+        "squeeze_score": 80.2,
+        "short_ratio_pct": 71.2
+      },
+      "IGV": {
+        "squeeze_score": 63.5,
+        "short_ratio_pct": 49.3
+      },
+      "IHI": {
+        "squeeze_score": 13.1,
+        "short_ratio_pct": 29.6
+      },
+      "IJH": {
+        "squeeze_score": 71.2,
+        "short_ratio_pct": 57.6
+      },
+      "IJR": {
+        "squeeze_score": 57.3,
+        "short_ratio_pct": 53.7
+      },
+      "ILLR": {
+        "squeeze_score": 32.6,
+        "short_ratio_pct": 45.4
+      },
+      "ILMN": {
+        "squeeze_score": 71.1,
+        "short_ratio_pct": 68.3
+      },
+      "IMAX": {
+        "squeeze_score": 76.7,
+        "short_ratio_pct": 72.5
+      },
+      "IMMX": {
+        "squeeze_score": 60.6,
+        "short_ratio_pct": 61.4
+      },
+      "IMNM": {
+        "squeeze_score": 73.0,
+        "short_ratio_pct": 69.5
+      },
+      "IMTX": {
+        "squeeze_score": 0.4,
+        "short_ratio_pct": 7.1
+      },
+      "INDA": {
+        "squeeze_score": 89.1,
+        "short_ratio_pct": 75.4
+      },
+      "INDI": {
+        "squeeze_score": 63.9,
+        "short_ratio_pct": 51.1
+      },
+      "INDV": {
+        "squeeze_score": 27.8,
+        "short_ratio_pct": 42.4
+      },
+      "INFQ": {
+        "squeeze_score": 80.7,
+        "short_ratio_pct": 60.7
+      },
+      "INFY": {
+        "squeeze_score": 64.0,
+        "short_ratio_pct": 49.1
+      },
+      "ING": {
+        "squeeze_score": 5.4,
+        "short_ratio_pct": 27.3
+      },
+      "INIO": {
+        "squeeze_score": 21.5,
+        "short_ratio_pct": 25.0
+      },
+      "INLF": {
+        "squeeze_score": 75.4,
+        "short_ratio_pct": 61.1
+      },
+      "INO": {
+        "squeeze_score": 3.1,
+        "short_ratio_pct": 23.0
+      },
+      "INOD": {
+        "squeeze_score": 71.0,
+        "short_ratio_pct": 69.6
+      },
+      "INSM": {
+        "squeeze_score": 45.1,
+        "short_ratio_pct": 49.1
+      },
+      "INSP": {
+        "squeeze_score": 29.2,
+        "short_ratio_pct": 46.4
+      },
+      "INTC": {
+        "squeeze_score": 48.2,
+        "short_ratio_pct": 35.4
+      },
+      "INTR": {
+        "squeeze_score": 16.4,
+        "short_ratio_pct": 19.9
+      },
+      "INTU": {
+        "squeeze_score": 29.0,
+        "short_ratio_pct": 33.4
+      },
+      "INTW": {
+        "squeeze_score": 27.8,
+        "short_ratio_pct": 39.1
+      },
+      "INVH": {
+        "squeeze_score": 6.3,
+        "short_ratio_pct": 24.1
+      },
+      "INVZ": {
+        "squeeze_score": 80.8,
+        "short_ratio_pct": 70.9
+      },
+      "IONQ": {
+        "squeeze_score": 73.3,
+        "short_ratio_pct": 55.0
+      },
+      "IONS": {
+        "squeeze_score": 72.8,
+        "short_ratio_pct": 68.4
+      },
+      "IONZ": {
+        "squeeze_score": 57.9,
+        "short_ratio_pct": 44.8
+      },
+      "IOT": {
+        "squeeze_score": 65.8,
+        "short_ratio_pct": 55.1
+      },
+      "IOVA": {
+        "squeeze_score": 38.5,
+        "short_ratio_pct": 29.9
+      },
+      "IP": {
+        "squeeze_score": 57.5,
+        "short_ratio_pct": 57.0
+      },
+      "IPW": {
+        "squeeze_score": 35.1,
+        "short_ratio_pct": 49.4
+      },
+      "IQ": {
+        "squeeze_score": 60.9,
+        "short_ratio_pct": 49.5
+      },
+      "IQLT": {
+        "squeeze_score": 19.9,
+        "short_ratio_pct": 35.3
+      },
+      "IQMM": {
+        "squeeze_score": 0.0,
+        "short_ratio_pct": 0.1
+      },
+      "IQMX": {
+        "squeeze_score": 49.9,
+        "short_ratio_pct": 51.8
+      },
+      "IR": {
+        "squeeze_score": 57.4,
+        "short_ratio_pct": 56.4
+      },
+      "IRDM": {
+        "squeeze_score": 31.0,
+        "short_ratio_pct": 44.4
+      },
+      "IRE": {
+        "squeeze_score": 71.0,
+        "short_ratio_pct": 54.8
+      },
+      "IREN": {
+        "squeeze_score": 68.4,
+        "short_ratio_pct": 50.1
+      },
+      "IREZ": {
+        "squeeze_score": 73.5,
+        "short_ratio_pct": 55.6
+      },
+      "IRM": {
+        "squeeze_score": 47.3,
+        "short_ratio_pct": 54.7
+      },
+      "IRT": {
+        "squeeze_score": 34.4,
+        "short_ratio_pct": 48.9
+      },
+      "IRWD": {
+        "squeeze_score": 15.5,
+        "short_ratio_pct": 28.8
+      },
+      "ISRG": {
+        "squeeze_score": 53.2,
+        "short_ratio_pct": 50.6
+      },
+      "ITB": {
+        "squeeze_score": 81.3,
+        "short_ratio_pct": 80.7
+      },
+      "ITOT": {
+        "squeeze_score": 70.9,
+        "short_ratio_pct": 71.6
+      },
+      "ITRG": {
+        "squeeze_score": 49.8,
+        "short_ratio_pct": 51.6
+      },
+      "ITUB": {
+        "squeeze_score": 47.6,
+        "short_ratio_pct": 37.1
+      },
+      "IUSB": {
+        "squeeze_score": 77.7,
+        "short_ratio_pct": 62.1
+      },
+      "IVA": {
+        "squeeze_score": 15.0,
+        "short_ratio_pct": 23.0
+      },
+      "IVES": {
+        "squeeze_score": 65.1,
+        "short_ratio_pct": 67.2
+      },
+      "IVR": {
+        "squeeze_score": 55.0,
+        "short_ratio_pct": 55.3
+      },
+      "IVV": {
+        "squeeze_score": 48.2,
+        "short_ratio_pct": 47.1
+      },
+      "IVVD": {
+        "squeeze_score": 24.2,
+        "short_ratio_pct": 35.5
+      },
+      "IVW": {
+        "squeeze_score": 6.1,
+        "short_ratio_pct": 23.1
+      },
+      "IVZ": {
+        "squeeze_score": 34.3,
+        "short_ratio_pct": 42.4
+      },
+      "IWD": {
+        "squeeze_score": 6.5,
+        "short_ratio_pct": 22.3
+      },
+      "IWF": {
+        "squeeze_score": 26.3,
+        "short_ratio_pct": 29.3
+      },
+      "IWM": {
+        "squeeze_score": 90.4,
+        "short_ratio_pct": 68.0
+      },
+      "IWR": {
+        "squeeze_score": 12.8,
+        "short_ratio_pct": 29.5
+      },
+      "IXUS": {
+        "squeeze_score": 20.4,
+        "short_ratio_pct": 17.1
+      },
+      "IYF": {
+        "squeeze_score": 81.4,
+        "short_ratio_pct": 87.6
+      },
+      "IYR": {
+        "squeeze_score": 73.2,
+        "short_ratio_pct": 63.6
+      },
+      "JAAA": {
+        "squeeze_score": 95.4,
+        "short_ratio_pct": 77.4
+      },
+      "JACK": {
+        "squeeze_score": 38.5,
+        "short_ratio_pct": 48.4
+      },
+      "JBL": {
+        "squeeze_score": 37.4,
+        "short_ratio_pct": 49.4
+      },
+      "JBLU": {
+        "squeeze_score": 80.9,
+        "short_ratio_pct": 58.0
+      },
+      "JBS": {
+        "squeeze_score": 80.8,
+        "short_ratio_pct": 69.4
+      },
+      "JCI": {
+        "squeeze_score": 41.3,
+        "short_ratio_pct": 47.1
+      },
+      "JCPB": {
+        "squeeze_score": 16.0,
+        "short_ratio_pct": 24.1
+      },
+      "JD": {
+        "squeeze_score": 72.3,
+        "short_ratio_pct": 59.0
+      },
+      "JELD": {
+        "squeeze_score": 69.3,
+        "short_ratio_pct": 62.0
+      },
+      "JEM": {
+        "squeeze_score": 52.2,
+        "short_ratio_pct": 47.2
+      },
+      "JEPI": {
+        "squeeze_score": 78.6,
+        "short_ratio_pct": 59.0
+      },
+      "JEPQ": {
+        "squeeze_score": 47.7,
+        "short_ratio_pct": 40.1
+      },
+      "JETS": {
+        "squeeze_score": 42.7,
+        "short_ratio_pct": 53.5
+      },
+      "JHCR": {
+        "squeeze_score": 85.4,
+        "short_ratio_pct": 99.3
+      },
+      "JHX": {
+        "squeeze_score": 47.0,
+        "short_ratio_pct": 46.7
+      },
+      "JKHY": {
+        "squeeze_score": 68.7,
+        "short_ratio_pct": 69.1
+      },
+      "JLHL": {
+        "squeeze_score": 24.5,
+        "short_ratio_pct": 42.9
+      },
+      "JMST": {
+        "squeeze_score": 26.5,
+        "short_ratio_pct": 44.2
+      },
+      "JMUB": {
+        "squeeze_score": 70.4,
+        "short_ratio_pct": 65.3
+      },
+      "JNJ": {
+        "squeeze_score": 46.8,
+        "short_ratio_pct": 42.1
+      },
+      "JNK": {
+        "squeeze_score": 73.6,
+        "short_ratio_pct": 71.9
+      },
+      "JOBY": {
+        "squeeze_score": 56.7,
+        "short_ratio_pct": 42.7
+      },
+      "JPC": {
+        "squeeze_score": 20.5,
+        "short_ratio_pct": 41.2
+      },
+      "JPIE": {
+        "squeeze_score": 52.5,
+        "short_ratio_pct": 54.7
+      },
+      "JPM": {
+        "squeeze_score": 41.7,
+        "short_ratio_pct": 41.2
+      },
+      "JPST": {
+        "squeeze_score": 53.2,
+        "short_ratio_pct": 44.1
+      },
+      "JUCY": {
+        "squeeze_score": 91.7,
+        "short_ratio_pct": 98.4
+      },
+      "JUNS": {
+        "squeeze_score": 61.7,
+        "short_ratio_pct": 62.0
+      },
+      "KBH": {
+        "squeeze_score": 57.3,
+        "short_ratio_pct": 62.2
+      },
+      "KBR": {
+        "squeeze_score": 77.8,
+        "short_ratio_pct": 72.7
+      },
+      "KBWB": {
+        "squeeze_score": 20.1,
+        "short_ratio_pct": 41.1
+      },
+      "KD": {
+        "squeeze_score": 75.5,
+        "short_ratio_pct": 62.9
+      },
+      "KDP": {
+        "squeeze_score": 49.3,
+        "short_ratio_pct": 39.8
+      },
+      "KEEL": {
+        "squeeze_score": 65.7,
+        "short_ratio_pct": 48.5
+      },
+      "KEY": {
+        "squeeze_score": 66.1,
+        "short_ratio_pct": 50.2
+      },
+      "KGC": {
+        "squeeze_score": 33.0,
+        "short_ratio_pct": 34.2
+      },
+      "KGS": {
+        "squeeze_score": 22.8,
+        "short_ratio_pct": 40.8
+      },
+      "KHC": {
+        "squeeze_score": 72.1,
+        "short_ratio_pct": 54.8
+      },
+      "KIDZ": {
+        "squeeze_score": 78.0,
+        "short_ratio_pct": 56.0
+      },
+      "KIM": {
+        "squeeze_score": 74.0,
+        "short_ratio_pct": 64.6
+      },
+      "KKR": {
+        "squeeze_score": 31.5,
+        "short_ratio_pct": 40.4
+      },
+      "KLAC": {
+        "squeeze_score": 27.2,
+        "short_ratio_pct": 22.7
+      },
+      "KLAR": {
+        "squeeze_score": 53.1,
+        "short_ratio_pct": 48.5
+      },
+      "KMB": {
+        "squeeze_score": 82.9,
+        "short_ratio_pct": 68.1
+      },
+      "KMI": {
+        "squeeze_score": 65.4,
+        "short_ratio_pct": 53.3
+      },
+      "KMX": {
+        "squeeze_score": 27.0,
+        "short_ratio_pct": 41.1
+      },
+      "KNX": {
+        "squeeze_score": 20.7,
+        "short_ratio_pct": 39.3
+      },
+      "KO": {
+        "squeeze_score": 46.5,
+        "short_ratio_pct": 38.8
+      },
+      "KOLD": {
+        "squeeze_score": 7.3,
+        "short_ratio_pct": 30.0
+      },
+      "KOPN": {
+        "squeeze_score": 74.7,
+        "short_ratio_pct": 59.9
+      },
+      "KOS": {
+        "squeeze_score": 68.0,
+        "short_ratio_pct": 50.9
+      },
+      "KR": {
+        "squeeze_score": 66.7,
+        "short_ratio_pct": 52.5
+      },
+      "KRE": {
+        "squeeze_score": 91.8,
+        "short_ratio_pct": 80.9
+      },
+      "KRMN": {
+        "squeeze_score": 83.0,
+        "short_ratio_pct": 70.3
+      },
+      "KSS": {
+        "squeeze_score": 59.3,
+        "short_ratio_pct": 50.9
+      },
+      "KT": {
+        "squeeze_score": 38.7,
+        "short_ratio_pct": 49.0
+      },
+      "KTOS": {
+        "squeeze_score": 64.2,
+        "short_ratio_pct": 54.5
+      },
+      "KULR": {
+        "squeeze_score": 54.8,
+        "short_ratio_pct": 58.2
+      },
+      "KVUE": {
+        "squeeze_score": 39.3,
+        "short_ratio_pct": 30.9
+      },
+      "KVYO": {
+        "squeeze_score": 47.2,
+        "short_ratio_pct": 44.7
+      },
+      "KWEB": {
+        "squeeze_score": 90.7,
+        "short_ratio_pct": 69.0
+      },
+      "KYIV": {
+        "squeeze_score": 18.4,
+        "short_ratio_pct": 39.0
+      },
+      "LAB": {
+        "squeeze_score": 46.8,
+        "short_ratio_pct": 42.9
+      },
+      "LABD": {
+        "squeeze_score": 53.9,
+        "short_ratio_pct": 42.8
+      },
+      "LAC": {
+        "squeeze_score": 52.9,
+        "short_ratio_pct": 45.4
+      },
+      "LADR": {
+        "squeeze_score": 36.2,
+        "short_ratio_pct": 48.3
+      },
+      "LAES": {
+        "squeeze_score": 84.4,
+        "short_ratio_pct": 61.7
+      },
+      "LASE": {
+        "squeeze_score": 26.4,
+        "short_ratio_pct": 42.2
+      },
+      "LBRDK": {
+        "squeeze_score": 15.1,
+        "short_ratio_pct": 37.2
+      },
+      "LBRT": {
+        "squeeze_score": 46.8,
+        "short_ratio_pct": 47.1
+      },
+      "LBTYA": {
+        "squeeze_score": 14.3,
+        "short_ratio_pct": 34.4
+      },
+      "LCID": {
+        "squeeze_score": 83.9,
+        "short_ratio_pct": 61.8
+      },
+      "LDI": {
+        "squeeze_score": 35.3,
+        "short_ratio_pct": 48.0
+      },
+      "LDOS": {
+        "squeeze_score": 48.3,
+        "short_ratio_pct": 55.0
+      },
+      "LEGN": {
+        "squeeze_score": 44.6,
+        "short_ratio_pct": 54.4
+      },
+      "LEN": {
+        "squeeze_score": 62.1,
+        "short_ratio_pct": 59.7
+      },
+      "LENZ": {
+        "squeeze_score": 51.3,
+        "short_ratio_pct": 58.0
+      },
+      "LEVI": {
+        "squeeze_score": 56.5,
+        "short_ratio_pct": 52.5
+      },
+      "LFST": {
+        "squeeze_score": 10.6,
+        "short_ratio_pct": 23.6
+      },
+      "LGO": {
+        "squeeze_score": 40.2,
+        "short_ratio_pct": 47.6
+      },
+      "LGPS": {
+        "squeeze_score": 66.4,
+        "short_ratio_pct": 61.6
+      },
+      "LGVN": {
+        "squeeze_score": 23.1,
+        "short_ratio_pct": 43.5
+      },
+      "LHAI": {
+        "squeeze_score": 52.6,
+        "short_ratio_pct": 44.2
+      },
+      "LHSW": {
+        "squeeze_score": 79.3,
+        "short_ratio_pct": 57.1
+      },
+      "LI": {
+        "squeeze_score": 79.2,
+        "short_ratio_pct": 63.6
+      },
+      "LIMN": {
+        "squeeze_score": 79.2,
+        "short_ratio_pct": 57.2
+      },
+      "LIN": {
+        "squeeze_score": 17.1,
+        "short_ratio_pct": 38.5
+      },
+      "LION": {
+        "squeeze_score": 15.7,
+        "short_ratio_pct": 35.3
+      },
+      "LITE": {
+        "squeeze_score": 35.4,
+        "short_ratio_pct": 39.6
+      },
+      "LITX": {
+        "squeeze_score": 47.6,
+        "short_ratio_pct": 51.2
+      },
+      "LKQ": {
+        "squeeze_score": 10.1,
+        "short_ratio_pct": 29.0
+      },
+      "LLY": {
+        "squeeze_score": 22.6,
+        "short_ratio_pct": 38.5
+      },
+      "LMND": {
+        "squeeze_score": 52.9,
+        "short_ratio_pct": 51.8
+      },
+      "LNC": {
+        "squeeze_score": 25.9,
+        "short_ratio_pct": 43.6
+      },
+      "LNG": {
+        "squeeze_score": 6.5,
+        "short_ratio_pct": 28.5
+      },
+      "LNT": {
+        "squeeze_score": 80.1,
+        "short_ratio_pct": 81.9
+      },
+      "LOBO": {
+        "squeeze_score": 65.3,
+        "short_ratio_pct": 51.9
+      },
+      "LOGI": {
+        "squeeze_score": 69.1,
+        "short_ratio_pct": 66.6
+      },
+      "LOW": {
+        "squeeze_score": 63.7,
+        "short_ratio_pct": 58.4
+      },
+      "LPL": {
+        "squeeze_score": 75.1,
+        "short_ratio_pct": 61.4
+      },
+      "LPRO": {
+        "squeeze_score": 29.8,
+        "short_ratio_pct": 33.0
+      },
+      "LPTH": {
+        "squeeze_score": 16.0,
+        "short_ratio_pct": 36.9
+      },
+      "LQD": {
+        "squeeze_score": 76.6,
+        "short_ratio_pct": 57.1
+      },
+      "LQDA": {
+        "squeeze_score": 58.6,
+        "short_ratio_pct": 62.6
+      },
+      "LRCX": {
+        "squeeze_score": 27.7,
+        "short_ratio_pct": 24.9
+      },
+      "LRMR": {
+        "squeeze_score": 10.4,
+        "short_ratio_pct": 32.0
+      },
+      "LSCC": {
+        "squeeze_score": 7.7,
+        "short_ratio_pct": 27.3
+      },
+      "LTH": {
+        "squeeze_score": 22.9,
+        "short_ratio_pct": 32.5
+      },
+      "LUCD": {
+        "squeeze_score": 44.1,
+        "short_ratio_pct": 53.3
+      },
+      "LUCY": {
+        "squeeze_score": 77.2,
+        "short_ratio_pct": 55.3
+      },
+      "LULU": {
+        "squeeze_score": 56.0,
+        "short_ratio_pct": 51.5
+      },
+      "LUMN": {
+        "squeeze_score": 77.9,
+        "short_ratio_pct": 57.8
+      },
+      "LUNR": {
+        "squeeze_score": 48.2,
+        "short_ratio_pct": 41.1
+      },
+      "LUV": {
+        "squeeze_score": 45.8,
+        "short_ratio_pct": 43.3
+      },
+      "LVS": {
+        "squeeze_score": 86.0,
+        "short_ratio_pct": 74.5
+      },
+      "LWLG": {
+        "squeeze_score": 67.8,
+        "short_ratio_pct": 60.6
+      },
+      "LX": {
+        "squeeze_score": 79.7,
+        "short_ratio_pct": 66.6
+      },
+      "LXRX": {
+        "squeeze_score": 70.1,
+        "short_ratio_pct": 64.6
+      },
+      "LYB": {
+        "squeeze_score": 19.4,
+        "short_ratio_pct": 31.8
+      },
+      "LYFT": {
+        "squeeze_score": 78.8,
+        "short_ratio_pct": 58.5
+      },
+      "LYG": {
+        "squeeze_score": 37.8,
+        "short_ratio_pct": 33.1
+      },
+      "LYV": {
+        "squeeze_score": 31.8,
+        "short_ratio_pct": 44.2
+      },
+      "LZ": {
+        "squeeze_score": 63.2,
+        "short_ratio_pct": 57.7
+      },
+      "M": {
+        "squeeze_score": 53.4,
+        "short_ratio_pct": 50.7
+      },
+      "MA": {
+        "squeeze_score": 40.7,
+        "short_ratio_pct": 43.5
+      },
+      "MAGS": {
+        "squeeze_score": 83.4,
+        "short_ratio_pct": 69.1
+      },
+      "MAR": {
+        "squeeze_score": 45.9,
+        "short_ratio_pct": 54.5
+      },
+      "MARA": {
+        "squeeze_score": 78.2,
+        "short_ratio_pct": 56.7
+      },
+      "MAS": {
+        "squeeze_score": 58.8,
+        "short_ratio_pct": 63.1
+      },
+      "MAT": {
+        "squeeze_score": 59.0,
+        "short_ratio_pct": 50.8
+      },
+      "MBB": {
+        "squeeze_score": 54.3,
+        "short_ratio_pct": 53.7
+      },
+      "MBC": {
+        "squeeze_score": 68.5,
+        "short_ratio_pct": 66.1
+      },
+      "MBGL": {
+        "squeeze_score": 39.3,
+        "short_ratio_pct": 26.0
+      },
+      "MBLY": {
+        "squeeze_score": 41.3,
+        "short_ratio_pct": 37.3
+      },
+      "MCD": {
+        "squeeze_score": 67.9,
+        "short_ratio_pct": 54.1
+      },
+      "MCHP": {
+        "squeeze_score": 55.6,
+        "short_ratio_pct": 49.1
+      },
+      "MDB": {
+        "squeeze_score": 35.9,
+        "short_ratio_pct": 48.1
+      },
+      "MDCX": {
+        "squeeze_score": 42.8,
+        "short_ratio_pct": 51.6
+      },
+      "MDLN": {
+        "squeeze_score": 47.4,
+        "short_ratio_pct": 42.5
+      },
+      "MDLZ": {
+        "squeeze_score": 55.0,
+        "short_ratio_pct": 48.9
+      },
+      "MDT": {
+        "squeeze_score": 46.3,
+        "short_ratio_pct": 39.8
+      },
+      "MDU": {
+        "squeeze_score": 19.0,
+        "short_ratio_pct": 39.7
+      },
+      "MERC": {
+        "squeeze_score": 12.8,
+        "short_ratio_pct": 35.2
+      },
+      "MET": {
+        "squeeze_score": 40.6,
+        "short_ratio_pct": 45.0
+      },
+      "META": {
+        "squeeze_score": 65.4,
+        "short_ratio_pct": 50.0
+      },
+      "METU": {
+        "squeeze_score": 21.7,
+        "short_ratio_pct": 29.4
+      },
+      "MFA": {
+        "squeeze_score": 54.2,
+        "short_ratio_pct": 58.3
+      },
+      "MFG": {
+        "squeeze_score": 89.0,
+        "short_ratio_pct": 82.7
+      },
+      "MGK": {
+        "squeeze_score": 10.7,
+        "short_ratio_pct": 32.0
+      },
+      "MGM": {
+        "squeeze_score": 75.4,
+        "short_ratio_pct": 68.3
+      },
+      "MGN": {
+        "squeeze_score": 42.4,
+        "short_ratio_pct": 49.3
+      },
+      "MGNI": {
+        "squeeze_score": 9.9,
+        "short_ratio_pct": 30.6
+      },
+      "MH": {
+        "squeeze_score": 4.7,
+        "short_ratio_pct": 25.9
+      },
+      "MHD": {
+        "squeeze_score": 2.1,
+        "short_ratio_pct": 20.5
+      },
+      "MIACU": {
+        "squeeze_score": 6.2,
+        "short_ratio_pct": 22.6
+      },
+      "MIAX": {
+        "squeeze_score": 63.3,
+        "short_ratio_pct": 65.3
+      },
+      "MINT": {
+        "squeeze_score": 61.3,
+        "short_ratio_pct": 58.4
+      },
+      "MIR": {
+        "squeeze_score": 68.5,
+        "short_ratio_pct": 57.5
+      },
+      "MKC": {
+        "squeeze_score": 79.8,
+        "short_ratio_pct": 70.2
+      },
+      "MKSI": {
+        "squeeze_score": 27.0,
+        "short_ratio_pct": 44.5
+      },
+      "MLCO": {
+        "squeeze_score": 55.9,
+        "short_ratio_pct": 48.4
+      },
+      "MLI": {
+        "squeeze_score": 43.6,
+        "short_ratio_pct": 48.4
+      },
+      "MLYS": {
+        "squeeze_score": 33.9,
+        "short_ratio_pct": 45.3
+      },
+      "MMM": {
+        "squeeze_score": 49.5,
+        "short_ratio_pct": 53.7
+      },
+      "MNKD": {
+        "squeeze_score": 63.2,
+        "short_ratio_pct": 56.9
+      },
+      "MNST": {
+        "squeeze_score": 10.8,
+        "short_ratio_pct": 25.5
+      },
+      "MNTN": {
+        "squeeze_score": 11.8,
+        "short_ratio_pct": 31.1
+      },
+      "MNTS": {
+        "squeeze_score": 60.6,
+        "short_ratio_pct": 54.9
+      },
+      "MO": {
+        "squeeze_score": 84.4,
+        "short_ratio_pct": 67.6
+      },
+      "MOD": {
+        "squeeze_score": 12.7,
+        "short_ratio_pct": 35.4
+      },
+      "MORT": {
+        "squeeze_score": 82.6,
+        "short_ratio_pct": 80.7
+      },
+      "MOS": {
+        "squeeze_score": 28.9,
+        "short_ratio_pct": 27.1
+      },
+      "MP": {
+        "squeeze_score": 68.3,
+        "short_ratio_pct": 57.5
+      },
+      "MPC": {
+        "squeeze_score": 58.0,
+        "short_ratio_pct": 60.8
+      },
+      "MPT": {
+        "squeeze_score": 68.3,
+        "short_ratio_pct": 55.4
+      },
+      "MREO": {
+        "squeeze_score": 2.4,
+        "short_ratio_pct": 20.7
+      },
+      "MRK": {
+        "squeeze_score": 77.4,
+        "short_ratio_pct": 59.7
+      },
+      "MRLN": {
+        "squeeze_score": 61.6,
+        "short_ratio_pct": 54.8
+      },
+      "MRNA": {
+        "squeeze_score": 95.7,
+        "short_ratio_pct": 76.5
+      },
+      "MRP": {
+        "squeeze_score": 66.9,
+        "short_ratio_pct": 69.0
+      },
+      "MRSH": {
+        "squeeze_score": 54.8,
+        "short_ratio_pct": 52.5
+      },
+      "MRVI": {
+        "squeeze_score": 29.1,
+        "short_ratio_pct": 41.4
+      },
+      "MRVL": {
+        "squeeze_score": 44.0,
+        "short_ratio_pct": 34.0
+      },
+      "MS": {
+        "squeeze_score": 61.7,
+        "short_ratio_pct": 54.7
+      },
+      "MSFT": {
+        "squeeze_score": 43.2,
+        "short_ratio_pct": 32.1
+      },
+      "MSFU": {
+        "squeeze_score": 55.0,
+        "short_ratio_pct": 47.3
+      },
+      "MSOS": {
+        "squeeze_score": 38.4,
+        "short_ratio_pct": 31.0
+      },
+      "MSOX": {
+        "squeeze_score": 83.7,
+        "short_ratio_pct": 67.0
+      },
+      "MSS": {
+        "squeeze_score": 56.6,
+        "short_ratio_pct": 46.0
+      },
+      "MSTR": {
+        "squeeze_score": 55.4,
+        "short_ratio_pct": 42.9
+      },
+      "MSTU": {
+        "squeeze_score": 67.0,
+        "short_ratio_pct": 49.0
+      },
+      "MSTX": {
+        "squeeze_score": 76.7,
+        "short_ratio_pct": 57.2
+      },
+      "MSTY": {
+        "squeeze_score": 13.1,
+        "short_ratio_pct": 34.4
+      },
+      "MSTZ": {
+        "squeeze_score": 60.2,
+        "short_ratio_pct": 46.7
+      },
+      "MTCH": {
+        "squeeze_score": 53.7,
+        "short_ratio_pct": 58.5
+      },
+      "MTDR": {
+        "squeeze_score": 68.8,
+        "short_ratio_pct": 70.4
+      },
+      "MTUM": {
+        "squeeze_score": 17.7,
+        "short_ratio_pct": 36.2
+      },
+      "MU": {
+        "squeeze_score": 51.7,
+        "short_ratio_pct": 39.6
+      },
+      "MUB": {
+        "squeeze_score": 92.2,
+        "short_ratio_pct": 77.3
+      },
+      "MUD": {
+        "squeeze_score": 35.5,
+        "short_ratio_pct": 31.7
+      },
+      "MUFG": {
+        "squeeze_score": 33.3,
+        "short_ratio_pct": 36.2
+      },
+      "MULL": {
+        "squeeze_score": 67.9,
+        "short_ratio_pct": 54.1
+      },
+      "MUR": {
+        "squeeze_score": 25.2,
+        "short_ratio_pct": 43.7
+      },
+      "MUU": {
+        "squeeze_score": 52.4,
+        "short_ratio_pct": 58.3
+      },
+      "MUZ": {
+        "squeeze_score": 45.0,
+        "short_ratio_pct": 40.9
+      },
+      "MVIS": {
+        "squeeze_score": 56.7,
+        "short_ratio_pct": 45.6
+      },
+      "MVLL": {
+        "squeeze_score": 31.4,
+        "short_ratio_pct": 39.5
+      },
+      "MVO": {
+        "squeeze_score": 21.7,
+        "short_ratio_pct": 30.9
+      },
+      "MVST": {
+        "squeeze_score": 74.6,
+        "short_ratio_pct": 63.1
+      },
+      "MWH": {
+        "squeeze_score": 40.2,
+        "short_ratio_pct": 51.9
+      },
+      "MX": {
+        "squeeze_score": 4.2,
+        "short_ratio_pct": 25.3
+      },
+      "MXL": {
+        "squeeze_score": 31.3,
+        "short_ratio_pct": 37.3
+      },
+      "NAK": {
+        "squeeze_score": 55.5,
+        "short_ratio_pct": 47.2
+      },
+      "NASA": {
+        "squeeze_score": 53.9,
+        "short_ratio_pct": 51.9
+      },
+      "NAT": {
+        "squeeze_score": 28.4,
+        "short_ratio_pct": 36.9
+      },
+      "NAVN": {
+        "squeeze_score": 27.6,
+        "short_ratio_pct": 34.6
+      },
+      "NB": {
+        "squeeze_score": 19.4,
+        "short_ratio_pct": 39.8
+      },
+      "NBIL": {
+        "squeeze_score": 44.8,
+        "short_ratio_pct": 51.0
+      },
+      "NBIS": {
+        "squeeze_score": 46.1,
+        "short_ratio_pct": 36.5
+      },
+      "NBIZ": {
+        "squeeze_score": 46.8,
+        "short_ratio_pct": 50.4
+      },
+      "NCLH": {
+        "squeeze_score": 86.0,
+        "short_ratio_pct": 64.2
+      },
+      "NCNO": {
+        "squeeze_score": 68.4,
+        "short_ratio_pct": 60.8
+      },
+      "NCRA": {
+        "squeeze_score": 30.0,
+        "short_ratio_pct": 29.8
+      },
+      "NDAQ": {
+        "squeeze_score": 17.4,
+        "short_ratio_pct": 29.4
+      },
+      "NEBX": {
+        "squeeze_score": 17.2,
+        "short_ratio_pct": 39.1
+      },
+      "NEE": {
+        "squeeze_score": 63.0,
+        "short_ratio_pct": 50.7
+      },
+      "NEM": {
+        "squeeze_score": 54.8,
+        "short_ratio_pct": 47.9
+      },
+      "NEO": {
+        "squeeze_score": 80.0,
+        "short_ratio_pct": 64.7
+      },
+      "NEOV": {
+        "squeeze_score": 31.8,
+        "short_ratio_pct": 38.1
+      },
+      "NESR": {
+        "squeeze_score": 19.0,
+        "short_ratio_pct": 33.4
+      },
+      "NET": {
+        "squeeze_score": 16.0,
+        "short_ratio_pct": 33.6
+      },
+      "NEXT": {
+        "squeeze_score": 58.2,
+        "short_ratio_pct": 59.5
+      },
+      "NFE": {
+        "squeeze_score": 36.3,
+        "short_ratio_pct": 42.0
+      },
+      "NFLX": {
+        "squeeze_score": 62.1,
+        "short_ratio_pct": 46.5
+      },
+      "NG": {
+        "squeeze_score": 56.9,
+        "short_ratio_pct": 60.5
+      },
+      "NI": {
+        "squeeze_score": 40.6,
+        "short_ratio_pct": 44.2
+      },
+      "NIO": {
+        "squeeze_score": 44.2,
+        "short_ratio_pct": 33.0
+      },
+      "NIXX": {
+        "squeeze_score": 58.6,
+        "short_ratio_pct": 60.3
+      },
+      "NKE": {
+        "squeeze_score": 63.8,
+        "short_ratio_pct": 48.3
+      },
+      "NLY": {
+        "squeeze_score": 51.6,
+        "short_ratio_pct": 43.6
+      },
+      "NN": {
+        "squeeze_score": 46.3,
+        "short_ratio_pct": 55.2
+      },
+      "NNBR": {
+        "squeeze_score": 61.2,
+        "short_ratio_pct": 53.9
+      },
+      "NNDM": {
+        "squeeze_score": 13.5,
+        "short_ratio_pct": 34.4
+      },
+      "NNE": {
+        "squeeze_score": 63.4,
+        "short_ratio_pct": 58.5
+      },
+      "NNOX": {
+        "squeeze_score": 66.6,
+        "short_ratio_pct": 64.5
+      },
+      "NOG": {
+        "squeeze_score": 88.5,
+        "short_ratio_pct": 74.0
+      },
+      "NOK": {
+        "squeeze_score": 36.9,
+        "short_ratio_pct": 22.2
+      },
+      "NOV": {
+        "squeeze_score": 68.2,
+        "short_ratio_pct": 60.4
+      },
+      "NOW": {
+        "squeeze_score": 59.1,
+        "short_ratio_pct": 45.9
+      },
+      "NOWL": {
+        "squeeze_score": 56.7,
+        "short_ratio_pct": 43.7
+      },
+      "NRDY": {
+        "squeeze_score": 15.3,
+        "short_ratio_pct": 36.0
+      },
+      "NRG": {
+        "squeeze_score": 23.0,
+        "short_ratio_pct": 40.7
+      },
+      "NRGV": {
+        "squeeze_score": 33.0,
+        "short_ratio_pct": 39.0
+      },
+      "NRO": {
+        "squeeze_score": 7.0,
+        "short_ratio_pct": 29.6
+      },
+      "NTAP": {
+        "squeeze_score": 65.0,
+        "short_ratio_pct": 57.7
+      },
+      "NTLA": {
+        "squeeze_score": 50.9,
+        "short_ratio_pct": 47.3
+      },
+      "NTNX": {
+        "squeeze_score": 66.5,
+        "short_ratio_pct": 55.1
+      },
+      "NTR": {
+        "squeeze_score": 56.0,
+        "short_ratio_pct": 59.4
+      },
+      "NTRA": {
+        "squeeze_score": 22.1,
+        "short_ratio_pct": 42.6
+      },
+      "NTSK": {
+        "squeeze_score": 61.7,
+        "short_ratio_pct": 55.5
+      },
+      "NTST": {
+        "squeeze_score": 59.0,
+        "short_ratio_pct": 62.4
+      },
+      "NU": {
+        "squeeze_score": 62.5,
+        "short_ratio_pct": 46.4
+      },
+      "NUAI": {
+        "squeeze_score": 79.1,
+        "short_ratio_pct": 58.4
+      },
+      "NUE": {
+        "squeeze_score": 9.7,
+        "short_ratio_pct": 32.4
+      },
+      "NUVB": {
+        "squeeze_score": 86.0,
+        "short_ratio_pct": 69.0
+      },
+      "NVAX": {
+        "squeeze_score": 41.7,
+        "short_ratio_pct": 44.4
+      },
+      "NVCR": {
+        "squeeze_score": 41.5,
+        "short_ratio_pct": 51.8
+      },
+      "NVD": {
+        "squeeze_score": 49.2,
+        "short_ratio_pct": 36.8
+      },
+      "NVDA": {
+        "squeeze_score": 47.5,
+        "short_ratio_pct": 34.7
+      },
+      "NVDL": {
+        "squeeze_score": 46.0,
+        "short_ratio_pct": 40.5
+      },
+      "NVDQ": {
+        "squeeze_score": 24.9,
+        "short_ratio_pct": 44.0
+      },
+      "NVDX": {
+        "squeeze_score": 65.8,
+        "short_ratio_pct": 60.0
+      },
+      "NVDY": {
+        "squeeze_score": 47.8,
+        "short_ratio_pct": 51.2
+      },
+      "NVO": {
+        "squeeze_score": 55.6,
+        "short_ratio_pct": 44.7
+      },
+      "NVS": {
+        "squeeze_score": 5.3,
+        "short_ratio_pct": 24.6
+      },
+      "NVST": {
+        "squeeze_score": 56.8,
+        "short_ratio_pct": 55.8
+      },
+      "NVT": {
+        "squeeze_score": 5.8,
+        "short_ratio_pct": 24.9
+      },
+      "NVTS": {
+        "squeeze_score": 40.0,
+        "short_ratio_pct": 31.2
+      },
+      "NWG": {
+        "squeeze_score": 10.3,
+        "short_ratio_pct": 28.7
+      },
+      "NWL": {
+        "squeeze_score": 89.4,
+        "short_ratio_pct": 66.3
+      },
+      "NWSA": {
+        "squeeze_score": 37.4,
+        "short_ratio_pct": 46.0
+      },
+      "NXDR": {
+        "squeeze_score": 55.7,
+        "short_ratio_pct": 56.8
+      },
+      "NXE": {
+        "squeeze_score": 66.1,
+        "short_ratio_pct": 60.6
+      },
+      "NXPI": {
+        "squeeze_score": 7.4,
+        "short_ratio_pct": 27.6
+      },
+      "NXT": {
+        "squeeze_score": 62.2,
+        "short_ratio_pct": 60.4
+      },
+      "NXXT": {
+        "squeeze_score": 76.4,
+        "short_ratio_pct": 67.5
+      },
+      "NYT": {
+        "squeeze_score": 75.8,
+        "short_ratio_pct": 76.7
+      },
+      "O": {
+        "squeeze_score": 73.7,
+        "short_ratio_pct": 60.6
+      },
+      "OBDC": {
+        "squeeze_score": 43.5,
+        "short_ratio_pct": 45.1
+      },
+      "OC": {
+        "squeeze_score": 13.7,
+        "short_ratio_pct": 36.6
+      },
+      "OCGN": {
+        "squeeze_score": 74.3,
+        "short_ratio_pct": 57.9
+      },
+      "OCUL": {
+        "squeeze_score": 54.9,
+        "short_ratio_pct": 58.1
+      },
+      "ODD": {
+        "squeeze_score": 31.7,
+        "short_ratio_pct": 47.7
+      },
+      "ODV": {
+        "squeeze_score": 65.6,
+        "short_ratio_pct": 58.7
+      },
+      "OGN": {
+        "squeeze_score": 49.0,
+        "short_ratio_pct": 52.5
+      },
+      "OHI": {
+        "squeeze_score": 60.4,
+        "short_ratio_pct": 64.8
+      },
+      "OKE": {
+        "squeeze_score": 82.2,
+        "short_ratio_pct": 72.5
+      },
+      "OKLL": {
+        "squeeze_score": 79.0,
+        "short_ratio_pct": 59.1
+      },
+      "OKLO": {
+        "squeeze_score": 47.7,
+        "short_ratio_pct": 41.3
+      },
+      "OKTA": {
+        "squeeze_score": 21.0,
+        "short_ratio_pct": 34.9
+      },
+      "OLLI": {
+        "squeeze_score": 72.5,
+        "short_ratio_pct": 60.0
+      },
+      "OLN": {
+        "squeeze_score": 79.5,
+        "short_ratio_pct": 69.3
+      },
+      "OLPX": {
+        "squeeze_score": 71.6,
+        "short_ratio_pct": 53.9
+      },
+      "OMC": {
+        "squeeze_score": 72.7,
+        "short_ratio_pct": 62.8
+      },
+      "OMER": {
+        "squeeze_score": 39.5,
+        "short_ratio_pct": 50.9
+      },
+      "OMEX": {
+        "squeeze_score": 37.3,
+        "short_ratio_pct": 44.5
+      },
+      "ON": {
+        "squeeze_score": 36.8,
+        "short_ratio_pct": 33.3
+      },
+      "ONB": {
+        "squeeze_score": 81.7,
+        "short_ratio_pct": 63.8
+      },
+      "ONCO": {
+        "squeeze_score": 66.2,
+        "short_ratio_pct": 55.9
+      },
+      "ONCY": {
+        "squeeze_score": 40.4,
+        "short_ratio_pct": 51.9
+      },
+      "ONDL": {
+        "squeeze_score": 15.9,
+        "short_ratio_pct": 36.9
+      },
+      "ONDS": {
+        "squeeze_score": 54.2,
+        "short_ratio_pct": 40.7
+      },
+      "ONON": {
+        "squeeze_score": 29.3,
+        "short_ratio_pct": 35.4
+      },
+      "OPCH": {
+        "squeeze_score": 52.0,
+        "short_ratio_pct": 56.2
+      },
+      "OPEN": {
+        "squeeze_score": 59.4,
+        "short_ratio_pct": 44.3
+      },
+      "OPK": {
+        "squeeze_score": 47.5,
+        "short_ratio_pct": 51.0
+      },
+      "OPTT": {
+        "squeeze_score": 77.1,
+        "short_ratio_pct": 64.8
+      },
+      "OPTU": {
+        "squeeze_score": 70.5,
+        "short_ratio_pct": 54.9
+      },
+      "ORBS": {
+        "squeeze_score": 87.0,
+        "short_ratio_pct": 65.0
+      },
+      "ORC": {
+        "squeeze_score": 41.0,
+        "short_ratio_pct": 43.5
+      },
+      "ORCL": {
+        "squeeze_score": 33.0,
+        "short_ratio_pct": 13.9
+      },
+      "ORCLPD": {
+        "squeeze_score": 1.2,
+        "short_ratio_pct": 15.9
+      },
+      "ORCU": {
+        "squeeze_score": 65.1,
+        "short_ratio_pct": 55.2
+      },
+      "ORCX": {
+        "squeeze_score": 68.8,
+        "short_ratio_pct": 59.8
+      },
+      "ORIC": {
+        "squeeze_score": 52.4,
+        "short_ratio_pct": 51.4
+      },
+      "ORKA": {
+        "squeeze_score": 78.0,
+        "short_ratio_pct": 82.1
+      },
+      "ORLY": {
+        "squeeze_score": 38.3,
+        "short_ratio_pct": 30.2
+      },
+      "OSCR": {
+        "squeeze_score": 24.5,
+        "short_ratio_pct": 25.7
+      },
+      "OSTX": {
+        "squeeze_score": 44.6,
+        "short_ratio_pct": 47.0
+      },
+      "OTF": {
+        "squeeze_score": 18.4,
+        "short_ratio_pct": 33.3
+      },
+      "OTIS": {
+        "squeeze_score": 39.1,
+        "short_ratio_pct": 44.3
+      },
+      "OTLK": {
+        "squeeze_score": 56.7,
+        "short_ratio_pct": 45.5
+      },
+      "OUST": {
+        "squeeze_score": 56.3,
+        "short_ratio_pct": 46.8
+      },
+      "OVV": {
+        "squeeze_score": 59.7,
+        "short_ratio_pct": 63.6
+      },
+      "OWL": {
+        "squeeze_score": 53.4,
+        "short_ratio_pct": 42.1
+      },
+      "OXSQ": {
+        "squeeze_score": 38.0,
+        "short_ratio_pct": 46.0
+      },
+      "OXY": {
+        "squeeze_score": 51.3,
+        "short_ratio_pct": 45.8
+      },
+      "P": {
+        "squeeze_score": 34.6,
+        "short_ratio_pct": 44.5
+      },
+      "PAAA": {
+        "squeeze_score": 28.4,
+        "short_ratio_pct": 37.8
+      },
+      "PAAS": {
+        "squeeze_score": 19.6,
+        "short_ratio_pct": 26.6
+      },
+      "PACB": {
+        "squeeze_score": 27.2,
+        "short_ratio_pct": 31.0
+      },
+      "PACS": {
+        "squeeze_score": 5.9,
+        "short_ratio_pct": 28.1
+      },
+      "PAGS": {
+        "squeeze_score": 26.6,
+        "short_ratio_pct": 32.6
+      },
+      "PALI": {
+        "squeeze_score": 72.2,
+        "short_ratio_pct": 59.3
+      },
+      "PANW": {
+        "squeeze_score": 54.3,
+        "short_ratio_pct": 45.6
+      },
+      "PAR": {
+        "squeeze_score": 88.1,
+        "short_ratio_pct": 87.4
+      },
+      "PATH": {
+        "squeeze_score": 51.7,
+        "short_ratio_pct": 38.8
+      },
+      "PAVE": {
+        "squeeze_score": 58.7,
+        "short_ratio_pct": 60.5
+      },
+      "PAYO": {
+        "squeeze_score": 46.5,
+        "short_ratio_pct": 50.3
+      },
+      "PAYX": {
+        "squeeze_score": 81.3,
+        "short_ratio_pct": 75.4
+      },
+      "PB": {
+        "squeeze_score": 12.4,
+        "short_ratio_pct": 28.0
+      },
+      "PBF": {
+        "squeeze_score": 25.4,
+        "short_ratio_pct": 42.0
+      },
+      "PBI": {
+        "squeeze_score": 15.2,
+        "short_ratio_pct": 36.1
+      },
+      "PBR": {
+        "squeeze_score": 53.5,
+        "short_ratio_pct": 44.0
+      },
+      "PBR/A": {
+        "squeeze_score": 15.1,
+        "short_ratio_pct": 31.6
+      },
+      "PCAR": {
+        "squeeze_score": 87.9,
+        "short_ratio_pct": 76.5
+      },
+      "PCG": {
+        "squeeze_score": 41.0,
+        "short_ratio_pct": 33.8
+      },
+      "PCOR": {
+        "squeeze_score": 12.8,
+        "short_ratio_pct": 30.5
+      },
+      "PCT": {
+        "squeeze_score": 56.2,
+        "short_ratio_pct": 52.1
+      },
+      "PCTY": {
+        "squeeze_score": 2.4,
+        "short_ratio_pct": 17.7
+      },
+      "PDBC": {
+        "squeeze_score": 10.3,
+        "short_ratio_pct": 17.2
+      },
+      "PDD": {
+        "squeeze_score": 59.9,
+        "short_ratio_pct": 50.4
+      },
+      "PDI": {
+        "squeeze_score": 45.2,
+        "short_ratio_pct": 44.3
+      },
+      "PDYN": {
+        "squeeze_score": 62.0,
+        "short_ratio_pct": 61.0
+      },
+      "PEB": {
+        "squeeze_score": 63.8,
+        "short_ratio_pct": 63.3
+      },
+      "PEG": {
+        "squeeze_score": 16.5,
+        "short_ratio_pct": 36.9
+      },
+      "PEGA": {
+        "squeeze_score": 71.2,
+        "short_ratio_pct": 61.4
+      },
+      "PENG": {
+        "squeeze_score": 56.6,
+        "short_ratio_pct": 51.4
+      },
+      "PENN": {
+        "squeeze_score": 35.5,
+        "short_ratio_pct": 40.0
+      },
+      "PEP": {
+        "squeeze_score": 54.7,
+        "short_ratio_pct": 46.8
+      },
+      "PEW": {
+        "squeeze_score": 87.8,
+        "short_ratio_pct": 66.7
+      },
+      "PFE": {
+        "squeeze_score": 51.4,
+        "short_ratio_pct": 38.9
+      },
+      "PFF": {
+        "squeeze_score": 35.8,
+        "short_ratio_pct": 42.0
+      },
+      "PFFA": {
+        "squeeze_score": 68.7,
+        "short_ratio_pct": 64.8
+      },
+      "PFFD": {
+        "squeeze_score": 71.1,
+        "short_ratio_pct": 68.6
+      },
+      "PFGC": {
+        "squeeze_score": 47.0,
+        "short_ratio_pct": 56.0
+      },
+      "PFLT": {
+        "squeeze_score": 42.0,
+        "short_ratio_pct": 45.7
+      },
+      "PFSA": {
+        "squeeze_score": 76.7,
+        "short_ratio_pct": 59.0
+      },
+      "PG": {
+        "squeeze_score": 61.7,
+        "short_ratio_pct": 50.3
+      },
+      "PGEN": {
+        "squeeze_score": 87.4,
+        "short_ratio_pct": 70.7
+      },
+      "PGNY": {
+        "squeeze_score": 5.8,
+        "short_ratio_pct": 27.8
+      },
+      "PGR": {
+        "squeeze_score": 79.2,
+        "short_ratio_pct": 68.5
+      },
+      "PGX": {
+        "squeeze_score": 33.0,
+        "short_ratio_pct": 36.6
+      },
+      "PGY": {
+        "squeeze_score": 59.6,
+        "short_ratio_pct": 52.3
+      },
+      "PHYS": {
+        "squeeze_score": 2.9,
+        "short_ratio_pct": 20.0
+      },
+      "PINS": {
+        "squeeze_score": 45.5,
+        "short_ratio_pct": 43.4
+      },
+      "PK": {
+        "squeeze_score": 60.9,
+        "short_ratio_pct": 56.1
+      },
+      "PL": {
+        "squeeze_score": 50.1,
+        "short_ratio_pct": 44.2
+      },
+      "PLAB": {
+        "squeeze_score": 37.6,
+        "short_ratio_pct": 50.3
+      },
+      "PLAY": {
+        "squeeze_score": 53.8,
+        "short_ratio_pct": 57.1
+      },
+      "PLD": {
+        "squeeze_score": 31.9,
+        "short_ratio_pct": 41.4
+      },
+      "PLTD": {
+        "squeeze_score": 67.5,
+        "short_ratio_pct": 49.6
+      },
+      "PLTR": {
+        "squeeze_score": 73.3,
+        "short_ratio_pct": 53.1
+      },
+      "PLTU": {
+        "squeeze_score": 24.9,
+        "short_ratio_pct": 39.3
+      },
+      "PLUG": {
+        "squeeze_score": 56.4,
+        "short_ratio_pct": 42.7
+      },
+      "PM": {
+        "squeeze_score": 75.0,
+        "short_ratio_pct": 63.5
+      },
+      "PMI": {
+        "squeeze_score": 5.8,
+        "short_ratio_pct": 23.8
+      },
+      "PMT": {
+        "squeeze_score": 84.8,
+        "short_ratio_pct": 88.0
+      },
+      "PNR": {
+        "squeeze_score": 65.4,
+        "short_ratio_pct": 65.5
+      },
+      "POET": {
+        "squeeze_score": 55.0,
+        "short_ratio_pct": 45.2
+      },
+      "PONY": {
+        "squeeze_score": 58.5,
+        "short_ratio_pct": 53.1
+      },
+      "POWW": {
+        "squeeze_score": 16.7,
+        "short_ratio_pct": 39.1
+      },
+      "PPCB": {
+        "squeeze_score": 10.6,
+        "short_ratio_pct": 31.8
+      },
+      "PPL": {
+        "squeeze_score": 59.0,
+        "short_ratio_pct": 52.0
+      },
+      "PR": {
+        "squeeze_score": 40.0,
+        "short_ratio_pct": 38.3
+      },
+      "PRCH": {
+        "squeeze_score": 3.6,
+        "short_ratio_pct": 23.1
+      },
+      "PRCT": {
+        "squeeze_score": 25.2,
+        "short_ratio_pct": 42.5
+      },
+      "PRGO": {
+        "squeeze_score": 62.7,
+        "short_ratio_pct": 59.5
+      },
+      "PRMB": {
+        "squeeze_score": 11.5,
+        "short_ratio_pct": 28.2
+      },
+      "PRME": {
+        "squeeze_score": 55.4,
+        "short_ratio_pct": 50.0
+      },
+      "PROP": {
+        "squeeze_score": 51.0,
+        "short_ratio_pct": 50.4
+      },
+      "PRSD": {
+        "squeeze_score": 0.0,
+        "short_ratio_pct": 0.1
+      },
+      "PRU": {
+        "squeeze_score": 31.8,
+        "short_ratio_pct": 46.3
+      },
+      "PRZO": {
+        "squeeze_score": 49.7,
+        "short_ratio_pct": 52.6
+      },
+      "PSEC": {
+        "squeeze_score": 79.8,
+        "short_ratio_pct": 60.5
+      },
+      "PSKY": {
+        "squeeze_score": 49.3,
+        "short_ratio_pct": 43.5
+      },
+      "PSLV": {
+        "squeeze_score": 23.6,
+        "short_ratio_pct": 28.8
+      },
+      "PSNL": {
+        "squeeze_score": 47.1,
+        "short_ratio_pct": 45.4
+      },
+      "PSQ": {
+        "squeeze_score": 78.1,
+        "short_ratio_pct": 62.8
+      },
+      "PSX": {
+        "squeeze_score": 28.4,
+        "short_ratio_pct": 45.5
+      },
+      "PTC": {
+        "squeeze_score": 21.7,
+        "short_ratio_pct": 42.4
+      },
+      "PTCT": {
+        "squeeze_score": 71.9,
+        "short_ratio_pct": 70.4
+      },
+      "PTEN": {
+        "squeeze_score": 85.9,
+        "short_ratio_pct": 64.9
+      },
+      "PTIR": {
+        "squeeze_score": 39.1,
+        "short_ratio_pct": 38.9
+      },
+      "PTLO": {
+        "squeeze_score": 31.2,
+        "short_ratio_pct": 47.6
+      },
+      "PTON": {
+        "squeeze_score": 50.3,
+        "short_ratio_pct": 42.6
+      },
+      "PTRN": {
+        "squeeze_score": 21.8,
+        "short_ratio_pct": 33.6
+      },
+      "PTY": {
+        "squeeze_score": 40.2,
+        "short_ratio_pct": 48.9
+      },
+      "PULS": {
+        "squeeze_score": 71.6,
+        "short_ratio_pct": 57.4
+      },
+      "PUMP": {
+        "squeeze_score": 42.4,
+        "short_ratio_pct": 40.1
+      },
+      "PURR": {
+        "squeeze_score": 32.5,
+        "short_ratio_pct": 28.8
+      },
+      "PVAL": {
+        "squeeze_score": 88.2,
+        "short_ratio_pct": 85.5
+      },
+      "PXH": {
+        "squeeze_score": 0.6,
+        "short_ratio_pct": 10.3
+      },
+      "PYLD": {
+        "squeeze_score": 93.8,
+        "short_ratio_pct": 78.6
+      },
+      "PYPL": {
+        "squeeze_score": 78.9,
+        "short_ratio_pct": 60.0
+      },
+      "PYXS": {
+        "squeeze_score": 44.3,
+        "short_ratio_pct": 53.8
+      },
+      "Q": {
+        "squeeze_score": 13.6,
+        "short_ratio_pct": 32.5
+      },
+      "QBTS": {
+        "squeeze_score": 76.8,
+        "short_ratio_pct": 56.8
+      },
+      "QBTX": {
+        "squeeze_score": 40.0,
+        "short_ratio_pct": 51.9
+      },
+      "QBTZ": {
+        "squeeze_score": 16.3,
+        "short_ratio_pct": 30.5
+      },
+      "QCLN": {
+        "squeeze_score": 0.3,
+        "short_ratio_pct": 4.9
+      },
+      "QCML": {
+        "squeeze_score": 24.4,
+        "short_ratio_pct": 43.2
+      },
+      "QCOM": {
+        "squeeze_score": 40.1,
+        "short_ratio_pct": 33.3
+      },
+      "QFIN": {
+        "squeeze_score": 6.3,
+        "short_ratio_pct": 26.2
+      },
+      "QGEN": {
+        "squeeze_score": 52.4,
+        "short_ratio_pct": 55.6
+      },
+      "QID": {
+        "squeeze_score": 45.1,
+        "short_ratio_pct": 37.1
+      },
+      "QLD": {
+        "squeeze_score": 61.8,
+        "short_ratio_pct": 56.8
+      },
+      "QNC": {
+        "squeeze_score": 50.0,
+        "short_ratio_pct": 57.8
+      },
+      "QNT": {
+        "squeeze_score": 72.9,
+        "short_ratio_pct": 59.5
+      },
+      "QQQ": {
+        "squeeze_score": 87.3,
+        "short_ratio_pct": 63.7
+      },
+      "QQQI": {
+        "squeeze_score": 58.2,
+        "short_ratio_pct": 49.7
+      },
+      "QQQM": {
+        "squeeze_score": 48.7,
+        "short_ratio_pct": 47.7
+      },
+      "QS": {
+        "squeeze_score": 51.4,
+        "short_ratio_pct": 40.5
+      },
+      "QSI": {
+        "squeeze_score": 40.0,
+        "short_ratio_pct": 42.2
+      },
+      "QSR": {
+        "squeeze_score": 60.9,
+        "short_ratio_pct": 58.0
+      },
+      "QTEX": {
+        "squeeze_score": 71.3,
+        "short_ratio_pct": 54.6
+      },
+      "QUAL": {
+        "squeeze_score": 48.9,
+        "short_ratio_pct": 52.7
+      },
+      "QUBT": {
+        "squeeze_score": 67.6,
+        "short_ratio_pct": 52.3
+      },
+      "QUCY": {
+        "squeeze_score": 46.6,
+        "short_ratio_pct": 54.0
+      },
+      "QXO": {
+        "squeeze_score": 39.2,
+        "short_ratio_pct": 28.8
+      },
+      "QYLD": {
+        "squeeze_score": 43.9,
+        "short_ratio_pct": 43.4
+      },
+      "RAL": {
+        "squeeze_score": 5.8,
+        "short_ratio_pct": 28.2
+      },
+      "RAM": {
+        "squeeze_score": 58.4,
+        "short_ratio_pct": 46.6
+      },
+      "RANI": {
+        "squeeze_score": 66.0,
+        "short_ratio_pct": 66.9
+      },
+      "RARE": {
+        "squeeze_score": 13.7,
+        "short_ratio_pct": 36.0
+      },
+      "RBLX": {
+        "squeeze_score": 79.8,
+        "short_ratio_pct": 60.6
+      },
+      "RBRK": {
+        "squeeze_score": 60.0,
+        "short_ratio_pct": 52.3
+      },
+      "RC": {
+        "squeeze_score": 39.2,
+        "short_ratio_pct": 51.8
+      },
+      "RCAT": {
+        "squeeze_score": 64.5,
+        "short_ratio_pct": 50.5
+      },
+      "RCKT": {
+        "squeeze_score": 67.6,
+        "short_ratio_pct": 57.5
+      },
+      "RCL": {
+        "squeeze_score": 59.3,
+        "short_ratio_pct": 56.9
+      },
+      "RCT": {
+        "squeeze_score": 35.9,
+        "short_ratio_pct": 43.9
+      },
+      "RDDT": {
+        "squeeze_score": 83.6,
+        "short_ratio_pct": 65.0
+      },
+      "RDGT": {
+        "squeeze_score": 34.2,
+        "short_ratio_pct": 46.8
+      },
+      "RDVY": {
+        "squeeze_score": 20.1,
+        "short_ratio_pct": 36.8
+      },
+      "RDW": {
+        "squeeze_score": 47.2,
+        "short_ratio_pct": 38.3
+      },
+      "REAL": {
+        "squeeze_score": 16.7,
+        "short_ratio_pct": 34.6
+      },
+      "REAX": {
+        "squeeze_score": 82.5,
+        "short_ratio_pct": 65.6
+      },
+      "REE": {
+        "squeeze_score": 71.7,
+        "short_ratio_pct": 53.8
+      },
+      "REET": {
+        "squeeze_score": 82.2,
+        "short_ratio_pct": 65.8
+      },
+      "REI": {
+        "squeeze_score": 62.4,
+        "short_ratio_pct": 49.2
+      },
+      "REKR": {
+        "squeeze_score": 42.6,
+        "short_ratio_pct": 53.8
+      },
+      "RELX": {
+        "squeeze_score": 8.4,
+        "short_ratio_pct": 29.7
+      },
+      "RELY": {
+        "squeeze_score": 45.3,
+        "short_ratio_pct": 51.7
+      },
+      "REPL": {
+        "squeeze_score": 37.7,
+        "short_ratio_pct": 49.8
+      },
+      "REXR": {
+        "squeeze_score": 11.8,
+        "short_ratio_pct": 31.5
+      },
+      "RF": {
+        "squeeze_score": 80.5,
+        "short_ratio_pct": 62.5
+      },
+      "RGNX": {
+        "squeeze_score": 34.5,
+        "short_ratio_pct": 41.1
+      },
+      "RGTI": {
+        "squeeze_score": 86.3,
+        "short_ratio_pct": 63.1
+      },
+      "RGTZ": {
+        "squeeze_score": 60.0,
+        "short_ratio_pct": 47.7
+      },
+      "RHI": {
+        "squeeze_score": 78.9,
+        "short_ratio_pct": 82.7
+      },
+      "RIG": {
+        "squeeze_score": 92.8,
+        "short_ratio_pct": 69.0
+      },
+      "RIO": {
+        "squeeze_score": 6.6,
+        "short_ratio_pct": 22.5
+      },
+      "RIOT": {
+        "squeeze_score": 55.0,
+        "short_ratio_pct": 43.9
+      },
+      "RITM": {
+        "squeeze_score": 61.9,
+        "short_ratio_pct": 50.6
+      },
+      "RIVN": {
+        "squeeze_score": 62.5,
+        "short_ratio_pct": 46.6
+      },
+      "RKLB": {
+        "squeeze_score": 76.0,
+        "short_ratio_pct": 55.8
+      },
+      "RKLX": {
+        "squeeze_score": 27.3,
+        "short_ratio_pct": 38.3
+      },
+      "RKLZ": {
+        "squeeze_score": 36.8,
+        "short_ratio_pct": 29.9
+      },
+      "RKT": {
+        "squeeze_score": 83.0,
+        "short_ratio_pct": 60.1
+      },
+      "RLAY": {
+        "squeeze_score": 75.8,
+        "short_ratio_pct": 62.7
+      },
+      "RLJ": {
+        "squeeze_score": 49.4,
+        "short_ratio_pct": 54.8
+      },
+      "RLX": {
+        "squeeze_score": 6.6,
+        "short_ratio_pct": 23.8
+      },
+      "RMBS": {
+        "squeeze_score": 11.4,
+        "short_ratio_pct": 32.6
+      },
+      "RMD": {
+        "squeeze_score": 86.9,
+        "short_ratio_pct": 75.0
+      },
+      "ROIV": {
+        "squeeze_score": 41.8,
+        "short_ratio_pct": 39.6
+      },
+      "ROKU": {
+        "squeeze_score": 27.4,
+        "short_ratio_pct": 38.9
+      },
+      "ROL": {
+        "squeeze_score": 10.5,
+        "short_ratio_pct": 23.7
+      },
+      "ROST": {
+        "squeeze_score": 33.0,
+        "short_ratio_pct": 45.6
+      },
+      "RPD": {
+        "squeeze_score": 81.2,
+        "short_ratio_pct": 70.6
+      },
+      "RPRX": {
+        "squeeze_score": 15.4,
+        "short_ratio_pct": 27.7
+      },
+      "RQI": {
+        "squeeze_score": 48.7,
+        "short_ratio_pct": 56.5
+      },
+      "RQIR": {
+        "squeeze_score": 2.3,
+        "short_ratio_pct": 20.4
+      },
+      "RR": {
+        "squeeze_score": 78.7,
+        "short_ratio_pct": 58.3
+      },
+      "RRC": {
+        "squeeze_score": 80.8,
+        "short_ratio_pct": 75.7
+      },
+      "RSI": {
+        "squeeze_score": 64.1,
+        "short_ratio_pct": 65.9
+      },
+      "RSP": {
+        "squeeze_score": 79.4,
+        "short_ratio_pct": 62.3
+      },
+      "RSPT": {
+        "squeeze_score": 11.3,
+        "short_ratio_pct": 34.2
+      },
+      "RTX": {
+        "squeeze_score": 52.5,
+        "short_ratio_pct": 48.4
+      },
+      "RUM": {
+        "squeeze_score": 52.4,
+        "short_ratio_pct": 49.3
+      },
+      "RUN": {
+        "squeeze_score": 52.9,
+        "short_ratio_pct": 44.5
+      },
+      "RVMD": {
+        "squeeze_score": 11.3,
+        "short_ratio_pct": 29.0
+      },
+      "RWM": {
+        "squeeze_score": 41.3,
+        "short_ratio_pct": 34.1
+      },
+      "RWT": {
+        "squeeze_score": 95.4,
+        "short_ratio_pct": 83.0
+      },
+      "RXRX": {
+        "squeeze_score": 56.6,
+        "short_ratio_pct": 43.0
+      },
+      "RXT": {
+        "squeeze_score": 63.0,
+        "short_ratio_pct": 48.3
+      },
+      "RYAAY": {
+        "squeeze_score": 76.0,
+        "short_ratio_pct": 69.3
+      },
+      "RYAN": {
+        "squeeze_score": 80.4,
+        "short_ratio_pct": 69.9
+      },
+      "RZLV": {
+        "squeeze_score": 39.8,
+        "short_ratio_pct": 31.7
+      },
+      "S": {
+        "squeeze_score": 32.1,
+        "short_ratio_pct": 27.1
+      },
+      "SABR": {
+        "squeeze_score": 83.6,
+        "short_ratio_pct": 67.5
+      },
+      "SAFX": {
+        "squeeze_score": 39.1,
+        "short_ratio_pct": 37.7
+      },
+      "SAIL": {
+        "squeeze_score": 74.1,
+        "short_ratio_pct": 65.1
+      },
+      "SAN": {
+        "squeeze_score": 91.1,
+        "short_ratio_pct": 71.2
+      },
+      "SANA": {
+        "squeeze_score": 28.5,
+        "short_ratio_pct": 36.2
+      },
+      "SAP": {
+        "squeeze_score": 46.6,
+        "short_ratio_pct": 54.4
+      },
+      "SARO": {
+        "squeeze_score": 74.8,
+        "short_ratio_pct": 62.1
+      },
+      "SATL": {
+        "squeeze_score": 48.5,
+        "short_ratio_pct": 47.2
+      },
+      "SBET": {
+        "squeeze_score": 74.7,
+        "short_ratio_pct": 56.9
+      },
+      "SBEV": {
+        "squeeze_score": 81.9,
+        "short_ratio_pct": 58.4
+      },
+      "SBLK": {
+        "squeeze_score": 36.4,
+        "short_ratio_pct": 49.1
+      },
+      "SBRA": {
+        "squeeze_score": 67.2,
+        "short_ratio_pct": 62.2
+      },
+      "SBS": {
+        "squeeze_score": 44.0,
+        "short_ratio_pct": 47.9
+      },
+      "SBSW": {
+        "squeeze_score": 40.7,
+        "short_ratio_pct": 41.5
+      },
+      "SBUX": {
+        "squeeze_score": 85.0,
+        "short_ratio_pct": 66.7
+      },
+      "SCAG": {
+        "squeeze_score": 25.8,
+        "short_ratio_pct": 42.9
+      },
+      "SCHA": {
+        "squeeze_score": 48.6,
+        "short_ratio_pct": 44.6
+      },
+      "SCHB": {
+        "squeeze_score": 89.5,
+        "short_ratio_pct": 67.7
+      },
+      "SCHC": {
+        "squeeze_score": 76.9,
+        "short_ratio_pct": 86.1
+      },
+      "SCHD": {
+        "squeeze_score": 81.6,
+        "short_ratio_pct": 58.9
+      },
+      "SCHE": {
+        "squeeze_score": 92.9,
+        "short_ratio_pct": 81.6
+      },
+      "SCHF": {
+        "squeeze_score": 96.7,
+        "short_ratio_pct": 81.8
+      },
+      "SCHG": {
+        "squeeze_score": 63.7,
+        "short_ratio_pct": 49.8
+      },
+      "SCHH": {
+        "squeeze_score": 80.1,
+        "short_ratio_pct": 61.5
+      },
+      "SCHI": {
+        "squeeze_score": 45.1,
+        "short_ratio_pct": 50.6
+      },
+      "SCHK": {
+        "squeeze_score": 44.3,
+        "short_ratio_pct": 54.6
+      },
+      "SCHM": {
+        "squeeze_score": 68.4,
+        "short_ratio_pct": 66.9
+      },
+      "SCHO": {
+        "squeeze_score": 78.1,
+        "short_ratio_pct": 61.3
+      },
+      "SCHP": {
+        "squeeze_score": 85.9,
+        "short_ratio_pct": 69.1
+      },
+      "SCHR": {
+        "squeeze_score": 74.3,
+        "short_ratio_pct": 63.2
+      },
+      "SCHV": {
+        "squeeze_score": 67.8,
+        "short_ratio_pct": 54.5
+      },
+      "SCHW": {
+        "squeeze_score": 32.2,
+        "short_ratio_pct": 25.4
+      },
+      "SCHX": {
+        "squeeze_score": 97.3,
+        "short_ratio_pct": 80.0
+      },
+      "SCHY": {
+        "squeeze_score": 71.6,
+        "short_ratio_pct": 76.2
+      },
+      "SCHZ": {
+        "squeeze_score": 83.1,
+        "short_ratio_pct": 78.0
+      },
+      "SCMB": {
+        "squeeze_score": 63.2,
+        "short_ratio_pct": 62.3
+      },
+      "SCO": {
+        "squeeze_score": 13.0,
+        "short_ratio_pct": 35.9
+      },
+      "SCYB": {
+        "squeeze_score": 49.6,
+        "short_ratio_pct": 57.3
+      },
+      "SDCI": {
+        "squeeze_score": 58.4,
+        "short_ratio_pct": 61.4
+      },
+      "SDOT": {
+        "squeeze_score": 52.4,
+        "short_ratio_pct": 57.8
+      },
+      "SDOW": {
+        "squeeze_score": 57.8,
+        "short_ratio_pct": 55.0
+      },
+      "SDS": {
+        "squeeze_score": 68.8,
+        "short_ratio_pct": 62.9
+      },
+      "SE": {
+        "squeeze_score": 59.3,
+        "short_ratio_pct": 50.6
+      },
+      "SECZ": {
+        "squeeze_score": 48.4,
+        "short_ratio_pct": 54.8
+      },
+      "SEDG": {
+        "squeeze_score": 53.2,
+        "short_ratio_pct": 51.2
+      },
+      "SEER": {
+        "squeeze_score": 46.9,
+        "short_ratio_pct": 36.0
+      },
+      "SEI": {
+        "squeeze_score": 76.9,
+        "short_ratio_pct": 65.0
+      },
+      "SERV": {
+        "squeeze_score": 76.6,
+        "short_ratio_pct": 65.1
+      },
+      "SES": {
+        "squeeze_score": 97.9,
+        "short_ratio_pct": 83.6
+      },
+      "SFD": {
+        "squeeze_score": 19.8,
+        "short_ratio_pct": 37.5
+      },
+      "SFIX": {
+        "squeeze_score": 33.0,
+        "short_ratio_pct": 47.8
+      },
+      "SFM": {
+        "squeeze_score": 71.7,
+        "short_ratio_pct": 63.8
+      },
+      "SG": {
+        "squeeze_score": 47.9,
+        "short_ratio_pct": 45.4
+      },
+      "SGHC": {
+        "squeeze_score": 20.3,
+        "short_ratio_pct": 37.7
+      },
+      "SGI": {
+        "squeeze_score": 53.4,
+        "short_ratio_pct": 56.4
+      },
+      "SGOL": {
+        "squeeze_score": 64.0,
+        "short_ratio_pct": 66.4
+      },
+      "SGOV": {
+        "squeeze_score": 74.8,
+        "short_ratio_pct": 54.3
+      },
+      "SH": {
+        "squeeze_score": 43.0,
+        "short_ratio_pct": 42.9
+      },
+      "SHAK": {
+        "squeeze_score": 80.3,
+        "short_ratio_pct": 77.0
+      },
+      "SHAZ": {
+        "squeeze_score": 47.7,
+        "short_ratio_pct": 46.2
+      },
+      "SHC": {
+        "squeeze_score": 65.1,
+        "short_ratio_pct": 66.5
+      },
+      "SHEL": {
+        "squeeze_score": 57.3,
+        "short_ratio_pct": 51.1
+      },
+      "SHLD": {
+        "squeeze_score": 11.0,
+        "short_ratio_pct": 33.6
+      },
+      "SHLS": {
+        "squeeze_score": 89.0,
+        "short_ratio_pct": 71.0
+      },
+      "SHO": {
+        "squeeze_score": 46.9,
+        "short_ratio_pct": 52.1
+      },
+      "SHOP": {
+        "squeeze_score": 61.8,
+        "short_ratio_pct": 50.8
+      },
+      "SHV": {
+        "squeeze_score": 40.0,
+        "short_ratio_pct": 44.4
+      },
+      "SHW": {
+        "squeeze_score": 61.6,
+        "short_ratio_pct": 63.9
+      },
+      "SHY": {
+        "squeeze_score": 90.7,
+        "short_ratio_pct": 72.8
+      },
+      "SHYG": {
+        "squeeze_score": 75.4,
+        "short_ratio_pct": 64.5
+      },
+      "SID": {
+        "squeeze_score": 5.9,
+        "short_ratio_pct": 26.7
+      },
+      "SIDU": {
+        "squeeze_score": 77.1,
+        "short_ratio_pct": 58.2
+      },
+      "SIGIP": {
+        "squeeze_score": 0.1,
+        "short_ratio_pct": 0.6
+      },
+      "SILJ": {
+        "squeeze_score": 29.7,
+        "short_ratio_pct": 34.9
+      },
+      "SIRI": {
+        "squeeze_score": 82.6,
+        "short_ratio_pct": 65.9
+      },
+      "SITC": {
+        "squeeze_score": 16.5,
+        "short_ratio_pct": 37.1
+      },
+      "SJM": {
+        "squeeze_score": 26.5,
+        "short_ratio_pct": 42.9
+      },
+      "SJNK": {
+        "squeeze_score": 77.7,
+        "short_ratio_pct": 65.1
+      },
+      "SKM": {
+        "squeeze_score": 74.7,
+        "short_ratio_pct": 66.9
+      },
+      "SKYQ": {
+        "squeeze_score": 61.9,
+        "short_ratio_pct": 56.0
+      },
+      "SKYX": {
+        "squeeze_score": 40.1,
+        "short_ratio_pct": 52.1
+      },
+      "SLB": {
+        "squeeze_score": 75.5,
+        "short_ratio_pct": 57.5
+      },
+      "SLDB": {
+        "squeeze_score": 25.2,
+        "short_ratio_pct": 40.2
+      },
+      "SLDE": {
+        "squeeze_score": 17.9,
+        "short_ratio_pct": 37.1
+      },
+      "SLDP": {
+        "squeeze_score": 23.9,
+        "short_ratio_pct": 32.2
+      },
+      "SLI": {
+        "squeeze_score": 20.4,
+        "short_ratio_pct": 38.6
+      },
+      "SLM": {
+        "squeeze_score": 64.9,
+        "short_ratio_pct": 65.9
+      },
+      "SLNH": {
+        "squeeze_score": 77.4,
+        "short_ratio_pct": 56.4
+      },
+      "SLRC": {
+        "squeeze_score": 64.8,
+        "short_ratio_pct": 66.7
+      },
+      "SLS": {
+        "squeeze_score": 85.8,
+        "short_ratio_pct": 64.2
+      },
+      "SLV": {
+        "squeeze_score": 63.2,
+        "short_ratio_pct": 49.1
+      },
+      "SM": {
+        "squeeze_score": 83.1,
+        "short_ratio_pct": 67.7
+      },
+      "SMCI": {
+        "squeeze_score": 67.4,
+        "short_ratio_pct": 50.0
+      },
+      "SMCX": {
+        "squeeze_score": 73.3,
+        "short_ratio_pct": 56.9
+      },
+      "SMFG": {
+        "squeeze_score": 77.4,
+        "short_ratio_pct": 77.9
+      },
+      "SMH": {
+        "squeeze_score": 80.6,
+        "short_ratio_pct": 60.7
+      },
+      "SMMT": {
+        "squeeze_score": 38.2,
+        "short_ratio_pct": 41.1
+      },
+      "SMPL": {
+        "squeeze_score": 29.9,
+        "short_ratio_pct": 44.1
+      },
+      "SMR": {
+        "squeeze_score": 45.0,
+        "short_ratio_pct": 34.7
+      },
+      "SMRT": {
+        "squeeze_score": 30.9,
+        "short_ratio_pct": 46.4
+      },
+      "SMTC": {
+        "squeeze_score": 11.5,
+        "short_ratio_pct": 30.1
+      },
+      "SMU": {
+        "squeeze_score": 41.7,
+        "short_ratio_pct": 50.1
+      },
+      "SN": {
+        "squeeze_score": 42.5,
+        "short_ratio_pct": 53.6
+      },
+      "SNAP": {
+        "squeeze_score": 44.7,
+        "short_ratio_pct": 33.2
+      },
+      "SNDK": {
+        "squeeze_score": 36.9,
+        "short_ratio_pct": 32.0
+      },
+      "SNDL": {
+        "squeeze_score": 36.6,
+        "short_ratio_pct": 35.3
+      },
+      "SNDQ": {
+        "squeeze_score": 45.2,
+        "short_ratio_pct": 32.4
+      },
+      "SNDU": {
+        "squeeze_score": 56.2,
+        "short_ratio_pct": 53.2
+      },
+      "SNDX": {
+        "squeeze_score": 33.3,
+        "short_ratio_pct": 46.7
+      },
+      "SNK": {
+        "squeeze_score": 40.0,
+        "short_ratio_pct": 42.7
+      },
+      "SNOW": {
+        "squeeze_score": 64.1,
+        "short_ratio_pct": 54.0
+      },
+      "SNPS": {
+        "squeeze_score": 12.7,
+        "short_ratio_pct": 35.4
+      },
+      "SNXX": {
+        "squeeze_score": 53.0,
+        "short_ratio_pct": 40.8
+      },
+      "SNY": {
+        "squeeze_score": 8.1,
+        "short_ratio_pct": 14.5
+      },
+      "SO": {
+        "squeeze_score": 80.8,
+        "short_ratio_pct": 68.6
+      },
+      "SOAR": {
+        "squeeze_score": 74.1,
+        "short_ratio_pct": 56.5
+      },
+      "SOC": {
+        "squeeze_score": 64.8,
+        "short_ratio_pct": 48.9
+      },
+      "SOFI": {
+        "squeeze_score": 75.4,
+        "short_ratio_pct": 54.0
+      },
+      "SOFX": {
+        "squeeze_score": 12.3,
+        "short_ratio_pct": 30.4
+      },
+      "SOLS": {
+        "squeeze_score": 57.4,
+        "short_ratio_pct": 45.4
+      },
+      "SONY": {
+        "squeeze_score": 41.7,
+        "short_ratio_pct": 39.7
+      },
+      "SOUN": {
+        "squeeze_score": 61.3,
+        "short_ratio_pct": 46.1
+      },
+      "SOXL": {
+        "squeeze_score": 81.4,
+        "short_ratio_pct": 58.5
+      },
+      "SOXQ": {
+        "squeeze_score": 3.3,
+        "short_ratio_pct": 24.0
+      },
+      "SOXS": {
+        "squeeze_score": 54.5,
+        "short_ratio_pct": 40.7
+      },
+      "SOXX": {
+        "squeeze_score": 49.2,
+        "short_ratio_pct": 44.2
+      },
+      "SPAB": {
+        "squeeze_score": 46.6,
+        "short_ratio_pct": 53.3
+      },
+      "SPAX": {
+        "squeeze_score": 39.3,
+        "short_ratio_pct": 47.7
+      },
+      "SPCE": {
+        "squeeze_score": 78.9,
+        "short_ratio_pct": 59.5
+      },
+      "SPCH": {
+        "squeeze_score": 65.7,
+        "short_ratio_pct": 49.2
+      },
+      "SPCQ": {
+        "squeeze_score": 24.2,
+        "short_ratio_pct": 43.5
+      },
+      "SPCU": {
+        "squeeze_score": 51.5,
+        "short_ratio_pct": 53.8
+      },
+      "SPCX": {
+        "squeeze_score": 91.9,
+        "short_ratio_pct": 66.8
+      },
+      "SPDN": {
+        "squeeze_score": 39.6,
+        "short_ratio_pct": 28.7
+      },
+      "SPDW": {
+        "squeeze_score": 51.8,
+        "short_ratio_pct": 49.3
+      },
+      "SPEM": {
+        "squeeze_score": 35.8,
+        "short_ratio_pct": 50.1
+      },
+      "SPG": {
+        "squeeze_score": 68.1,
+        "short_ratio_pct": 66.2
+      },
+      "SPGI": {
+        "squeeze_score": 46.1,
+        "short_ratio_pct": 50.4
+      },
+      "SPGM": {
+        "squeeze_score": 0.2,
+        "short_ratio_pct": 2.4
+      },
+      "SPHL": {
+        "squeeze_score": 63.6,
+        "short_ratio_pct": 55.8
+      },
+      "SPHQ": {
+        "squeeze_score": 42.3,
+        "short_ratio_pct": 51.7
+      },
+      "SPHY": {
+        "squeeze_score": 82.8,
+        "short_ratio_pct": 67.7
+      },
+      "SPIB": {
+        "squeeze_score": 84.9,
+        "short_ratio_pct": 72.5
+      },
+      "SPLB": {
+        "squeeze_score": 22.9,
+        "short_ratio_pct": 32.7
+      },
+      "SPLV": {
+        "squeeze_score": 49.3,
+        "short_ratio_pct": 57.1
+      },
+      "SPMD": {
+        "squeeze_score": 73.2,
+        "short_ratio_pct": 76.3
+      },
+      "SPMO": {
+        "squeeze_score": 30.7,
+        "short_ratio_pct": 38.8
+      },
+      "SPOT": {
+        "squeeze_score": 12.6,
+        "short_ratio_pct": 34.6
+      },
+      "SPSB": {
+        "squeeze_score": 47.2,
+        "short_ratio_pct": 48.3
+      },
+      "SPSM": {
+        "squeeze_score": 89.1,
+        "short_ratio_pct": 85.1
+      },
+      "SPTI": {
+        "squeeze_score": 89.8,
+        "short_ratio_pct": 80.6
+      },
+      "SPTL": {
+        "squeeze_score": 82.2,
+        "short_ratio_pct": 66.4
+      },
+      "SPTS": {
+        "squeeze_score": 91.9,
+        "short_ratio_pct": 87.1
+      },
+      "SPWR": {
+        "squeeze_score": 33.1,
+        "short_ratio_pct": 18.5
+      },
+      "SPXL": {
+        "squeeze_score": 25.5,
+        "short_ratio_pct": 43.8
+      },
+      "SPXS": {
+        "squeeze_score": 54.2,
+        "short_ratio_pct": 46.9
+      },
+      "SPXU": {
+        "squeeze_score": 53.9,
+        "short_ratio_pct": 45.5
+      },
+      "SPY": {
+        "squeeze_score": 88.7,
+        "short_ratio_pct": 64.6
+      },
+      "SPYG": {
+        "squeeze_score": 12.9,
+        "short_ratio_pct": 32.1
+      },
+      "SPYI": {
+        "squeeze_score": 65.2,
+        "short_ratio_pct": 56.0
+      },
+      "SPYM": {
+        "squeeze_score": 98.7,
+        "short_ratio_pct": 84.3
+      },
+      "SPYV": {
+        "squeeze_score": 33.8,
+        "short_ratio_pct": 42.7
+      },
+      "SQQQ": {
+        "squeeze_score": 54.7,
+        "short_ratio_pct": 41.5
+      },
+      "SRAD": {
+        "squeeze_score": 11.0,
+        "short_ratio_pct": 24.4
+      },
+      "SRE": {
+        "squeeze_score": 45.1,
+        "short_ratio_pct": 46.9
+      },
+      "SRFM": {
+        "squeeze_score": 82.7,
+        "short_ratio_pct": 61.7
+      },
+      "SRLN": {
+        "squeeze_score": 90.0,
+        "short_ratio_pct": 78.8
+      },
+      "SRPT": {
+        "squeeze_score": 44.7,
+        "short_ratio_pct": 50.7
+      },
+      "SRTA": {
+        "squeeze_score": 2.5,
+        "short_ratio_pct": 22.1
+      },
+      "SRTY": {
+        "squeeze_score": 12.2,
+        "short_ratio_pct": 34.6
+      },
+      "SRXH": {
+        "squeeze_score": 71.6,
+        "short_ratio_pct": 53.4
+      },
+      "SSNC": {
+        "squeeze_score": 50.8,
+        "short_ratio_pct": 57.8
+      },
+      "SSO": {
+        "squeeze_score": 42.7,
+        "short_ratio_pct": 44.5
+      },
+      "SSPC": {
+        "squeeze_score": 69.5,
+        "short_ratio_pct": 52.7
+      },
+      "SSRM": {
+        "squeeze_score": 63.6,
+        "short_ratio_pct": 60.5
+      },
+      "SSTK": {
+        "squeeze_score": 32.4,
+        "short_ratio_pct": 44.5
+      },
+      "STEP": {
+        "squeeze_score": 67.7,
+        "short_ratio_pct": 61.7
+      },
+      "STEX": {
+        "squeeze_score": 41.6,
+        "short_ratio_pct": 45.6
+      },
+      "STIM": {
+        "squeeze_score": 3.2,
+        "short_ratio_pct": 20.4
+      },
+      "STIP": {
+        "squeeze_score": 24.1,
+        "short_ratio_pct": 43.1
+      },
+      "STLA": {
+        "squeeze_score": 66.4,
+        "short_ratio_pct": 50.1
+      },
+      "STM": {
+        "squeeze_score": 22.6,
+        "short_ratio_pct": 32.4
+      },
+      "STNE": {
+        "squeeze_score": 62.1,
+        "short_ratio_pct": 51.8
+      },
+      "STRC": {
+        "squeeze_score": 29.7,
+        "short_ratio_pct": 41.0
+      },
+      "STT": {
+        "squeeze_score": 48.4,
+        "short_ratio_pct": 57.3
+      },
+      "STUB": {
+        "squeeze_score": 47.8,
+        "short_ratio_pct": 43.6
+      },
+      "STWD": {
+        "squeeze_score": 64.6,
+        "short_ratio_pct": 55.7
+      },
+      "STX": {
+        "squeeze_score": 17.3,
+        "short_ratio_pct": 24.5
+      },
+      "STXS": {
+        "squeeze_score": 18.4,
+        "short_ratio_pct": 38.7
+      },
+      "STZ": {
+        "squeeze_score": 28.3,
+        "short_ratio_pct": 35.4
+      },
+      "SU": {
+        "squeeze_score": 73.6,
+        "short_ratio_pct": 59.9
+      },
+      "SUNB": {
+        "squeeze_score": 67.0,
+        "short_ratio_pct": 61.4
+      },
+      "SURG": {
+        "squeeze_score": 82.2,
+        "short_ratio_pct": 61.2
+      },
+      "SUZ": {
+        "squeeze_score": 58.3,
+        "short_ratio_pct": 51.0
+      },
+      "SVC": {
+        "squeeze_score": 78.8,
+        "short_ratio_pct": 59.3
+      },
+      "SVM": {
+        "squeeze_score": 61.4,
+        "short_ratio_pct": 57.7
+      },
+      "SW": {
+        "squeeze_score": 57.5,
+        "short_ratio_pct": 55.7
+      },
+      "SWKS": {
+        "squeeze_score": 83.7,
+        "short_ratio_pct": 70.7
+      },
+      "SYF": {
+        "squeeze_score": 19.2,
+        "short_ratio_pct": 38.0
+      },
+      "SYK": {
+        "squeeze_score": 49.6,
+        "short_ratio_pct": 50.7
+      },
+      "SYM": {
+        "squeeze_score": 58.7,
+        "short_ratio_pct": 60.9
+      },
+      "SYRE": {
+        "squeeze_score": 63.8,
+        "short_ratio_pct": 64.5
+      },
+      "SYY": {
+        "squeeze_score": 45.4,
+        "short_ratio_pct": 47.7
+      },
+      "T": {
+        "squeeze_score": 44.3,
+        "short_ratio_pct": 30.8
+      },
+      "TAK": {
+        "squeeze_score": 77.6,
+        "short_ratio_pct": 68.8
+      },
+      "TAL": {
+        "squeeze_score": 21.8,
+        "short_ratio_pct": 42.6
+      },
+      "TALK": {
+        "squeeze_score": 20.5,
+        "short_ratio_pct": 25.1
+      },
+      "TAP": {
+        "squeeze_score": 88.8,
+        "short_ratio_pct": 73.1
+      },
+      "TBIL": {
+        "squeeze_score": 34.2,
+        "short_ratio_pct": 42.8
+      },
+      "TBLA": {
+        "squeeze_score": 58.2,
+        "short_ratio_pct": 49.9
+      },
+      "TCOM": {
+        "squeeze_score": 44.8,
+        "short_ratio_pct": 50.7
+      },
+      "TDC": {
+        "squeeze_score": 72.2,
+        "short_ratio_pct": 68.7
+      },
+      "TDIC": {
+        "squeeze_score": 68.8,
+        "short_ratio_pct": 59.2
+      },
+      "TDOC": {
+        "squeeze_score": 61.0,
+        "short_ratio_pct": 52.6
+      },
+      "TDTH": {
+        "squeeze_score": 71.8,
+        "short_ratio_pct": 61.7
+      },
+      "TE": {
+        "squeeze_score": 47.1,
+        "short_ratio_pct": 36.0
+      },
+      "TEAM": {
+        "squeeze_score": 32.5,
+        "short_ratio_pct": 42.9
+      },
+      "TECH": {
+        "squeeze_score": 22.9,
+        "short_ratio_pct": 24.0
+      },
+      "TECK": {
+        "squeeze_score": 8.4,
+        "short_ratio_pct": 30.6
+      },
+      "TECS": {
+        "squeeze_score": 50.0,
+        "short_ratio_pct": 40.5
+      },
+      "TEL": {
+        "squeeze_score": 28.7,
+        "short_ratio_pct": 44.8
+      },
+      "TEM": {
+        "squeeze_score": 43.1,
+        "short_ratio_pct": 41.8
+      },
+      "TENB": {
+        "squeeze_score": 45.4,
+        "short_ratio_pct": 42.1
+      },
+      "TENX": {
+        "squeeze_score": 13.5,
+        "short_ratio_pct": 34.0
+      },
+      "TER": {
+        "squeeze_score": 38.6,
+        "short_ratio_pct": 43.3
+      },
+      "TEVA": {
+        "squeeze_score": 52.8,
+        "short_ratio_pct": 47.9
+      },
+      "TFC": {
+        "squeeze_score": 71.6,
+        "short_ratio_pct": 58.0
+      },
+      "TFLO": {
+        "squeeze_score": 66.7,
+        "short_ratio_pct": 62.0
+      },
+      "TGB": {
+        "squeeze_score": 43.7,
+        "short_ratio_pct": 45.8
+      },
+      "TGT": {
+        "squeeze_score": 68.1,
+        "short_ratio_pct": 55.4
+      },
+      "TGTX": {
+        "squeeze_score": 38.8,
+        "short_ratio_pct": 48.6
+      },
+      "TH": {
+        "squeeze_score": 43.8,
+        "short_ratio_pct": 53.0
+      },
+      "THM": {
+        "squeeze_score": 72.0,
+        "short_ratio_pct": 73.7
+      },
+      "TIC": {
+        "squeeze_score": 51.4,
+        "short_ratio_pct": 58.6
+      },
+      "TIGO": {
+        "squeeze_score": 9.4,
+        "short_ratio_pct": 32.4
+      },
+      "TIGR": {
+        "squeeze_score": 28.4,
+        "short_ratio_pct": 46.4
+      },
+      "TIP": {
+        "squeeze_score": 52.0,
+        "short_ratio_pct": 54.9
+      },
+      "TJX": {
+        "squeeze_score": 50.7,
+        "short_ratio_pct": 46.1
+      },
+      "TKC": {
+        "squeeze_score": 57.9,
+        "short_ratio_pct": 57.8
+      },
+      "TLPH": {
+        "squeeze_score": 56.7,
+        "short_ratio_pct": 60.7
+      },
+      "TLRY": {
+        "squeeze_score": 60.5,
+        "short_ratio_pct": 50.3
+      },
+      "TLT": {
+        "squeeze_score": 68.2,
+        "short_ratio_pct": 51.3
+      },
+      "TLTW": {
+        "squeeze_score": 34.7,
+        "short_ratio_pct": 49.2
+      },
+      "TMC": {
+        "squeeze_score": 56.6,
+        "short_ratio_pct": 50.2
+      },
+      "TME": {
+        "squeeze_score": 36.5,
+        "short_ratio_pct": 36.7
+      },
+      "TMF": {
+        "squeeze_score": 56.1,
+        "short_ratio_pct": 56.8
+      },
+      "TMHC": {
+        "squeeze_score": 8.9,
+        "short_ratio_pct": 29.5
+      },
+      "TMO": {
+        "squeeze_score": 33.9,
+        "short_ratio_pct": 45.9
+      },
+      "TMQ": {
+        "squeeze_score": 46.0,
+        "short_ratio_pct": 52.3
+      },
+      "TMUS": {
+        "squeeze_score": 66.3,
+        "short_ratio_pct": 54.3
+      },
+      "TNA": {
+        "squeeze_score": 62.9,
+        "short_ratio_pct": 57.1
+      },
+      "TNGX": {
+        "squeeze_score": 20.0,
+        "short_ratio_pct": 35.2
+      },
+      "TNON": {
+        "squeeze_score": 26.4,
+        "short_ratio_pct": 35.8
+      },
+      "TNYA": {
+        "squeeze_score": 38.9,
+        "short_ratio_pct": 31.7
+      },
+      "TOI": {
+        "squeeze_score": 23.5,
+        "short_ratio_pct": 40.3
+      },
+      "TOST": {
+        "squeeze_score": 89.9,
+        "short_ratio_pct": 68.8
+      },
+      "TPET": {
+        "squeeze_score": 8.1,
+        "short_ratio_pct": 30.2
+      },
+      "TPG": {
+        "squeeze_score": 13.2,
+        "short_ratio_pct": 32.8
+      },
+      "TQQQ": {
+        "squeeze_score": 66.6,
+        "short_ratio_pct": 49.0
+      },
+      "TRIN": {
+        "squeeze_score": 45.2,
+        "short_ratio_pct": 53.8
+      },
+      "TRIP": {
+        "squeeze_score": 73.8,
+        "short_ratio_pct": 72.2
+      },
+      "TRLV": {
+        "squeeze_score": 45.4,
+        "short_ratio_pct": 48.7
+      },
+      "TRMB": {
+        "squeeze_score": 77.4,
+        "short_ratio_pct": 69.7
+      },
+      "TROW": {
+        "squeeze_score": 76.0,
+        "short_ratio_pct": 68.8
+      },
+      "TROX": {
+        "squeeze_score": 26.6,
+        "short_ratio_pct": 40.3
+      },
+      "TRU": {
+        "squeeze_score": 46.4,
+        "short_ratio_pct": 47.7
+      },
+      "TRUG": {
+        "squeeze_score": 40.4,
+        "short_ratio_pct": 51.4
+      },
+      "TRV": {
+        "squeeze_score": 15.9,
+        "short_ratio_pct": 37.6
+      },
+      "TRVI": {
+        "squeeze_score": 56.0,
+        "short_ratio_pct": 56.5
+      },
+      "TRX": {
+        "squeeze_score": 75.0,
+        "short_ratio_pct": 64.3
+      },
+      "TSCO": {
+        "squeeze_score": 64.3,
+        "short_ratio_pct": 51.0
+      },
+      "TSDD": {
+        "squeeze_score": 47.8,
+        "short_ratio_pct": 36.4
+      },
+      "TSHA": {
+        "squeeze_score": 49.3,
+        "short_ratio_pct": 57.0
+      },
+      "TSLA": {
+        "squeeze_score": 69.9,
+        "short_ratio_pct": 50.7
+      },
+      "TSLG": {
+        "squeeze_score": 46.2,
+        "short_ratio_pct": 35.1
+      },
+      "TSLL": {
+        "squeeze_score": 50.2,
+        "short_ratio_pct": 37.6
+      },
+      "TSLQ": {
+        "squeeze_score": 68.6,
+        "short_ratio_pct": 53.1
+      },
+      "TSLZ": {
+        "squeeze_score": 53.1,
+        "short_ratio_pct": 49.9
+      },
+      "TSM": {
+        "squeeze_score": 39.5,
+        "short_ratio_pct": 32.4
+      },
+      "TSN": {
+        "squeeze_score": 32.2,
+        "short_ratio_pct": 46.7
+      },
+      "TSPA": {
+        "squeeze_score": 77.9,
+        "short_ratio_pct": 91.2
+      },
+      "TTD": {
+        "squeeze_score": 60.0,
+        "short_ratio_pct": 47.0
+      },
+      "TTEK": {
+        "squeeze_score": 78.6,
+        "short_ratio_pct": 69.4
+      },
+      "TTI": {
+        "squeeze_score": 81.5,
+        "short_ratio_pct": 81.1
+      },
+      "TTMI": {
+        "squeeze_score": 15.5,
+        "short_ratio_pct": 22.1
+      },
+      "TTWO": {
+        "squeeze_score": 17.1,
+        "short_ratio_pct": 38.9
+      },
+      "TU": {
+        "squeeze_score": 91.8,
+        "short_ratio_pct": 78.5
+      },
+      "TV": {
+        "squeeze_score": 27.0,
+        "short_ratio_pct": 42.2
+      },
+      "TVTX": {
+        "squeeze_score": 77.1,
+        "short_ratio_pct": 69.5
+      },
+      "TWLO": {
+        "squeeze_score": 24.3,
+        "short_ratio_pct": 43.3
+      },
+      "TWO": {
+        "squeeze_score": 29.2,
+        "short_ratio_pct": 31.6
+      },
+      "TWST": {
+        "squeeze_score": 36.7,
+        "short_ratio_pct": 49.3
+      },
+      "TX": {
+        "squeeze_score": 0.5,
+        "short_ratio_pct": 7.6
+      },
+      "TXG": {
+        "squeeze_score": 66.5,
+        "short_ratio_pct": 62.6
+      },
+      "TXN": {
+        "squeeze_score": 29.1,
+        "short_ratio_pct": 30.1
+      },
+      "TXT": {
+        "squeeze_score": 71.9,
+        "short_ratio_pct": 76.3
+      },
+      "TYGO": {
+        "squeeze_score": 42.1,
+        "short_ratio_pct": 52.6
+      },
+      "TZA": {
+        "squeeze_score": 79.8,
+        "short_ratio_pct": 57.2
+      },
+      "U": {
+        "squeeze_score": 43.6,
+        "short_ratio_pct": 40.7
+      },
+      "UA": {
+        "squeeze_score": 82.5,
+        "short_ratio_pct": 69.1
+      },
+      "UAA": {
+        "squeeze_score": 63.2,
+        "short_ratio_pct": 50.4
+      },
+      "UAL": {
+        "squeeze_score": 35.5,
+        "short_ratio_pct": 39.9
+      },
+      "UAMY": {
+        "squeeze_score": 39.4,
+        "short_ratio_pct": 40.1
+      },
+      "UBER": {
+        "squeeze_score": 45.9,
+        "short_ratio_pct": 36.9
+      },
+      "UBS": {
+        "squeeze_score": 11.4,
+        "short_ratio_pct": 34.3
+      },
+      "UCO": {
+        "squeeze_score": 8.6,
+        "short_ratio_pct": 31.5
+      },
+      "UCTT": {
+        "squeeze_score": 17.9,
+        "short_ratio_pct": 39.1
+      },
+      "UDOW": {
+        "squeeze_score": 26.4,
+        "short_ratio_pct": 43.5
+      },
+      "UEC": {
+        "squeeze_score": 74.2,
+        "short_ratio_pct": 59.0
+      },
+      "UGP": {
+        "squeeze_score": 26.9,
+        "short_ratio_pct": 43.4
+      },
+      "UL": {
+        "squeeze_score": 16.5,
+        "short_ratio_pct": 34.6
+      },
+      "ULCC": {
+        "squeeze_score": 5.5,
+        "short_ratio_pct": 25.7
+      },
+      "ULS": {
+        "squeeze_score": 76.9,
+        "short_ratio_pct": 67.4
+      },
+      "UMAC": {
+        "squeeze_score": 57.2,
+        "short_ratio_pct": 52.3
+      },
+      "UMC": {
+        "squeeze_score": 35.9,
+        "short_ratio_pct": 35.5
+      },
+      "UNCY": {
+        "squeeze_score": 67.4,
+        "short_ratio_pct": 61.3
+      },
+      "UNG": {
+        "squeeze_score": 57.7,
+        "short_ratio_pct": 51.3
+      },
+      "UNH": {
+        "squeeze_score": 24.6,
+        "short_ratio_pct": 31.4
+      },
+      "UNIT": {
+        "squeeze_score": 68.7,
+        "short_ratio_pct": 64.9
+      },
+      "UNM": {
+        "squeeze_score": 32.3,
+        "short_ratio_pct": 42.2
+      },
+      "UNP": {
+        "squeeze_score": 40.7,
+        "short_ratio_pct": 49.2
+      },
+      "UPRO": {
+        "squeeze_score": 24.9,
+        "short_ratio_pct": 41.6
+      },
+      "UPS": {
+        "squeeze_score": 64.6,
+        "short_ratio_pct": 58.9
+      },
+      "UPST": {
+        "squeeze_score": 55.6,
+        "short_ratio_pct": 49.8
+      },
+      "UPWK": {
+        "squeeze_score": 32.3,
+        "short_ratio_pct": 45.0
+      },
+      "UPXI": {
+        "squeeze_score": 77.1,
+        "short_ratio_pct": 64.6
+      },
+      "URA": {
+        "squeeze_score": 32.9,
+        "short_ratio_pct": 47.7
+      },
+      "URG": {
+        "squeeze_score": 78.6,
+        "short_ratio_pct": 60.5
+      },
+      "UROY": {
+        "squeeze_score": 10.9,
+        "short_ratio_pct": 34.0
+      },
+      "USA": {
+        "squeeze_score": 8.4,
+        "short_ratio_pct": 23.3
+      },
+      "USAR": {
+        "squeeze_score": 54.3,
+        "short_ratio_pct": 45.9
+      },
+      "USAS": {
+        "squeeze_score": 66.4,
+        "short_ratio_pct": 60.7
+      },
+      "USB": {
+        "squeeze_score": 55.5,
+        "short_ratio_pct": 47.8
+      },
+      "USDE": {
+        "squeeze_score": 60.4,
+        "short_ratio_pct": 56.5
+      },
+      "USFD": {
+        "squeeze_score": 76.0,
+        "short_ratio_pct": 61.1
+      },
+      "USFR": {
+        "squeeze_score": 70.2,
+        "short_ratio_pct": 54.3
+      },
+      "USHY": {
+        "squeeze_score": 97.1,
+        "short_ratio_pct": 87.6
+      },
+      "USIG": {
+        "squeeze_score": 3.2,
+        "short_ratio_pct": 16.7
+      },
+      "USMV": {
+        "squeeze_score": 67.9,
+        "short_ratio_pct": 63.1
+      },
+      "USO": {
+        "squeeze_score": 6.6,
+        "short_ratio_pct": 28.7
+      },
+      "USRT": {
+        "squeeze_score": 73.3,
+        "short_ratio_pct": 80.3
+      },
+      "UUP": {
+        "squeeze_score": 29.2,
+        "short_ratio_pct": 44.5
+      },
+      "UUUU": {
+        "squeeze_score": 50.0,
+        "short_ratio_pct": 46.4
+      },
+      "UVXY": {
+        "squeeze_score": 91.7,
+        "short_ratio_pct": 73.5
+      },
+      "UWMC": {
+        "squeeze_score": 50.4,
+        "short_ratio_pct": 38.5
+      },
+      "UZX": {
+        "squeeze_score": 14.9,
+        "short_ratio_pct": 36.3
+      },
+      "V": {
+        "squeeze_score": 38.2,
+        "short_ratio_pct": 34.4
+      },
+      "VALE": {
+        "squeeze_score": 65.9,
+        "short_ratio_pct": 49.7
+      },
+      "VBIL": {
+        "squeeze_score": 75.7,
+        "short_ratio_pct": 61.8
+      },
+      "VCIT": {
+        "squeeze_score": 81.8,
+        "short_ratio_pct": 62.3
+      },
+      "VCLT": {
+        "squeeze_score": 79.8,
+        "short_ratio_pct": 68.8
+      },
+      "VCSH": {
+        "squeeze_score": 19.7,
+        "short_ratio_pct": 18.1
+      },
+      "VEA": {
+        "squeeze_score": 54.3,
+        "short_ratio_pct": 43.9
+      },
+      "VEEV": {
+        "squeeze_score": 60.1,
+        "short_ratio_pct": 57.2
+      },
+      "VELO": {
+        "squeeze_score": 38.2,
+        "short_ratio_pct": 48.0
+      },
+      "VERA": {
+        "squeeze_score": 86.6,
+        "short_ratio_pct": 76.2
+      },
+      "VERI": {
+        "squeeze_score": 63.9,
+        "short_ratio_pct": 62.9
+      },
+      "VERX": {
+        "squeeze_score": 10.9,
+        "short_ratio_pct": 33.4
+      },
+      "VEU": {
+        "squeeze_score": 81.1,
+        "short_ratio_pct": 73.0
+      },
+      "VFC": {
+        "squeeze_score": 80.6,
+        "short_ratio_pct": 63.2
+      },
+      "VFH": {
+        "squeeze_score": 18.2,
+        "short_ratio_pct": 40.0
+      },
+      "VFLO": {
+        "squeeze_score": 49.9,
+        "short_ratio_pct": 55.6
+      },
+      "VG": {
+        "squeeze_score": 40.5,
+        "short_ratio_pct": 38.6
+      },
+      "VGIT": {
+        "squeeze_score": 90.6,
+        "short_ratio_pct": 77.9
+      },
+      "VGK": {
+        "squeeze_score": 58.2,
+        "short_ratio_pct": 53.5
+      },
+      "VGLT": {
+        "squeeze_score": 74.4,
+        "short_ratio_pct": 69.8
+      },
+      "VGNT": {
+        "squeeze_score": 14.3,
+        "short_ratio_pct": 36.3
+      },
+      "VGSH": {
+        "squeeze_score": 90.4,
+        "short_ratio_pct": 71.7
+      },
+      "VGT": {
+        "squeeze_score": 66.5,
+        "short_ratio_pct": 52.8
+      },
+      "VGZ": {
+        "squeeze_score": 71.4,
+        "short_ratio_pct": 62.5
+      },
+      "VIAV": {
+        "squeeze_score": 5.0,
+        "short_ratio_pct": 17.6
+      },
+      "VICI": {
+        "squeeze_score": 66.3,
+        "short_ratio_pct": 50.9
+      },
+      "VIG": {
+        "squeeze_score": 11.8,
+        "short_ratio_pct": 30.8
+      },
+      "VIK": {
+        "squeeze_score": 30.3,
+        "short_ratio_pct": 41.5
+      },
+      "VIPS": {
+        "squeeze_score": 57.4,
+        "short_ratio_pct": 56.2
+      },
+      "VISN": {
+        "squeeze_score": 84.4,
+        "short_ratio_pct": 69.7
+      },
+      "VITL": {
+        "squeeze_score": 23.6,
+        "short_ratio_pct": 43.1
+      },
+      "VIV": {
+        "squeeze_score": 37.8,
+        "short_ratio_pct": 50.6
+      },
+      "VIVO": {
+        "squeeze_score": 53.8,
+        "short_ratio_pct": 59.1
+      },
+      "VIXY": {
+        "squeeze_score": 70.0,
+        "short_ratio_pct": 64.9
+      },
+      "VKTX": {
+        "squeeze_score": 17.6,
+        "short_ratio_pct": 36.7
+      },
+      "VLO": {
+        "squeeze_score": 26.6,
+        "short_ratio_pct": 44.0
+      },
+      "VLTO": {
+        "squeeze_score": 64.9,
+        "short_ratio_pct": 68.0
+      },
+      "VLY": {
+        "squeeze_score": 90.2,
+        "short_ratio_pct": 71.6
+      },
+      "VMBS": {
+        "squeeze_score": 45.0,
+        "short_ratio_pct": 44.0
+      },
+      "VNET": {
+        "squeeze_score": 47.8,
+        "short_ratio_pct": 50.3
+      },
+      "VNLA": {
+        "squeeze_score": 1.4,
+        "short_ratio_pct": 17.5
+      },
+      "VNOM": {
+        "squeeze_score": 9.5,
+        "short_ratio_pct": 30.0
+      },
+      "VNQ": {
+        "squeeze_score": 64.4,
+        "short_ratio_pct": 58.1
+      },
+      "VNT": {
+        "squeeze_score": 7.9,
+        "short_ratio_pct": 30.5
+      },
+      "VO": {
+        "squeeze_score": 38.7,
+        "short_ratio_pct": 39.1
+      },
+      "VOD": {
+        "squeeze_score": 9.8,
+        "short_ratio_pct": 27.5
+      },
+      "VONG": {
+        "squeeze_score": 58.1,
+        "short_ratio_pct": 61.6
+      },
+      "VONV": {
+        "squeeze_score": 84.0,
+        "short_ratio_pct": 81.3
+      },
+      "VOO": {
+        "squeeze_score": 75.4,
+        "short_ratio_pct": 59.1
+      },
+      "VOOG": {
+        "squeeze_score": 65.6,
+        "short_ratio_pct": 61.9
+      },
+      "VOR": {
+        "squeeze_score": 43.5,
+        "short_ratio_pct": 50.2
+      },
+      "VRDN": {
+        "squeeze_score": 57.6,
+        "short_ratio_pct": 59.1
+      },
+      "VRIG": {
+        "squeeze_score": 29.2,
+        "short_ratio_pct": 44.3
+      },
+      "VRNS": {
+        "squeeze_score": 77.1,
+        "short_ratio_pct": 63.1
+      },
+      "VRRM": {
+        "squeeze_score": 60.7,
+        "short_ratio_pct": 51.2
+      },
+      "VRSK": {
+        "squeeze_score": 5.3,
+        "short_ratio_pct": 27.3
+      },
+      "VRT": {
+        "squeeze_score": 60.8,
+        "short_ratio_pct": 50.2
+      },
+      "VRTX": {
+        "squeeze_score": 57.5,
+        "short_ratio_pct": 62.2
+      },
+      "VRXA": {
+        "squeeze_score": 13.9,
+        "short_ratio_pct": 36.0
+      },
+      "VSAT": {
+        "squeeze_score": 70.7,
+        "short_ratio_pct": 64.6
+      },
+      "VSH": {
+        "squeeze_score": 23.1,
+        "short_ratio_pct": 27.2
+      },
+      "VSNT": {
+        "squeeze_score": 52.8,
+        "short_ratio_pct": 52.8
+      },
+      "VST": {
+        "squeeze_score": 55.0,
+        "short_ratio_pct": 51.5
+      },
+      "VSTM": {
+        "squeeze_score": 65.0,
+        "short_ratio_pct": 63.4
+      },
+      "VSXY": {
+        "squeeze_score": 69.6,
+        "short_ratio_pct": 68.9
+      },
+      "VT": {
+        "squeeze_score": 85.9,
+        "short_ratio_pct": 72.3
+      },
+      "VTEB": {
+        "squeeze_score": 54.7,
+        "short_ratio_pct": 46.2
+      },
+      "VTGN": {
+        "squeeze_score": 26.2,
+        "short_ratio_pct": 32.2
+      },
+      "VTI": {
+        "squeeze_score": 71.6,
+        "short_ratio_pct": 57.6
+      },
+      "VTIP": {
+        "squeeze_score": 81.9,
+        "short_ratio_pct": 65.1
+      },
+      "VTR": {
+        "squeeze_score": 74.1,
+        "short_ratio_pct": 67.3
+      },
+      "VTRS": {
+        "squeeze_score": 64.5,
+        "short_ratio_pct": 52.4
+      },
+      "VTV": {
+        "squeeze_score": 61.4,
+        "short_ratio_pct": 52.5
+      },
+      "VUG": {
+        "squeeze_score": 90.4,
+        "short_ratio_pct": 68.4
+      },
+      "VUSB": {
+        "squeeze_score": 58.0,
+        "short_ratio_pct": 53.6
+      },
+      "VVR": {
+        "squeeze_score": 28.4,
+        "short_ratio_pct": 43.4
+      },
+      "VVV": {
+        "squeeze_score": 41.7,
+        "short_ratio_pct": 49.4
+      },
+      "VWO": {
+        "squeeze_score": 83.6,
+        "short_ratio_pct": 63.4
+      },
+      "VXUS": {
+        "squeeze_score": 92.5,
+        "short_ratio_pct": 71.8
+      },
+      "VXX": {
+        "squeeze_score": 50.7,
+        "short_ratio_pct": 45.0
+      },
+      "VYM": {
+        "squeeze_score": 40.8,
+        "short_ratio_pct": 48.7
+      },
+      "VYMI": {
+        "squeeze_score": 73.0,
+        "short_ratio_pct": 69.8
+      },
+      "VYX": {
+        "squeeze_score": 83.2,
+        "short_ratio_pct": 82.1
+      },
+      "VZ": {
+        "squeeze_score": 46.1,
+        "short_ratio_pct": 33.7
+      },
+      "VZLA": {
+        "squeeze_score": 68.8,
+        "short_ratio_pct": 57.4
+      },
+      "W": {
+        "squeeze_score": 78.6,
+        "short_ratio_pct": 71.0
+      },
+      "WAY": {
+        "squeeze_score": 70.3,
+        "short_ratio_pct": 62.6
+      },
+      "WBD": {
+        "squeeze_score": 52.8,
+        "short_ratio_pct": 43.1
+      },
+      "WBI": {
+        "squeeze_score": 32.3,
+        "short_ratio_pct": 48.3
+      },
+      "WBS": {
+        "squeeze_score": 4.0,
+        "short_ratio_pct": 24.1
+      },
+      "WDAY": {
+        "squeeze_score": 74.9,
+        "short_ratio_pct": 63.6
+      },
+      "WDC": {
+        "squeeze_score": 37.5,
+        "short_ratio_pct": 33.6
+      },
+      "WDCX": {
+        "squeeze_score": 42.4,
+        "short_ratio_pct": 49.9
+      },
+      "WELL": {
+        "squeeze_score": 30.2,
+        "short_ratio_pct": 43.4
+      },
+      "WEN": {
+        "squeeze_score": 60.2,
+        "short_ratio_pct": 45.8
+      },
+      "WFC": {
+        "squeeze_score": 31.0,
+        "short_ratio_pct": 27.9
+      },
+      "WFRD": {
+        "squeeze_score": 37.1,
+        "short_ratio_pct": 50.5
+      },
+      "WH": {
+        "squeeze_score": 29.0,
+        "short_ratio_pct": 46.5
+      },
+      "WHLR": {
+        "squeeze_score": 23.7,
+        "short_ratio_pct": 43.5
+      },
+      "WHR": {
+        "squeeze_score": 26.0,
+        "short_ratio_pct": 35.1
+      },
+      "WIT": {
+        "squeeze_score": 54.1,
+        "short_ratio_pct": 43.6
+      },
+      "WLTH": {
+        "squeeze_score": 32.5,
+        "short_ratio_pct": 48.4
+      },
+      "WM": {
+        "squeeze_score": 41.2,
+        "short_ratio_pct": 52.1
+      },
+      "WMB": {
+        "squeeze_score": 68.7,
+        "short_ratio_pct": 58.0
+      },
+      "WMG": {
+        "squeeze_score": 51.9,
+        "short_ratio_pct": 52.9
+      },
+      "WMT": {
+        "squeeze_score": 43.9,
+        "short_ratio_pct": 34.0
+      },
+      "WOLF": {
+        "squeeze_score": 63.7,
+        "short_ratio_pct": 55.1
+      },
+      "WOOF": {
+        "squeeze_score": 65.4,
+        "short_ratio_pct": 65.9
+      },
+      "WPC": {
+        "squeeze_score": 17.4,
+        "short_ratio_pct": 38.5
+      },
+      "WPM": {
+        "squeeze_score": 41.3,
+        "short_ratio_pct": 50.6
+      },
+      "WRAP": {
+        "squeeze_score": 36.3,
+        "short_ratio_pct": 41.2
+      },
+      "WRB": {
+        "squeeze_score": 53.8,
+        "short_ratio_pct": 59.2
+      },
+      "WRBY": {
+        "squeeze_score": 69.3,
+        "short_ratio_pct": 64.2
+      },
+      "WRD": {
+        "squeeze_score": 34.1,
+        "short_ratio_pct": 48.4
+      },
+      "WSC": {
+        "squeeze_score": 48.2,
+        "short_ratio_pct": 54.4
+      },
+      "WT": {
+        "squeeze_score": 47.3,
+        "short_ratio_pct": 50.9
+      },
+      "WTI": {
+        "squeeze_score": 51.3,
+        "short_ratio_pct": 51.4
+      },
+      "WTRG": {
+        "squeeze_score": 31.8,
+        "short_ratio_pct": 46.6
+      },
+      "WU": {
+        "squeeze_score": 74.0,
+        "short_ratio_pct": 57.5
+      },
+      "WULF": {
+        "squeeze_score": 52.4,
+        "short_ratio_pct": 39.5
+      },
+      "WVE": {
+        "squeeze_score": 47.8,
+        "short_ratio_pct": 49.8
+      },
+      "WWR": {
+        "squeeze_score": 21.6,
+        "short_ratio_pct": 40.4
+      },
+      "WY": {
+        "squeeze_score": 56.0,
+        "short_ratio_pct": 51.5
+      },
+      "WYFI": {
+        "squeeze_score": 63.2,
+        "short_ratio_pct": 57.2
+      },
+      "WYNN": {
+        "squeeze_score": 72.5,
+        "short_ratio_pct": 74.2
+      },
+      "XAGG": {
+        "squeeze_score": 78.1,
+        "short_ratio_pct": 75.4
+      },
+      "XBI": {
+        "squeeze_score": 42.7,
+        "short_ratio_pct": 40.1
+      },
+      "XE": {
+        "squeeze_score": 61.1,
+        "short_ratio_pct": 55.0
+      },
+      "XEL": {
+        "squeeze_score": 32.4,
+        "short_ratio_pct": 39.0
+      },
+      "XENE": {
+        "squeeze_score": 52.5,
+        "short_ratio_pct": 56.1
+      },
+      "XERS": {
+        "squeeze_score": 51.2,
+        "short_ratio_pct": 55.8
+      },
+      "XHB": {
+        "squeeze_score": 85.2,
+        "short_ratio_pct": 82.7
+      },
+      "XHLF": {
+        "squeeze_score": 21.8,
+        "short_ratio_pct": 37.3
+      },
+      "XIFR": {
+        "squeeze_score": 11.2,
+        "short_ratio_pct": 32.5
+      },
+      "XLB": {
+        "squeeze_score": 94.2,
+        "short_ratio_pct": 73.0
+      },
+      "XLC": {
+        "squeeze_score": 33.2,
+        "short_ratio_pct": 31.6
+      },
+      "XLE": {
+        "squeeze_score": 69.3,
+        "short_ratio_pct": 51.6
+      },
+      "XLF": {
+        "squeeze_score": 68.3,
+        "short_ratio_pct": 50.5
+      },
+      "XLG": {
+        "squeeze_score": 19.5,
+        "short_ratio_pct": 40.8
+      },
+      "XLI": {
+        "squeeze_score": 85.4,
+        "short_ratio_pct": 67.0
+      },
+      "XLK": {
+        "squeeze_score": 69.6,
+        "short_ratio_pct": 54.8
+      },
+      "XLP": {
+        "squeeze_score": 87.9,
+        "short_ratio_pct": 66.3
+      },
+      "XLRE": {
+        "squeeze_score": 90.0,
+        "short_ratio_pct": 74.2
+      },
+      "XLU": {
+        "squeeze_score": 90.3,
+        "short_ratio_pct": 67.2
+      },
+      "XLV": {
+        "squeeze_score": 70.4,
+        "short_ratio_pct": 52.7
+      },
+      "XLY": {
+        "squeeze_score": 82.3,
+        "short_ratio_pct": 64.7
+      },
+      "XME": {
+        "squeeze_score": 7.3,
+        "short_ratio_pct": 29.0
+      },
+      "XNDU": {
+        "squeeze_score": 61.5,
+        "short_ratio_pct": 61.6
+      },
+      "XOM": {
+        "squeeze_score": 38.7,
+        "short_ratio_pct": 33.4
+      },
+      "XOVR": {
+        "squeeze_score": 0.8,
+        "short_ratio_pct": 10.6
+      },
+      "XP": {
+        "squeeze_score": 40.4,
+        "short_ratio_pct": 39.1
+      },
+      "XPEV": {
+        "squeeze_score": 83.6,
+        "short_ratio_pct": 64.2
+      },
+      "XRAY": {
+        "squeeze_score": 87.2,
+        "short_ratio_pct": 70.0
+      },
+      "XRT": {
+        "squeeze_score": 75.8,
+        "short_ratio_pct": 69.1
+      },
+      "XRX": {
+        "squeeze_score": 32.9,
+        "short_ratio_pct": 43.9
+      },
+      "XYL": {
+        "squeeze_score": 73.7,
+        "short_ratio_pct": 71.4
+      },
+      "XYZ": {
+        "squeeze_score": 34.6,
+        "short_ratio_pct": 40.5
+      },
+      "YDES": {
+        "squeeze_score": 71.2,
+        "short_ratio_pct": 56.3
+      },
+      "YEXT": {
+        "squeeze_score": 20.4,
+        "short_ratio_pct": 41.5
+      },
+      "YHC": {
+        "squeeze_score": 47.8,
+        "short_ratio_pct": 34.8
+      },
+      "YINN": {
+        "squeeze_score": 39.9,
+        "short_ratio_pct": 51.8
+      },
+      "YMAG": {
+        "squeeze_score": 13.9,
+        "short_ratio_pct": 32.6
+      },
+      "YMAX": {
+        "squeeze_score": 34.5,
+        "short_ratio_pct": 39.4
+      },
+      "YMM": {
+        "squeeze_score": 26.0,
+        "short_ratio_pct": 33.8
+      },
+      "YOU": {
+        "squeeze_score": 73.3,
+        "short_ratio_pct": 70.0
+      },
+      "YPF": {
+        "squeeze_score": 67.0,
+        "short_ratio_pct": 67.7
+      },
+      "YRD": {
+        "squeeze_score": 23.7,
+        "short_ratio_pct": 34.2
+      },
+      "YUM": {
+        "squeeze_score": 46.7,
+        "short_ratio_pct": 49.6
+      },
+      "YUMC": {
+        "squeeze_score": 38.6,
+        "short_ratio_pct": 48.6
+      },
+      "YYGH": {
+        "squeeze_score": 28.3,
+        "short_ratio_pct": 39.8
+      },
+      "Z": {
+        "squeeze_score": 57.0,
+        "short_ratio_pct": 51.5
+      },
+      "ZBH": {
+        "squeeze_score": 55.1,
+        "short_ratio_pct": 53.9
+      },
+      "ZCMD": {
+        "squeeze_score": 75.7,
+        "short_ratio_pct": 54.9
+      },
+      "ZENA": {
+        "squeeze_score": 51.6,
+        "short_ratio_pct": 57.4
+      },
+      "ZETA": {
+        "squeeze_score": 53.8,
+        "short_ratio_pct": 46.3
+      },
+      "ZGN": {
+        "squeeze_score": 49.2,
+        "short_ratio_pct": 56.4
+      },
+      "ZIM": {
+        "squeeze_score": 49.0,
+        "short_ratio_pct": 44.4
+      },
+      "ZM": {
+        "squeeze_score": 31.2,
+        "short_ratio_pct": 39.0
+      },
+      "ZNB": {
+        "squeeze_score": 44.8,
+        "short_ratio_pct": 48.2
+      },
+      "ZONE": {
+        "squeeze_score": 40.7,
+        "short_ratio_pct": 42.5
+      },
+      "ZS": {
+        "squeeze_score": 31.2,
+        "short_ratio_pct": 43.7
+      },
+      "ZSL": {
+        "squeeze_score": 42.5,
+        "short_ratio_pct": 53.2
+      },
+      "ZTS": {
+        "squeeze_score": 25.7,
+        "short_ratio_pct": 20.2
+      }
+    },
+    "disclaimer": "Short-selling activity from regulatory data. Informational only, not investment advice."
+  },
+  "notes": "Derived from FINRA daily consolidated short-sale volume. Bi-monthly short interest % and off-exchange share are planned additions."
+}
