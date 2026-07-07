@@ -89,15 +89,43 @@ def build_boards(raw: Dict[str, Any], cfg: Dict[str, Any]) -> Dict[str, Any]:
         for x in items
     }
 
+    # --- multi-day short-pressure trend (latest short ratio vs the mean of prior days) ---
+    rising_out: List[Dict[str, Any]] = []
+    days = raw.get("days") or []
+    if len(days) >= 2:
+        def _ratio_map(rows):
+            m = {}
+            for r in rows:
+                if r["total_volume"] >= floor and r["total_volume"] > 0:
+                    if not universe or r["symbol"] in universe:
+                        m[r["symbol"]] = r["short_volume"] / r["total_volume"]
+            return m
+        latest = _ratio_map(days[0]["rows"])
+        prior_maps = [_ratio_map(d["rows"]) for d in days[1:]]
+        trend = []
+        for tk, cur in latest.items():
+            priors = [pm[tk] for pm in prior_maps if tk in pm]
+            if not priors:
+                continue
+            delta = cur - (sum(priors) / len(priors))
+            trend.append({"ticker": tk, "ratio_pct": round(cur * 100, 1),
+                          "ratio_delta_pp": round(delta * 100, 1)})
+            if tk in by_ticker:
+                by_ticker[tk]["ratio_delta_pp"] = round(delta * 100, 1)
+        trend.sort(key=lambda r: -r["ratio_delta_pp"])
+        rising_out = [t for t in trend if t["ratio_delta_pp"] > 0][:top_n]
+
     return {
         "as_of": raw.get("as_of"),
         "universe_size": len(items),
+        "trend_days": len(days),
         "squeeze_score": squeeze_out,
         "short_volume_ratio": ratio_out,
         "largest_short_volume": largest_out,
+        "rising_short_pressure": rising_out,
         "most_shorted": [],     # reserved: needs bi-monthly FINRA short interest
         "off_exchange": [],     # reserved: needs consolidated market volume
         "by_ticker": by_ticker,
         "_status": "active",
-        "_notes": "Derived from FINRA daily consolidated short-sale volume. Bi-monthly short interest % and off-exchange share are planned additions.",
+        "_notes": "Derived from FINRA daily consolidated short-sale volume (latest day + multi-day trend). Bi-monthly short interest % and off-exchange share are planned additions.",
     }

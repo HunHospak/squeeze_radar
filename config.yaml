@@ -6,6 +6,8 @@ ttl_hours: 30
 # to find the most recent published file (skips weekends/holidays).
 finra_daily_url: "https://cdn.finra.org/equity/regsho/daily/CNMSshvol{date}.txt"
 max_lookback_days: 6
+# How many recent trading days to pull for the short-pressure trend board.
+trend_days: 5
 
 # Liquidity floor: ignore symbols with tiny consolidated volume (noise / illiquid).
 min_total_volume: 500000

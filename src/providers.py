@@ -57,19 +57,32 @@ def parse_regsho(text: str) -> List[Dict[str, Any]]:
 
 
 def gather(cfg: Dict[str, Any]) -> Dict[str, Any]:
-    """Find the most recent published FINRA daily short-volume file and parse it."""
+    """Collect the most recent published FINRA daily short-volume files.
+
+    Returns up to `trend_days` distinct trading days (newest first) so compute can build
+    both the latest-day boards and a multi-day short-pressure trend. The newest day's rows
+    are also exposed as `reg_sho_rows` for backward compatibility.
+    """
     tmpl = cfg["finra_daily_url"]
     lookback = int(cfg.get("max_lookback_days", 6))
+    want_days = int(cfg.get("trend_days", 5))
     today = dt.date.today()
-    for i in range(lookback + 1):
+
+    days: List[Dict[str, Any]] = []
+    i = 0
+    # Walk back far enough to collect `want_days` published files (plus slack for holidays).
+    while len(days) < want_days and i <= lookback + want_days + 5:
         d = today - dt.timedelta(days=i)
+        i += 1
         if d.weekday() >= 5:  # skip Sat/Sun
             continue
-        url = tmpl.format(date=d.strftime("%Y%m%d"))
-        text = _fetch(url)
+        text = _fetch(tmpl.format(date=d.strftime("%Y%m%d")))
         if not text:
             continue
         rows = parse_regsho(text)
         if rows:
-            return {"reg_sho_rows": rows, "as_of": d.isoformat(), "si_map": {}}
-    return {"reg_sho_rows": [], "as_of": None, "si_map": {}}
+            days.append({"date": d.isoformat(), "rows": rows})
+
+    if not days:
+        return {"reg_sho_rows": [], "days": [], "as_of": None, "si_map": {}}
+    return {"reg_sho_rows": days[0]["rows"], "days": days, "as_of": days[0]["date"], "si_map": {}}
