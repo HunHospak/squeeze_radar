@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-06
+Squeeze radar — 2026-07-07
 Highest short-selling pressure:
-  EFV  squeeze 99.0/100  (short vol 94.9%)
-  SPYM  squeeze 98.7/100  (short vol 84.3%)
-  BNS  squeeze 98.5/100  (short vol 96.6%)
+  RWT  squeeze 97.6/100  (short vol 85.7%)
+  USHY  squeeze 97.3/100  (short vol 82.6%)
+  SES  squeeze 97.1/100  (short vol 78.3%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
