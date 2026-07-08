@@ -56,7 +56,7 @@ def main() -> None:
     jsonschema.validate(feed, load_schema())
     out = ROOT / "out"
     (out / "history").mkdir(parents=True, exist_ok=True)
-    payload = json.dumps(feed, indent=2)
+    payload = json.dumps(feed, separators=(",", ":"))
     (out / "squeeze_radar.json").write_text(payload, encoding="utf-8")
     as_of = feed["data"].get("as_of") or dt.date.today().isoformat()
     (out / "history" / f"{as_of}.json").write_text(payload, encoding="utf-8")

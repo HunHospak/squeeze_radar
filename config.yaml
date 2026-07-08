@@ -10,7 +10,9 @@ max_lookback_days: 6
 trend_days: 5
 
 # Liquidity floor: ignore symbols with tiny consolidated volume (noise / illiquid).
-min_total_volume: 500000
+# Lower = wider coverage (more mid/small caps), but thinner names are noisier.
+# Whole liquid market is covered above this floor (no ticker-list restriction).
+min_total_volume: 250000
 top_n: 25
 
 # Optional universe restriction. Empty = every symbol in the file above the volume floor.
