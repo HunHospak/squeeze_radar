@@ -1,6 +1,6 @@
 Squeeze radar — 2026-07-07
 Highest short-selling pressure:
-  RWT  squeeze 97.6/100  (short vol 85.7%)
-  USHY  squeeze 97.3/100  (short vol 82.6%)
-  SES  squeeze 97.1/100  (short vol 78.3%)
+  RWT  squeeze 97.9/100  (short vol 85.7%)
+  IXC  squeeze 97.6/100  (short vol 95.4%)
+  SPSM  squeeze 97.6/100  (short vol 92.4%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
