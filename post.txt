@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-07
+Squeeze radar — 2026-07-08
 Highest short-selling pressure:
-  RWT  squeeze 97.9/100  (short vol 85.7%)
-  IXC  squeeze 97.6/100  (short vol 95.4%)
-  SPSM  squeeze 97.6/100  (short vol 92.4%)
+  EFV  squeeze 98.7/100  (short vol 94.8%)
+  HGER  squeeze 98.7/100  (short vol 96.3%)
+  IXC  squeeze 98.6/100  (short vol 98.3%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
