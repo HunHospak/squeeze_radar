@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-10
+Squeeze radar — 2026-07-13
 Highest short-selling pressure:
-  EFV  squeeze 98.5/100  (short vol 93.0%)
-  MFG  squeeze 97.8/100  (short vol 91.9%)
-  IQQ  squeeze 96.8/100  (short vol 98.4%)
+  EFV  squeeze 99.1/100  (short vol 95.9%)
+  FNB  squeeze 98.0/100  (short vol 86.4%)
+  DFGP  squeeze 97.3/100  (short vol 98.5%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
