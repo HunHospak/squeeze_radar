@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-14
+Squeeze radar — 2026-07-15
 Highest short-selling pressure:
-  BCI  squeeze 96.7/100  (short vol 86.8%)
-  KJUL  squeeze 96.3/100  (short vol 99.6%)
-  INDI  squeeze 96.2/100  (short vol 83.0%)
+  BFLX  squeeze 99.8/100  (short vol 99.9%)
+  SPYM  squeeze 98.3/100  (short vol 88.4%)
+  SPTL  squeeze 98.2/100  (short vol 92.3%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
