@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-15
+Squeeze radar — 2026-07-16
 Highest short-selling pressure:
-  BFLX  squeeze 99.8/100  (short vol 99.9%)
-  SPYM  squeeze 98.3/100  (short vol 88.4%)
-  SPTL  squeeze 98.2/100  (short vol 92.3%)
+  HELO  squeeze 98.7/100  (short vol 98.1%)
+  IGOV  squeeze 97.7/100  (short vol 94.8%)
+  WNC  squeeze 97.3/100  (short vol 88.0%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
