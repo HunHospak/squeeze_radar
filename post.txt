@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-17
+Squeeze radar — 2026-07-20
 Highest short-selling pressure:
-  VONG  squeeze 98.0/100  (short vol 92.5%)
-  SPSB  squeeze 97.8/100  (short vol 93.1%)
-  PDBC  squeeze 97.6/100  (short vol 85.4%)
+  SPHY  squeeze 97.6/100  (short vol 84.5%)
+  MAT  squeeze 96.3/100  (short vol 83.0%)
+  ALHC  squeeze 96.1/100  (short vol 89.1%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
