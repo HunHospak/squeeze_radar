@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-20
+Squeeze radar — 2026-07-21
 Highest short-selling pressure:
-  SPHY  squeeze 97.6/100  (short vol 84.5%)
-  MAT  squeeze 96.3/100  (short vol 83.0%)
-  ALHC  squeeze 96.1/100  (short vol 89.1%)
+  IAGG  squeeze 97.5/100  (short vol 95.8%)
+  EFV  squeeze 96.9/100  (short vol 87.6%)
+  SPYM  squeeze 96.8/100  (short vol 79.9%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
