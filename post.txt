@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-24
+Squeeze radar — 2026-07-27
 Highest short-selling pressure:
-  PULS  squeeze 98.0/100  (short vol 90.4%)
-  EFV  squeeze 97.5/100  (short vol 88.5%)
-  DBMF  squeeze 97.4/100  (short vol 92.4%)
+  RIVN  squeeze 98.4/100  (short vol 79.1%)
+  SPTL  squeeze 98.4/100  (short vol 87.0%)
+  HYMB  squeeze 98.2/100  (short vol 92.8%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
