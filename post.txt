@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-27
+Squeeze radar — 2026-07-28
 Highest short-selling pressure:
-  RIVN  squeeze 98.4/100  (short vol 79.1%)
-  SPTL  squeeze 98.4/100  (short vol 87.0%)
-  HYMB  squeeze 98.2/100  (short vol 92.8%)
+  IGV  squeeze 98.9/100  (short vol 86.3%)
+  ICSH  squeeze 98.3/100  (short vol 94.6%)
+  IAGG  squeeze 98.2/100  (short vol 96.7%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
