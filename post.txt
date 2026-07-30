@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-29
+Squeeze radar — 2026-07-30
 Highest short-selling pressure:
-  SWKS  squeeze 98.0/100  (short vol 84.3%)
-  IJH  squeeze 97.9/100  (short vol 85.0%)
-  EWG  squeeze 97.7/100  (short vol 94.0%)
+  SPTL  squeeze 98.7/100  (short vol 89.3%)
+  IGSB  squeeze 98.1/100  (short vol 88.9%)
+  EFV  squeeze 98.0/100  (short vol 91.8%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
