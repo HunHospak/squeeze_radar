@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-30
+Squeeze radar — 2026-07-31
 Highest short-selling pressure:
-  SPTL  squeeze 98.7/100  (short vol 89.3%)
-  IGSB  squeeze 98.1/100  (short vol 88.9%)
-  EFV  squeeze 98.0/100  (short vol 91.8%)
+  SFTY  squeeze 99.0/100  (short vol 99.9%)
+  SFTX  squeeze 98.9/100  (short vol 99.3%)
+  BNDY  squeeze 98.3/100  (short vol 99.9%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
