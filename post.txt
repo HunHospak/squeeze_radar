@@ -1,6 +1,6 @@
-Squeeze radar — 2026-07-31
+Squeeze radar — 2026-08-03
 Highest short-selling pressure:
-  SFTY  squeeze 99.0/100  (short vol 99.9%)
-  SFTX  squeeze 98.9/100  (short vol 99.3%)
-  BNDY  squeeze 98.3/100  (short vol 99.9%)
+  USHY  squeeze 99.0/100  (short vol 93.1%)
+  INDI  squeeze 98.2/100  (short vol 86.4%)
+  GME  squeeze 97.6/100  (short vol 79.8%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
