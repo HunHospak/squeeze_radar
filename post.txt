@@ -1,6 +1,6 @@
-Squeeze radar — 2026-08-05
+Squeeze radar — 2026-08-06
 Highest short-selling pressure:
-  FXI  squeeze 98.7/100  (short vol 92.3%)
-  KBE  squeeze 97.5/100  (short vol 96.7%)
-  USHY  squeeze 97.4/100  (short vol 83.5%)
+  ANGU  squeeze 99.8/100  (short vol 100.0%)
+  EFV  squeeze 98.5/100  (short vol 95.7%)
+  INFY  squeeze 98.2/100  (short vol 82.4%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
