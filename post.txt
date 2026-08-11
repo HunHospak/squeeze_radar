@@ -1,6 +1,6 @@
-Squeeze radar — 2026-08-10
+Squeeze radar — 2026-08-11
 Highest short-selling pressure:
-  TLT  squeeze 98.7/100  (short vol 84.2%)
-  VIXM  squeeze 98.6/100  (short vol 99.1%)
-  SPYM  squeeze 97.9/100  (short vol 82.1%)
+  CGCB  squeeze 99.7/100  (short vol 98.2%)
+  SCCR  squeeze 99.3/100  (short vol 99.4%)
+  XLB  squeeze 97.8/100  (short vol 85.7%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
