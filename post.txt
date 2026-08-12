@@ -1,6 +1,6 @@
-Squeeze radar — 2026-08-11
+Squeeze radar — 2026-08-12
 Highest short-selling pressure:
-  CGCB  squeeze 99.7/100  (short vol 98.2%)
-  SCCR  squeeze 99.3/100  (short vol 99.4%)
-  XLB  squeeze 97.8/100  (short vol 85.7%)
+  SPYM  squeeze 98.4/100  (short vol 87.2%)
+  BAI  squeeze 97.1/100  (short vol 89.8%)
+  CARY  squeeze 97.1/100  (short vol 96.6%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
