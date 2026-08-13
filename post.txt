@@ -1,6 +1,6 @@
-Squeeze radar — 2026-08-12
+Squeeze radar — 2026-08-13
 Highest short-selling pressure:
-  SPYM  squeeze 98.4/100  (short vol 87.2%)
-  BAI  squeeze 97.1/100  (short vol 89.8%)
-  CARY  squeeze 97.1/100  (short vol 96.6%)
+  FBND  squeeze 99.6/100  (short vol 95.7%)
+  HUMA  squeeze 97.8/100  (short vol 79.6%)
+  PGX  squeeze 97.2/100  (short vol 82.9%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
