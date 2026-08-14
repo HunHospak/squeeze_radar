@@ -1,6 +1,6 @@
-Squeeze radar — 2026-08-13
+Squeeze radar — 2026-08-14
 Highest short-selling pressure:
-  FBND  squeeze 99.6/100  (short vol 95.7%)
-  HUMA  squeeze 97.8/100  (short vol 79.6%)
-  PGX  squeeze 97.2/100  (short vol 82.9%)
+  JMUB  squeeze 98.8/100  (short vol 98.1%)
+  NUVB  squeeze 98.8/100  (short vol 89.4%)
+  HUMA  squeeze 98.1/100  (short vol 80.0%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
