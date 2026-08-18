@@ -1,6 +1,6 @@
-Squeeze radar — 2026-08-17
+Squeeze radar — 2026-08-18
 Highest short-selling pressure:
-  EWC  squeeze 98.6/100  (short vol 97.1%)
-  GOSS  squeeze 98.3/100  (short vol 83.0%)
-  AUR  squeeze 98.1/100  (short vol 82.0%)
+  ZROZ  squeeze 98.4/100  (short vol 97.2%)
+  PBTP  squeeze 98.0/100  (short vol 99.6%)
+  CVNA  squeeze 97.9/100  (short vol 83.5%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
