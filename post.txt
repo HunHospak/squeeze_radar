@@ -1,6 +1,6 @@
-Squeeze radar — 2026-08-19
+Squeeze radar — 2026-08-20
 Highest short-selling pressure:
-  BFLX  squeeze 99.6/100  (short vol 99.2%)
-  AVLV  squeeze 99.4/100  (short vol 98.5%)
-  VCIT  squeeze 98.9/100  (short vol 89.9%)
+  GOVT  squeeze 99.0/100  (short vol 88.0%)
+  USIG  squeeze 97.9/100  (short vol 94.1%)
+  KRE  squeeze 96.9/100  (short vol 82.1%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
