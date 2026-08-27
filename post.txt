@@ -1,6 +1,6 @@
-Squeeze radar — 2026-08-25
+Squeeze radar — 2026-08-26
 Highest short-selling pressure:
-  FTMN  squeeze 99.4/100  (short vol 99.7%)
-  SCHO  squeeze 99.4/100  (short vol 96.4%)
-  SPTS  squeeze 99.1/100  (short vol 98.1%)
+  SPTS  squeeze 99.9/100  (short vol 99.2%)
+  VGSH  squeeze 99.8/100  (short vol 97.9%)
+  SCHO  squeeze 99.7/100  (short vol 97.4%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
