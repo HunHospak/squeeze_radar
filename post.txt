@@ -1,6 +1,6 @@
-Squeeze radar — 2026-08-27
+Squeeze radar — 2026-08-28
 Highest short-selling pressure:
-  VGSH  squeeze 99.6/100  (short vol 95.7%)
-  SCHO  squeeze 99.5/100  (short vol 94.8%)
-  SSO  squeeze 98.1/100  (short vol 93.0%)
+  SCHO  squeeze 99.0/100  (short vol 92.4%)
+  SBS  squeeze 98.6/100  (short vol 86.1%)
+  VISN  squeeze 98.6/100  (short vol 85.0%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
