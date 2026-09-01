@@ -1,6 +1,6 @@
-Squeeze radar — 2026-08-31
+Squeeze radar — 2026-09-01
 Highest short-selling pressure:
-  SCHO  squeeze 98.6/100  (short vol 89.6%)
-  BHYB  squeeze 97.9/100  (short vol 100.0%)
-  JEPQ  squeeze 96.9/100  (short vol 82.3%)
+  LMUB  squeeze 98.2/100  (short vol 98.1%)
+  GPUS  squeeze 97.7/100  (short vol 79.6%)
+  SSO  squeeze 97.7/100  (short vol 89.4%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
