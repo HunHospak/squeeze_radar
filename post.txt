@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-04
+Squeeze radar — 2026-09-08
 Highest short-selling pressure:
-  CNI  squeeze 98.6/100  (short vol 98.2%)
-  SPSB  squeeze 98.1/100  (short vol 87.1%)
-  OGN  squeeze 97.6/100  (short vol 95.1%)
+  LASE  squeeze 98.0/100  (short vol 80.4%)
+  SABR  squeeze 96.4/100  (short vol 81.9%)
+  SWKS  squeeze 96.0/100  (short vol 84.8%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
