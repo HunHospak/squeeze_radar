@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-08
+Squeeze radar — 2026-09-09
 Highest short-selling pressure:
-  LASE  squeeze 98.0/100  (short vol 80.4%)
-  SABR  squeeze 96.4/100  (short vol 81.9%)
-  SWKS  squeeze 96.0/100  (short vol 84.8%)
+  IQMM  squeeze 99.2/100  (short vol 99.9%)
+  PTON  squeeze 97.6/100  (short vol 82.4%)
+  LASE  squeeze 97.4/100  (short vol 80.8%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
