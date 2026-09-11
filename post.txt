@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-10
+Squeeze radar — 2026-09-11
 Highest short-selling pressure:
-  DBMF  squeeze 99.5/100  (short vol 97.9%)
-  CNQ  squeeze 99.4/100  (short vol 96.3%)
-  PTON  squeeze 98.1/100  (short vol 88.4%)
+  RWT  squeeze 98.5/100  (short vol 83.4%)
+  PDBA  squeeze 98.3/100  (short vol 99.4%)
+  SKOR  squeeze 98.0/100  (short vol 99.0%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
