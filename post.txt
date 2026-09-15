@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-11
+Squeeze radar — 2026-09-14
 Highest short-selling pressure:
-  RWT  squeeze 98.5/100  (short vol 83.4%)
-  PDBA  squeeze 98.3/100  (short vol 99.4%)
-  SKOR  squeeze 98.0/100  (short vol 99.0%)
+  BGFI  squeeze 99.8/100  (short vol 100.0%)
+  ABI  squeeze 99.7/100  (short vol 100.0%)
+  SMTH  squeeze 99.6/100  (short vol 97.9%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
