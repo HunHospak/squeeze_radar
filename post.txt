@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-16
+Squeeze radar — 2026-09-17
 Highest short-selling pressure:
-  SHLD  squeeze 97.8/100  (short vol 94.2%)
-  IGSB  squeeze 97.7/100  (short vol 86.6%)
-  SCHQ  squeeze 97.5/100  (short vol 91.0%)
+  PYLD  squeeze 97.7/100  (short vol 84.9%)
+  CRWV  squeeze 97.3/100  (short vol 78.7%)
+  DVLT  squeeze 95.8/100  (short vol 75.7%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
