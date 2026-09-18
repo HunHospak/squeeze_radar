@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-17
+Squeeze radar — 2026-09-18
 Highest short-selling pressure:
-  PYLD  squeeze 97.7/100  (short vol 84.9%)
-  CRWV  squeeze 97.3/100  (short vol 78.7%)
-  DVLT  squeeze 95.8/100  (short vol 75.7%)
+  SPTL  squeeze 98.9/100  (short vol 88.6%)
+  HALO  squeeze 98.8/100  (short vol 92.3%)
+  VCSH  squeeze 97.9/100  (short vol 87.4%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
