@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-18
+Squeeze radar — 2026-09-21
 Highest short-selling pressure:
-  SPTL  squeeze 98.9/100  (short vol 88.6%)
-  HALO  squeeze 98.8/100  (short vol 92.3%)
-  VCSH  squeeze 97.9/100  (short vol 87.4%)
+  IUSB  squeeze 98.2/100  (short vol 87.8%)
+  IXUS  squeeze 97.7/100  (short vol 89.8%)
+  MAGS  squeeze 97.4/100  (short vol 85.6%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
