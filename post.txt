@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-21
+Squeeze radar — 2026-09-22
 Highest short-selling pressure:
-  IUSB  squeeze 98.2/100  (short vol 87.8%)
-  IXUS  squeeze 97.7/100  (short vol 89.8%)
-  MAGS  squeeze 97.4/100  (short vol 85.6%)
+  CORO  squeeze 99.8/100  (short vol 99.0%)
+  ACWX  squeeze 99.6/100  (short vol 97.9%)
+  BLCR  squeeze 99.6/100  (short vol 98.5%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
