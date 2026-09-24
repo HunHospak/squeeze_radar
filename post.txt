@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-22
+Squeeze radar — 2026-09-23
 Highest short-selling pressure:
-  CORO  squeeze 99.8/100  (short vol 99.0%)
-  ACWX  squeeze 99.6/100  (short vol 97.9%)
-  BLCR  squeeze 99.6/100  (short vol 98.5%)
+  BLCR  squeeze 97.6/100  (short vol 95.1%)
+  IUSB  squeeze 96.4/100  (short vol 79.2%)
+  KRE  squeeze 96.2/100  (short vol 81.4%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
