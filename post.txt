@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-23
+Squeeze radar — 2026-09-24
 Highest short-selling pressure:
-  BLCR  squeeze 97.6/100  (short vol 95.1%)
-  IUSB  squeeze 96.4/100  (short vol 79.2%)
-  KRE  squeeze 96.2/100  (short vol 81.4%)
+  IAGG  squeeze 98.6/100  (short vol 94.3%)
+  SPSB  squeeze 97.6/100  (short vol 85.2%)
+  IQQ  squeeze 97.5/100  (short vol 97.9%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
