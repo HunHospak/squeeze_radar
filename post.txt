@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-29
+Squeeze radar — 2026-09-30
 Highest short-selling pressure:
-  VCLT  squeeze 98.7/100  (short vol 87.3%)
-  SPHY  squeeze 98.1/100  (short vol 84.2%)
-  INDI  squeeze 97.5/100  (short vol 85.8%)
+  FSM  squeeze 99.5/100  (short vol 97.0%)
+  FLGV  squeeze 98.8/100  (short vol 99.1%)
+  XLC  squeeze 97.7/100  (short vol 90.5%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
