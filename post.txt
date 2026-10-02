@@ -1,6 +1,6 @@
-Squeeze radar — 2026-09-30
+Squeeze radar — 2026-10-01
 Highest short-selling pressure:
-  FSM  squeeze 99.5/100  (short vol 97.0%)
-  FLGV  squeeze 98.8/100  (short vol 99.1%)
-  XLC  squeeze 97.7/100  (short vol 90.5%)
+  USFR  squeeze 98.4/100  (short vol 86.8%)
+  IALT  squeeze 98.0/100  (short vol 91.6%)
+  SGOV  squeeze 97.0/100  (short vol 77.8%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
