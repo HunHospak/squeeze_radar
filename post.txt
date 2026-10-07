@@ -1,6 +1,6 @@
-Squeeze radar — 2026-10-05
+Squeeze radar — 2026-10-06
 Highest short-selling pressure:
-  AFIF  squeeze 99.1/100  (short vol 97.8%)
-  MDT  squeeze 98.6/100  (short vol 84.9%)
-  DDFG  squeeze 97.0/100  (short vol 99.6%)
+  FTCA  squeeze 99.4/100  (short vol 99.4%)
+  AFIF  squeeze 98.4/100  (short vol 95.4%)
+  SKYD  squeeze 98.0/100  (short vol 82.4%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
