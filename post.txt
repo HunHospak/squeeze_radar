@@ -1,6 +1,6 @@
-Squeeze radar — 2026-10-06
+Squeeze radar — 2026-10-07
 Highest short-selling pressure:
-  FTCA  squeeze 99.4/100  (short vol 99.4%)
-  AFIF  squeeze 98.4/100  (short vol 95.4%)
-  SKYD  squeeze 98.0/100  (short vol 82.4%)
+  SKYD  squeeze 99.0/100  (short vol 86.4%)
+  INFY  squeeze 96.8/100  (short vol 79.5%)
+  NEOG  squeeze 96.3/100  (short vol 82.0%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
