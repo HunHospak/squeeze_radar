@@ -1,6 +1,6 @@
-Squeeze radar — 2026-10-08
+Squeeze radar — 2026-10-09
 Highest short-selling pressure:
-  SPYM  squeeze 99.3/100  (short vol 91.9%)
-  SPAB  squeeze 99.0/100  (short vol 89.5%)
-  FLRN  squeeze 98.3/100  (short vol 96.4%)
+  SPYM  squeeze 99.7/100  (short vol 95.2%)
+  KRE  squeeze 98.3/100  (short vol 89.2%)
+  VCSH  squeeze 98.1/100  (short vol 87.3%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
