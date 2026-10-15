@@ -1,6 +1,6 @@
-Squeeze radar — 2026-10-13
+Squeeze radar — 2026-10-14
 Highest short-selling pressure:
-  SCMB  squeeze 99.8/100  (short vol 96.0%)
-  IWF  squeeze 97.9/100  (short vol 86.4%)
-  VT  squeeze 97.9/100  (short vol 89.5%)
+  BD  squeeze 98.9/100  (short vol 97.2%)
+  SKYD  squeeze 97.7/100  (short vol 78.2%)
+  RINK  squeeze 97.3/100  (short vol 95.9%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
