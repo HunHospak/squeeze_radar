@@ -1,6 +1,6 @@
-Squeeze radar — 2026-10-22
+Squeeze radar — 2026-10-23
 Highest short-selling pressure:
-  HDV  squeeze 98.1/100  (short vol 87.8%)
-  IEF  squeeze 97.7/100  (short vol 83.1%)
-  URG  squeeze 97.5/100  (short vol 79.0%)
+  JCPB  squeeze 99.6/100  (short vol 93.6%)
+  STLA  squeeze 97.8/100  (short vol 80.7%)
+  RY  squeeze 97.6/100  (short vol 96.4%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
