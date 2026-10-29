@@ -1,6 +1,6 @@
-Squeeze radar — 2026-10-27
+Squeeze radar — 2026-10-28
 Highest short-selling pressure:
-  AFIF  squeeze 99.7/100  (short vol 98.6%)
-  SCHP  squeeze 99.6/100  (short vol 95.3%)
-  SIXP  squeeze 98.6/100  (short vol 100.0%)
+  USHY  squeeze 99.2/100  (short vol 89.0%)
+  EPRT  squeeze 98.9/100  (short vol 92.4%)
+  FALN  squeeze 97.1/100  (short vol 86.9%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
