@@ -1,6 +1,6 @@
-Squeeze radar — 2026-10-29
+Squeeze radar — 2026-10-30
 Highest short-selling pressure:
-  SID  squeeze 98.1/100  (short vol 86.3%)
-  VCIT  squeeze 97.8/100  (short vol 82.5%)
-  PDBC  squeeze 97.7/100  (short vol 84.6%)
+  IEF  squeeze 98.4/100  (short vol 83.1%)
+  USHY  squeeze 98.3/100  (short vol 81.7%)
+  XRX  squeeze 97.7/100  (short vol 78.7%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
