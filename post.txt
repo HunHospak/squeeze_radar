@@ -1,6 +1,6 @@
-Squeeze radar — 2026-11-03
+Squeeze radar — 2026-11-04
 Highest short-selling pressure:
-  SPDW  squeeze 97.5/100  (short vol 83.6%)
-  VUSB  squeeze 97.4/100  (short vol 86.3%)
-  IEF  squeeze 96.8/100  (short vol 79.2%)
+  VCLT  squeeze 99.1/100  (short vol 90.0%)
+  XLY  squeeze 98.4/100  (short vol 87.1%)
+  SBND  squeeze 97.9/100  (short vol 99.3%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
