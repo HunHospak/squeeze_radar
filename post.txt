@@ -1,6 +1,6 @@
-Squeeze radar — 2026-11-05
+Squeeze radar — 2026-11-06
 Highest short-selling pressure:
-  INDA  squeeze 99.4/100  (short vol 90.5%)
-  HDV  squeeze 97.9/100  (short vol 85.1%)
-  VGIT  squeeze 97.0/100  (short vol 80.1%)
+  SPAB  squeeze 99.1/100  (short vol 90.0%)
+  SPDW  squeeze 98.9/100  (short vol 88.8%)
+  XRX  squeeze 97.6/100  (short vol 81.5%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
