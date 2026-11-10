@@ -1,6 +1,6 @@
-Squeeze radar — 2026-11-06
+Squeeze radar — 2026-11-09
 Highest short-selling pressure:
-  SPAB  squeeze 99.1/100  (short vol 90.0%)
-  SPDW  squeeze 98.9/100  (short vol 88.8%)
-  XRX  squeeze 97.6/100  (short vol 81.5%)
+  SPTL  squeeze 99.0/100  (short vol 87.1%)
+  SPYM  squeeze 98.3/100  (short vol 81.9%)
+  SCHI  squeeze 97.9/100  (short vol 89.3%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
