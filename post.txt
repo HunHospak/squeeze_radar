@@ -1,6 +1,6 @@
-Squeeze radar — 2026-11-09
+Squeeze radar — 2026-11-10
 Highest short-selling pressure:
-  SPTL  squeeze 99.0/100  (short vol 87.1%)
-  SPYM  squeeze 98.3/100  (short vol 81.9%)
-  SCHI  squeeze 97.9/100  (short vol 89.3%)
+  FTCA  squeeze 98.4/100  (short vol 96.8%)
+  URG  squeeze 97.5/100  (short vol 78.6%)
+  QUAL  squeeze 96.9/100  (short vol 83.6%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
