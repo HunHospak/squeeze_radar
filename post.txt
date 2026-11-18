@@ -1,6 +1,6 @@
-Squeeze radar — 2026-11-16
+Squeeze radar — 2026-11-17
 Highest short-selling pressure:
-  TAFM  squeeze 99.5/100  (short vol 97.1%)
-  FLRN  squeeze 98.6/100  (short vol 95.9%)
-  ERIC  squeeze 97.9/100  (short vol 85.5%)
+  IQQ  squeeze 99.6/100  (short vol 96.8%)
+  BBLX  squeeze 99.0/100  (short vol 100.0%)
+  SIMI  squeeze 98.5/100  (short vol 100.0%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
