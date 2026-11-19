@@ -1,6 +1,6 @@
-Squeeze radar — 2026-11-17
+Squeeze radar — 2026-11-18
 Highest short-selling pressure:
-  IQQ  squeeze 99.6/100  (short vol 96.8%)
-  BBLX  squeeze 99.0/100  (short vol 100.0%)
-  SIMI  squeeze 98.5/100  (short vol 100.0%)
+  BFLX  squeeze 99.8/100  (short vol 97.6%)
+  IEUR  squeeze 99.3/100  (short vol 97.5%)
+  RSPH  squeeze 98.7/100  (short vol 96.6%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
