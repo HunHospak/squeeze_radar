@@ -1,6 +1,6 @@
-Squeeze radar — 2026-11-20
+Squeeze radar — 2026-11-23
 Highest short-selling pressure:
-  SCHP  squeeze 99.7/100  (short vol 94.8%)
-  VGIT  squeeze 97.5/100  (short vol 77.7%)
-  APG  squeeze 97.2/100  (short vol 88.3%)
+  SES  squeeze 98.3/100  (short vol 79.1%)
+  ABAT  squeeze 98.0/100  (short vol 82.9%)
+  SCHX  squeeze 98.0/100  (short vol 79.5%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
