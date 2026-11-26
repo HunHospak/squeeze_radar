@@ -23,8 +23,13 @@ def _percentiles(values: List[float]) -> List[float]:
         return [100.0]
     order = sorted(range(n), key=lambda i: values[i])
     pct = [0.0] * n
+    lower_rank = 0
+    previous = None
     for rank, i in enumerate(order):
-        pct[i] = 100.0 * rank / (n - 1)
+        if values[i] != previous:
+            lower_rank = rank
+            previous = values[i]
+        pct[i] = 100.0 * lower_rank / (n - 1)
     return pct
 
 
