@@ -1,6 +1,6 @@
-Squeeze radar — 2026-11-24
+Squeeze radar — 2026-11-25
 Highest short-selling pressure:
-  SPTI  squeeze 98.6/100  (short vol 88.9%)
-  XRX  squeeze 98.3/100  (short vol 81.7%)
-  SECU  squeeze 97.8/100  (short vol 99.2%)
+  RIG  squeeze 99.6/100  (short vol 88.5%)
+  IWF  squeeze 97.5/100  (short vol 80.8%)
+  SPYM  squeeze 97.5/100  (short vol 76.9%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
