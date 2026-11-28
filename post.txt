@@ -1,6 +1,6 @@
-Squeeze radar — 2026-11-25
+Squeeze radar — 2026-11-27
 Highest short-selling pressure:
-  RIG  squeeze 99.6/100  (short vol 88.5%)
-  IWF  squeeze 97.5/100  (short vol 80.8%)
-  SPYM  squeeze 97.5/100  (short vol 76.9%)
+  B  squeeze 98.8/100  (short vol 86.4%)
+  ABNB  squeeze 97.4/100  (short vol 87.6%)
+  DFCF  squeeze 97.1/100  (short vol 82.5%)
 From FINRA regulatory data · not investment advice · arkenlabs.eu
